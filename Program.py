@@ -23,7 +23,8 @@ v0.6.0: Slight changes to the grading system and mathematical model.
 v0.6.1: Fixed TypeError when entering a text value for population density.
 v0.6.2: See those bugs, no? Well, they are gone!
 v0.6.3: Updated to support Windows and macOS alongside Linux.
-v1.0.0: Worldwide Public Release on Github! 
+v1.0.0: Worldwide Public Release on Github!
+v1.0.1: See those bugs, no? Well, they are gone!
 
 Current Edition: v1.0.0"""
 
