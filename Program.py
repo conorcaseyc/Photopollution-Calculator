@@ -26,7 +26,7 @@ v0.6.3: Updated to support Windows and macOS alongside Linux.
 v1.0.0: Worldwide Public Release on Github!
 v1.0.1: See those bugs, no? Well, they are gone!
 
-Current Edition: v1.0.0"""
+Current Edition: v1.0.1"""
 
 def main():
 	#Imports Population Density Data from the Central Statistics Office
