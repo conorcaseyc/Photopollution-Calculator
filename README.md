@@ -8,6 +8,7 @@ How do I run this program?
 First, you need to unzip the folder downloaded from GitHub after that its as simple as running a Python 2 script. Run Program.py
 If you don't know how to do that, please visit the relevant link below and follow the instruction for your particular operating system:
 https://en.wikibooks.org/wiki/Python_Programming/Creating_Python_Programs
+
 Please also ensure the Pandas module is installed, you can download this module at the link below:
 https://pandas.pydata.org/pandas-docs/stable/install.html
 If you have any problems, please contact the developer at 16ccasey@student.kenmarecs.com
