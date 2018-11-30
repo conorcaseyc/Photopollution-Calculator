@@ -6,7 +6,8 @@ Welcome to the Photopollution Calculator for Munster. This program is based on t
 
 **How do I run this program?**
 
-First, you need to unzip the folder downloaded from GitHub after that its as simple as running a Python 2 script. Run Program.py
+First, you need to unzip the folder downloaded from GitHub after that its as simple as running a Python 2 script. Run the file Program.py to get the program running.
+
 If you don't know how to do that, please visit the relevant link below and follow the instruction for your particular operating system:
 https://en.wikibooks.org/wiki/Python_Programming/Creating_Python_Programs
 
