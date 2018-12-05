@@ -27,7 +27,7 @@ v1.0.0: Worldwide Public Release on Github!
 v1.0.1: Day 1 Bug Patch.
 v1.1.0: Let's Get Py Crazy! update.
 
-Current Edition: v1.0.1"""
+Current Edition: v1.1.0"""
 
 def main():
 	#Imports Population Density Data from the Central Statistics Office
