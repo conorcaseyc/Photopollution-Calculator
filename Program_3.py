@@ -26,8 +26,9 @@ v0.6.3: Updated to support Windows and macOS alongside Linux.
 v1.0.0: Worldwide Public Release on Github!
 v1.0.1: Day 1 Bug Patch.
 v1.1.0: Let's Get Py Crazy! update.
+v1.1.1: Small Changes and Fixes
 
-Current Edition: v1.1.0""")
+Current Edition: v1.1.1""")
 
 def main():
 	#Imports Population Density Data from the Central Statistics Office
