@@ -14,9 +14,6 @@ print lux
 #Finds the formula to describe the correlation between population density and photopollution
 p1 = polyfit(population_density,lux,1)
 print(p1)
-#Finds the formula to describe the correlation between population and photopollution
-p2 = polyfit(population,lux,1)
-print(p2)
 
 #Finds the correlation coefficient in the case of population density
 slope,intercept,r_value,p_value,std_err = linregress(population_density,lux)
@@ -43,3 +40,13 @@ for i in deviation_array:
 sqaured_deviation /= len(lux) - 1
 standard_deviation = sqaured_deviation ** 0.5
 print standard_deviation
+
+#Plotting Graphs
+#Mean LUX Values Scattering Plot
+scatter(population_density,lux)
+title("Mean LUX Values (All Sites)")
+xlabel("Population Density (people per km^2)")
+ylabel("LUX Values")
+plot(unique(population_density), poly1d(p1)(unique(population_density)))
+text(0,100, "r = " + str(round(correlation, 3)))
+show()
