@@ -29,8 +29,9 @@ v1.1.0: Let's Get Py Crazy! update.
 v1.1.1: Small Changes and Fixes
 v1.2.0: Major Changes to Data Calculations
 v1.5.0: Fin 2018 update
+v1.5.1: Emergency Bug Fix Update
 
-Current Edition: v1.5.0""")
+Current Edition: v1.5.1""")
 
 def main():
 	#Imports Population Density Data from the Central Statistics Office
