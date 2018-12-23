@@ -18,11 +18,18 @@ If you have any problems, please contact the developer at 16ccasey@student.kenma
 
 **Where did the population density for the towns come from?**
 
-They came from the 2016 Census, and as a result are provided by the Central Statistics Office. (Nerdy point: The population density file is formatted as a CSV file.)
+They came from the Irish 2016 Census, and as a result are provided by the Central Statistics Office.
 
 **Why does the program crash when I enter a town name into the program?**
 
 This is most likely due to the fact that you entered a town that is not included in the Central Statistics Office database for population density. There is also a probability you typed "license", "quit", or "help" into the section where you are asked to input a town name. These options can only be accessed when you are prompted "Is the name of the town being entered:".
-
-Any other questions, want to report a bug, or just general feedback, please email the developer at 16ccasey@student.kenmarecs.com  
   
+**How do I open the files in the Map Data folder**
+
+All these files can be opened using a program called, QGIS (previously known as Quantum GIS). QGIS is a free and open-source cross-platform desktop geographic information system (GIS) program that supports viewing, editing, and analysis of geospatial data. This program can be downloaded at the link below.
+
+https://qgis.org/en/site/forusers/download.html
+
+**Questions, or any other problems?**
+
+Any other questions, want to report a bug, or just general feedback, please email me at 16ccasey@student.kenmarecs.com  
