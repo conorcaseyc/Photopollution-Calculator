@@ -1,0 +1,3442 @@
+ Electoral_Area,PD
+"001 Carlow Urban, Co. Carlow",2551.7
+"002 Graigue Urban, Co. Carlow",2929.3
+"003 Clonmore, Co. Carlow",18.8
+"004 Hacketstown, Co. Carlow",51
+"005 Haroldstown, Co. Carlow",25.8
+"006 Kineagh, Co. Carlow",19.2
+"007 Rahill, Co. Carlow",44.6
+"008 Rathvilly, Co. Carlow",69.3
+"009 Tiknock, Co. Carlow",31
+"010 Williamstown, Co. Carlow",18.3
+"011 Agha, Co. Carlow",32.1
+"012 Ballinacarrig (Part Urban), Co. Carlow",63.7
+"013 Ballintemple, Co. Carlow",20
+"014 Ballon, Co. Carlow",73.4
+"015 Ballyellin, Co. Carlow",27.2
+"016 Ballymoon, Co. Carlow",24.5
+"017 Borris, Co. Carlow",66.2
+"018 Burton Hall, Co. Carlow",86.2
+"019 Carlow Rural (Part Urban), Co Carlow",667.7
+"020 Clogrenan, Co. Carlow",59
+"021 Clonegall, Co. Carlow",43.6
+"022 Corries, Co. Carlow",30.6
+"023 Cranemore, Co. Carlow",30.3
+"024 Fennagh, Co. Carlow",41.4
+"025 Garryhill, Co. Carlow",24.5
+"026 Grangeford, Co. Carlow",33
+"027 Johnstown, Co. Carlow",37.9
+"028 Kellistown, Co. Carlow",48.8
+"029 Kilbride, Co. Carlow",30.2
+"030 Killedmond, Co. Carlow",21.6
+"031 Killerrig, Co. Carlow",33.7
+"032 Leighlinbridge, Co. Carlow",67
+"033 Muinebeag (Bagenalstown) Rural, Co. Carlow",44.2
+"034 Muinebeag (Bagenalstown) Urban, Co. Carlow",951.4
+"035 Myshall, Co. Carlow",34.4
+"036 Nurney, Co. Carlow",35.9
+"037 Oldleighlin, Co. Carlow",29.9
+"038 Rathanna, Co. Carlow",5.2
+"039 Rathornan, Co. Carlow",22.5
+"040 Rathrush, Co. Carlow",47.5
+"041 Ridge, Co. Carlow",17
+"042 Shangarry, Co. Carlow",25.7
+"043 Sliguff, Co. Carlow",33.9
+"044 Tankardstown, Co. Carlow",26.1
+"045 Templepeter, Co. Carlow",27.9
+"046 Tullowbeg, Co. Carlow",51.9
+"047 Tullow Rural, Co. Carlow",61.5
+"048 Tullow Urban, Co. Carlow",1188.6
+"049 Ballymurphy, Co. Carlow",15.3
+"050 Coonogue, Co. Carlow",13.7
+"051 Glynn, Co. Carlow",16.9
+"052 Kyle, Co. Carlow",19.1
+"053 Marley, Co. Carlow",26.3
+"054 Tinnahinch, Co. Carlow",47.8
+"001 Arran Quay A, Dublin City",11652
+"002 Arran Quay B, Dublin City",5488.3
+"003 Arran Quay C, Dublin City",12391.7
+"004 Arran Quay D, Dublin City",9007.8
+"005 Arran Quay E, Dublin City",12455
+"006 Ashtown A, Dublin City",5380.6
+"007 Ashtown B, Dublin City",4440.7
+"008 Ayrfield, Dublin City",6312.3
+"009 Ballybough A, Dublin City",10882.4
+"010 Ballybough B, Dublin City",10717.4
+"011 Ballygall A, Dublin City",7451.5
+"012 Ballygall B, Dublin City",3396.4
+"013 Ballygall C, Dublin City",3551.2
+"014 Ballygall D, Dublin City",5838.7
+"015 Ballymun A, Dublin City",5061.3
+"016 Ballymun B, Dublin City",6601.7
+"017 Ballymun C, Dublin City",7905.7
+"018 Ballymun D, Dublin City",5203.5
+"019 Ballymun E, Dublin City",4406.7
+"020 Ballymun F, Dublin City",5392.6
+"021 Beaumont A, Dublin City",4801.8
+"022 Beaumont B, Dublin City",5837.7
+"023 Beaumont C, Dublin City",5448
+"024 Beaumont D, Dublin City",4575.3
+"025 Beaumont E, Dublin City",6512.4
+"026 Beaumont F, Dublin City",6606.8
+"027 Botanic A, Dublin City",2451.8
+"028 Botanic B, Dublin City",7138.7
+"029 Botanic C, Dublin City",7564.1
+"030 Cabra East A, Dublin City",4109.8
+"031 Cabra East B, Dublin City",8020
+"032 Cabra East C, Dublin City",8947.8
+"033 Cabra West A, Dublin City",3405.5
+"034 Cabra West B, Dublin City",5685.6
+"035 Cabra West C, Dublin City",5148.1
+"036 Cabra West D, Dublin City",4736.6
+"037 Clontarf East A, Dublin City",1626.4
+"038 Clontarf East B, Dublin City",2056.5
+"039 Clontarf East C, Dublin City",3845.2
+"040 Clontarf East D, Dublin City",4413.5
+"041 Clontarf East E, Dublin City",4400.4
+"042 Clontarf West A, Dublin City",5211.1
+"043 Clontarf West B, Dublin City",6105.1
+"044 Clontarf West C, Dublin City",3485.8
+"045 Clontarf West D, Dublin City",2834
+"046 Clontarf West E, Dublin City",7587.9
+"047 Drumcondra South A, Dublin City",4917.6
+"048 Drumcondra South B, Dublin City",5120.4
+"049 Drumcondra South C, Dublin City",4738.4
+"050 Edenmore, Dublin City",4886.3
+"051 Finglas North A, Dublin City",4591.3
+"052 Finglas North B, Dublin City",4438.9
+"053 Finglas North C, Dublin City",3121.4
+"054 Finglas South A, Dublin City",4964.7
+"055 Finglas South B, Dublin City",4270.7
+"056 Finglas South C, Dublin City",7266.4
+"057 Finglas South D, Dublin City",5627
+"058 Grace Park, Dublin City",4669.3
+"059 Grange A, Dublin City",5816.5
+"060 Grange B, Dublin City",4664.8
+"061 Grange C, Dublin City",6481.9
+"062 Grange D, Dublin City",6046.7
+"063 Grange E, Dublin City",4880.3
+"064 Harmonstown A, Dublin City",4608.3
+"065 Harmonstown B, Dublin City",4808.3
+"066 Inns Quay A, Dublin City",12595
+"067 Inns Quay B, Dublin City",13271.8
+"068 Inns Quay C, Dublin City",9994.5
+"069 Kilmore A, Dublin City",4734.2
+"070 Kilmore B, Dublin City",5606.4
+"071 Kilmore C, Dublin City",2825.9
+"072 Kilmore D, Dublin City",3909.3
+"073 Mountjoy A, Dublin City",18024.7
+"074 Mountjoy B, Dublin City",17720.5
+"075 North City, Dublin City",10540.9
+"076 North Dock A, Dublin City",9960.3
+"077 North Dock B, Dublin City",2350.7
+"078 North Dock C, Dublin City",7988.6
+"079 Phoenix Park, Dublin City",212.4
+"080 Priorswood A, Dublin City",935.6
+"081 Priorswood B, Dublin City",5936.7
+"082 Priorswood C, Dublin City",5511.5
+"083 Priorswood D, Dublin City",3518.4
+"084 Priorswood E, Dublin City",6963.2
+"085 Raheny-Foxfield, Dublin City",4255.4
+"086 Raheny-Greendale, Dublin City",4948.7
+"087 Raheny-St. Assam, Dublin City",1556.7
+"088 Rotunda A, Dublin City",23926.4
+"089 Rotunda B, Dublin City",11795.5
+"090 Whitehall A, Dublin City",2497.1
+"091 Whitehall B, Dublin City",5489.7
+"092 Whitehall C, Dublin City",2933.5
+"093 Whitehall D, Dublin City",5050.3
+"094 Chapelizod, Dublin City",2808.9
+"095 Cherry Orchard A, Dublin City",3322.7
+"096 Carna, Dublin City",4953.4
+"097 Cherry Orchard C, Dublin City",3228.2
+"098 Crumlin A, Dublin City",6948.1
+"099 Crumlin B, Dublin City",4002.2
+"100 Crumlin C, Dublin City",4737.4
+"101 Crumlin D, Dublin City",6981
+"102 Crumlin E, Dublin City",7407.8
+"103 Crumlin F, Dublin City",7480.9
+"104 Decies, Dublin City",8450.2
+"105 Drumfinn, Dublin City",4358.9
+"106 Inchicore A, Dublin City",2421.8
+"107 Inchicore B, Dublin City",2782.1
+"108 Kilmainham A, Dublin City",10013.8
+"109 Kilmainham B, Dublin City",3133.6
+"110 Kilmainham C, Dublin City",9014.9
+"111 Kimmage A, Dublin City",7094.3
+"112 Kimmage B, Dublin City",8320
+"113 Kimmage C, Dublin City",3265.2
+"114 Kimmage D, Dublin City",5864.2
+"115 Kimmage E, Dublin City",5168.6
+"116 Kylemore, Dublin City",4635.3
+"117 Mansion House A, Dublin City",7436
+"118 Mansion House B, Dublin City",2050.3
+"119 Merchants Quay A, Dublin City",15134.5
+"120 Merchants Quay B, Dublin City",16433.5
+"121 Merchants Quay C, Dublin City",10771.9
+"122 Merchants Quay D, Dublin City",9905.6
+"123 Merchants Quay E, Dublin City",11195.6
+"124 Merchants Quay F, Dublin City",7327.1
+"125 Pembroke East A, Dublin City",2405.6
+"126 Pembroke East B, Dublin City",5652.3
+"127 Pembroke East C, Dublin City",4471.2
+"128 Pembroke East D, Dublin City",2865.6
+"129 Pembroke East E, Dublin City",3301.3
+"130 Pembroke West A, Dublin City",8011.6
+"131 Pembroke West B, Dublin City",4156.4
+"132 Pembroke West C, Dublin City",7281
+"133 Rathfarnham, Dublin City",3846
+"134 Rathmines East A, Dublin City",6989.8
+"135 Rathmines East B, Dublin City",4876.9
+"136 Rathmines East C, Dublin City",4563.3
+"137 Rathmines East D, Dublin City",7673.5
+"138 Rathmines West A, Dublin City",8371.3
+"139 Rathmines West B, Dublin City",11112.6
+"140 Rathmines West C, Dublin City",6366.8
+"141 Rathmines West D, Dublin City",8330.3
+"142 Rathmines West E, Dublin City",7477.1
+"143 Rathmines West F, Dublin City",6580.4
+"144 Royal Exchange A, Dublin City",10272.1
+"145 Royal Exchange B, Dublin City",9406
+"146 St. Kevin's, Dublin City",8292.4
+"147 South Dock, Dublin City",7929.8
+"148 Terenure A, Dublin City",6918.3
+"149 Terenure B, Dublin City",6522
+"150 Terenure C, Dublin City",2658.8
+"151 Terenure D, Dublin City",1775.2
+"152 Ushers A, Dublin City",5693.3
+"153 Ushers B, Dublin City",5153.4
+"154 Ushers C, Dublin City",10000
+"155 Ushers D, Dublin City",14833.3
+"156 Ushers E, Dublin City",8162.5
+"157 Ushers F, Dublin City",7693.3
+"158 Walkinstown A, Dublin City",2809.8
+"159 Walkinstown B, Dublin City",5474.7
+"160 Walkinstown C, Dublin City",4787.1
+"161 Wood Quay A, Dublin City",15224.1
+"162 Wood Quay B, Dublin City",11606.5
+"001 Ballinascorney, South Dublin",38.3
+"002 Ballyboden, South Dublin",4095.7
+"003 Bohernabreena, South Dublin",103.6
+"004 Clondalkin-Ballymount, South Dublin",657
+"005 Clondalkin-Cappaghmore, South Dublin",1270.7
+"006 Clondalkin-Dunawley, South Dublin",2418.9
+"007 Clondalkin-Monastery, South Dublin",2906.7
+"008 Clondalkin-Moorfield, South Dublin",2873.7
+"009 Clondalkin-Rowlagh, South Dublin",5623.9
+"010 Clondalkin Village, South Dublin",1555.7
+"011 Edmondstown, South Dublin",1361.7
+"012 Firhouse-Ballycullen, South Dublin",2897.4
+"013 Firhouse-Knocklyon, South Dublin",3146.1
+"014 Firhouse Village, South Dublin",5080.4
+"015 Lucan-Esker, South Dublin",5028.9
+"016 Lucan Heights, South Dublin",1471.2
+"017 Lucan-St. Helen's, South Dublin",1090.6
+"018 Newcastle, South Dublin",133.3
+"019 Palmerston Village, South Dublin",3104.1
+"020 Palmerston West, South Dublin",1964.3
+"021 Rathcoole, South Dublin",324.7
+"022 Rathfarnham-Ballyroan, South Dublin",3854.9
+"023 Rathfarnham-Butterfield, South Dublin",4337.6
+"024 Rathfarnham-Hermitage, South Dublin",5887.2
+"025 Rathfarnham-St. Enda's, South Dublin",3624.3
+"026 Rathfarnham Village, South Dublin",4063.4
+"027 Saggart, South Dublin",351.6
+"028 Tallaght-Avonbeg, South Dublin",4260.5
+"029 Tallaght-Belgard, South Dublin",619.2
+"030 Tallaght-Fettercairn, South Dublin",1841.2
+"031 Tallaght-Glenview, South Dublin",4807.5
+"032 Tallaght-Jobstown, South Dublin",6547.7
+"033 Tallaght-Killinardan, South Dublin",5337.7
+"034 Tallaght-Kilnamanagh, South Dublin",2055.6
+"035 Tallaght-Kiltipper, South Dublin",5136.2
+"036 Tallaght-Kingswood, South Dublin",2357.8
+"037 Tallaght-Millbrook, South Dublin",5324.6
+"038 Tallaght-Oldbawn, South Dublin",3146.7
+"039 Tallaght-Springfield, South Dublin",5253.9
+"040 Tallaght-Tymon, South Dublin",2501.7
+"041 Templeogue-Cypress, South Dublin",3776.9
+"042 Templeogue-Kimmage Manor, South Dublin",4467.1
+"043 Templeogue-Limekiln, South Dublin",3213.1
+"044 Templeogue-Orwell, South Dublin",4376.6
+"045 Templeogue-Osprey, South Dublin",1639.9
+"046 Templeogue Village, South Dublin",4102.7
+"047 Terenure-Cherryfield, South Dublin",4740.2
+"048 Terenure-Greentrees, South Dublin",4330
+"049 Terenure-St. James, South Dublin",3962.6
+"001 Airport, Fingal",580.6
+"002 Balbriggan Rural, Fingal",645
+"003 Balbriggan Urban, Fingal",3693.7
+"004 Baldoyle, Fingal",2820.4
+"005 Balgriffin, Fingal",302.4
+"006 Ballyboghil, Fingal",60
+"007 Balscadden, Fingal",44.5
+"008 Blanchardstown-Abbotstown, Fingal",871.3
+"009 Blanchardstown-Blakestown, Fingal",4967.5
+"010 Blanchardstown-Coolmine, Fingal",4122.3
+"011 Blanchardstown-Corduff, Fingal",2690.8
+"012 Blanchardstown-Delwood, Fingal",5196.6
+"013 Blanchardstown-Mulhuddart, Fingal",2265.1
+"014 Blanchardstown-Roselawn, Fingal",3662.7
+"015 Blanchardstown-Tyrrelstown, Fingal",839.8
+"016 Castleknock-Knockmaroon, Fingal",2758.3
+"017 Castleknock-Park, Fingal",2220.7
+"018 Clonmethan, Fingal",50.1
+"019 Donabate, Fingal",388.6
+"020 Dubber, Fingal",412
+"021 Garristown, Fingal",46
+"022 Hollywood, Fingal",46.8
+"023 Holmpatrick, Fingal",131.1
+"024 Howth, Fingal",765.4
+"025 Kilsallaghan, Fingal",82.2
+"026 Kinsaley, Fingal",863.3
+"027 Lucan North, Fingal",154.6
+"028 Lusk, Fingal",227.6
+"029 Malahide East, Fingal",2276.5
+"030 Malahide West, Fingal",2394.4
+"031 Portmarnock North, Fingal",3940
+"032 Portmarnock South, Fingal",681.4
+"033 Rush, Fingal",1475.1
+"034 Skerries, Fingal",3685.7
+"035 Sutton, Fingal",3941.1
+"036 Swords-Forrest, Fingal",2292.9
+"037 Swords-Glasmore, Fingal",1728.1
+"038 Swords-Lissenhall, Fingal",564.1
+"039 Swords-Seatown, Fingal",1745.9
+"040 Swords Village, Fingal",2931.8
+"041 The Ward, Fingal",393.5
+"042 Turnapin, Fingal",1809
+"001 Ballinteer-Broadford, D�n Laoghaire-Rathdown",4384.2
+"002 Ballinteer-Ludford, D�n Laoghaire-Rathdown",4408.1
+"003 Ballinteer-Marley, D�n Laoghaire-Rathdown",1737.9
+"004 Ballinteer-Meadowbroads, D�n Laoghaire-Rathdown",4795.7
+"005 Ballinteer-Meadowmount, D�n Laoghaire-Rathdown",4741.9
+"006 Ballinteer-Woodpark, D�n Laoghaire-Rathdown",5689.7
+"007 Ballybrack, D�n Laoghaire-Rathdown",4865.5
+"008 Blackrock-Booterstown, D�n Laoghaire-Rathdown",4391.9
+"009 Blackrock-Carysfort, D�n Laoghaire-Rathdown",4844.3
+"010 Blackrock-Central, D�n Laoghaire-Rathdown",3650.9
+"011 Blackrock-Glenomena, D�n Laoghaire-Rathdown",4605.3
+"012 Blackrock-Monkstown, D�n Laoghaire-Rathdown",4426.6
+"013 Blackrock-Newpark, D�n Laoghaire-Rathdown",4605.6
+"014 Blackrock-Seapoint, D�n Laoghaire-Rathdown",3978.6
+"015 Blackrock-Stradbrook, D�n Laoghaire-Rathdown",4449
+"016 Blackrock-Templehill, D�n Laoghaire-Rathdown",3384.2
+"017 Blackrock-Williamstown, D�n Laoghaire-Rathdown",2835
+"018 Cabinteely-Granitefield, D�n Laoghaire-Rathdown",4739.8
+"019 Cabinteely-Kilbogget, D�n Laoghaire-Rathdown",2538
+"020 Cabinteely-Loughlinstown, D�n Laoghaire-Rathdown",680.6
+"021 Cabinteely-Pottery, D�n Laoghaire-Rathdown",3121.7
+"022 Churchtown-Castle, D�n Laoghaire-Rathdown",1741
+"023 Churchtown-Landscape, D�n Laoghaire-Rathdown",3446.1
+"024 Churchtown-Nutgrove, D�n Laoghaire-Rathdown",4137.6
+"025 Churchtown-Orwell, D�n Laoghaire-Rathdown",2062
+"026 Churchtown-Woodlawn, D�n Laoghaire-Rathdown",3587.5
+"027 Clonskeagh-Belfield, D�n Laoghaire-Rathdown",1645.4
+"028 Clonskeagh-Farranboley, D�n Laoghaire-Rathdown",4529.8
+"029 Clonskeagh-Milltown, D�n Laoghaire-Rathdown",3972.5
+"030 Clonskeagh-Roebuck, D�n Laoghaire-Rathdown",3602.7
+"031 Clonskeagh-Windy Arbour, D�n Laoghaire-Rathdown",3839.9
+"032 Dalkey-Avondale, D�n Laoghaire-Rathdown",2592.3
+"033 Dalkey-Bullock, D�n Laoghaire-Rathdown",3077.5
+"034 Dalkey-Coliemore, D�n Laoghaire-Rathdown",2259
+"035 Dalkey Hill, D�n Laoghaire-Rathdown",1333.1
+"036 Dalkey Upper, D�n Laoghaire-Rathdown",3625.8
+"037 Dundrum-Balally, D�n Laoghaire-Rathdown",3202.8
+"038 Dundrum-Kilmacud, D�n Laoghaire-Rathdown",3581.7
+"039 Dundrum-Sandyford, D�n Laoghaire-Rathdown",3121.2
+"040 Dundrum-Sweetmount, D�n Laoghaire-Rathdown",3885.2
+"041 Dundrum-Taney, D�n Laoghaire-Rathdown",4355.1
+"042 D�n Laoghaire-East Central, D�n Laoghaire-Rathdown",5512.7
+"043 D�n Laoghaire-Glasthule, D�n Laoghaire-Rathdown",3800.8
+"044 D�n Laoghaire-Glenageary, D�n Laoghaire-Rathdown",3265.5
+"045 D�n Laoghaire-Monkstown Farm, D�n Laoghaire-Rathdown",6519.8
+"046 D�n Laoghaire-Mount Town, D�n Laoghaire-Rathdown",5299.1
+"047 D�n Laoghaire-Sallynoggin East, D�n Laoghaire-Rathdown",3869.3
+"048 D�n Laoghaire-Sallynoggin South, D�n Laoghaire-Rathdown",3517.7
+"049 D�n Laoghaire-Sallynoggin West, D�n Laoghaire-Rathdown",4707
+"050 D�n Laoghaire-Sandycove, D�n Laoghaire-Rathdown",3787.7
+"051 D�n Laoghaire-Salthill, D�n Laoghaire-Rathdown",3049.6
+"052 D�n Laoghaire-West Central, D�n Laoghaire-Rathdown",5669.7
+"053 Foxrock-Beechpark, D�n Laoghaire-Rathdown",3124.5
+"054 Foxrock-Carrickmines, D�n Laoghaire-Rathdown",2110.1
+"055 Foxrock-Deans Grange, D�n Laoghaire-Rathdown",2424.9
+"056 Foxrock-Torquay, D�n Laoghaire-Rathdown",1504.4
+"057 Glencullen, D�n Laoghaire-Rathdown",585.7
+"058 Killiney North, D�n Laoghaire-Rathdown",1508.9
+"059 Killiney South, D�n Laoghaire-Rathdown",4094.1
+"060 Shankill-Rathmichael, D�n Laoghaire-Rathdown",379
+"061 Shankill-Rathsallagh, D�n Laoghaire-Rathdown",3300.2
+"062 Shankill-Shanganagh, D�n Laoghaire-Rathdown",1846.7
+"063 Stillorgan-Deerpark, D�n Laoghaire-Rathdown",2894.9
+"064 Stillorgan-Kilmacud, D�n Laoghaire-Rathdown",4326.7
+"065 Stillorgan-Leopardstown, D�n Laoghaire-Rathdown",4769.8
+"066 Stillorgan-Merville, D�n Laoghaire-Rathdown",2830.6
+"067 Stillorgan-Mount Merrion, D�n Laoghaire-Rathdown",2715.5
+"068 Stillorgan-Priory, D�n Laoghaire-Rathdown",3956.1
+"069 Tibradden, D�n Laoghaire-Rathdown",83.3
+"001 Athy East Urban, Co. Kildare",1843.2
+"002 Athy West Urban, Co. Kildare",1833.6
+"003 Naas Urban, Co. Kildare",1197.4
+"004 Athy Rural (Part Rural), Co. Kildare",113.3
+"005 Ballaghmoon, Co. Kildare",18.8
+"006 Ballitore, Co. Kildare",89.3
+"007 Ballybrackan, Co. Kildare",50.7
+"008 Ballyshannon, Co. Kildare",68.8
+"009 Belan, Co. Kildare",24.8
+"010 Bert, Co. Kildare",15.5
+"011 Burtown, Co. Kildare",20.1
+"012 Carrigeen, Co. Kildare",20.8
+"013 Castledermot, Co. Kildare",85.1
+"014 Churchtown, Co. Kildare",28.5
+"015 Dunmanoge, Co. Kildare",33.5
+"016 Fontstown, Co. Kildare",22.5
+"017 Graney, Co. Kildare",29.2
+"018 Grangemellon, Co. Kildare",34.3
+"019 Harristown, Co. Kildare",23.2
+"020 Inchaquire, Co. Kildare",19
+"021 Johnstown, Co. Kildare",19.9
+"022 Kilberry, Co. Kildare",38.2
+"023 Kildangan, Co. Kildare",49.5
+"024 Kilkea, Co. Kildare",21.6
+"025 Kilrush, Co. Kildare",37.9
+"026 Lackagh, Co. Kildare",34
+"027 Monasterevin, Co. Kildare",182.3
+"028 Moone, Co. Kildare",27.9
+"029 Narraghmore, Co. Kildare",49.1
+"030 Nurney, Co. Kildare",86.8
+"031 Quinsborough, Co. Kildare",11.3
+"032 Skerries, Co. Kildare",44.3
+"033 Balraheen, Co. Kildare",72.7
+"034 Celbridge, Co. Kildare",902.1
+"035 Cloncurry, Co. Kildare",46.5
+"036 Donadea, Co. Kildare",39
+"037 Donaghcumper, Co. Kildare",264.1
+"038 Kilcock, Co. Kildare",428.3
+"039 Leixlip, Co. Kildare",1398
+"040 Maynooth, Co. Kildare",481.4
+"041 Straffan, Co. Kildare",79.1
+"042 Ballynadrumny, Co. Kildare",29.7
+"043 Cadamstown, Co. Kildare",70.2
+"044 Carbury, Co. Kildare",43.2
+"045 Carrick, Co. Kildare",18.9
+"046 Cloncurry, Co. Kildare",25.8
+"047 Drehid, Co. Kildare",17.5
+"048 Dunfierth, Co. Kildare",33.1
+"049 Killinthomas, Co. Kildare",22.4
+"050 Kilpatrick, Co. Kildare",43.2
+"051 Kilrainy, Co. Kildare",35.2
+"052 Lullymore, Co. Kildare",8.8
+"053 Rathangan, Co. Kildare",175.7
+"054 Thomastown, Co. Kildare",46.8
+"055 Windmill Cross, Co. Kildare",85.4
+"056 Ballymore Eustace, Co. Kildare",93
+"057 Ballysax East, Co. Kildare",94.2
+"058 Ballysax West, Co. Kildare",73.8
+"059 Bodenstown, Co. Kildare",179.3
+"060 Carnalway, Co. Kildare",66
+"061 Carragh, Co. Kildare",142.9
+"062 Clane, Co. Kildare",436
+"063 Donore, Co. Kildare",39.4
+"064 Downings, Co. Kildare",185.9
+"065 Droichead Nua (Newbridge) Rural, Co. Kildare",143.7
+"066 Droichead Nua (Newbridge) Urban, Co. Kildare",2817.5
+"067 Dunmurry, Co. Kildare",29.4
+"068 Feighcullen, Co. Kildare",56.4
+"069 Gilltown, Co. Kildare",29.6
+"070 Kilcullen, Co. Kildare",197.3
+"071 Kildare, Co. Kildare",267.1
+"072 Kill, Co. Kildare",245.7
+"073 Killashee, Co. Kildare",19.2
+"074 Kilmeage North, Co. Kildare",102.3
+"075 Kilmeage South, Co. Kildare",122
+"076 Kilteel, Co. Kildare",32.8
+"077 Ladytown, Co. Kildare",48.4
+"078 Morristownbiller, Co. Kildare",873.7
+"079 Naas Rural, Co. Kildare",206
+"080 Newtown, Co. Kildare",45.4
+"081 Oldconnell, Co. Kildare",56.3
+"082 Oughterard, Co. Kildare",46.9
+"083 Pollardstown, Co. Kildare",29.2
+"084 Rathernan, Co. Kildare",34.8
+"085 Rathmore, Co. Kildare",47.3
+"086 Robertstown, Co. Kildare",144.7
+"087 Timahoe North, Co. Kildare",32.6
+"088 Timahoe South, Co. Kildare",50.4
+"089 Usk, Co. Kildare",28.1
+"001 Kilkenny No. 1 Urban, Co. Kilkenny",3186.6
+"002 Kilkenny No. 2 Urban, Co. Kilkenny",2252.4
+"003 Burnchurch, Co. Kilkenny",42
+"004 Callan Rural, Co. Kilkenny",40.4
+"005 Callan Urban, Co. Kilkenny",1192.1
+"006 Coolaghmore, Co. Kilkenny",19.1
+"007 Dunamaggan, Co. Kilkenny",22.2
+"008 Earlstown, Co. Kilkenny",17.6
+"009 Kells, Co. Kilkenny",34.4
+"010 Killamery, Co. Kilkenny",16.2
+"011 Kilmaganny, Co. Kilkenny",22.9
+"012 Kilmanagh, Co. Kilkenny",22.3
+"013 Mallardstown, Co. Kilkenny",16.8
+"014 Scotsborough, Co. Kilkenny",11.3
+"015 Tullaghanbrogue, Co. Kilkenny",21.1
+"016 Boolyglass, Co. Kilkenny",10.7
+"017 Fiddown, Co. Kilkenny",59.1
+"018 Muckalee, Co. Kilkenny",14.1
+"019 Pilltown, Co. Kilkenny",97.4
+"020 Templeorum, Co. Kilkenny",26.1
+"021 Tubbrid, Co. Kilkenny",20.4
+"022 Tullahought, Co. Kilkenny",14.4
+"023 Whitechurch, Co. Kilkenny",24.3
+"024 Attanagh, Co. Kilkenny",15.4
+"025 Ballyragget, Co. Kilkenny",57.1
+"026 Castlecomer, Co. Kilkenny",76.3
+"027 Clogh, Co. Kilkenny",35.2
+"028 Clogharinka, Co. Kilkenny",16.6
+"029 Kilmacar, Co. Kilkenny",19.3
+"030 Moneenroe, Co. Kilkenny",39.4
+"031 Mothell, Co. Kilkenny",17.3
+"032 Muckalee, Co. Kilkenny",28.2
+"033 Brownsford, Co. Kilkenny",14.7
+"034 Dysartmoon, Co. Kilkenny",25.8
+"035 Jerpoint West, Co. Kilkenny",12.1
+"036 Listerlin, Co. Kilkenny",23.4
+"037 Rosbercon Rural, Co. Kilkenny",63.3
+"038 Shanbogh, Co. Kilkenny",30.3
+"039 The Rower, Co. Kilkenny",28.6
+"040 Ballinamara, Co. Kilkenny",19.7
+"041 Ballybeagh, Co. Kilkenny",12.9
+"042 Ballycallan, Co. Kilkenny",21
+"043 Clara, Co. Kilkenny",30.9
+"044 Coolcraheen, Co. Kilkenny",24.5
+"045 Dunbell, Co. Kilkenny",22.4
+"046 Dunmore, Co. Kilkenny",47.7
+"047 Freshford, Co. Kilkenny",46.5
+"048 Gowran, Co. Kilkenny",59.1
+"049 Grange, Co. Kilkenny",45.5
+"050 Kilkenny Rural, Co. Kilkenny",449.2
+"051 Kilkieran, Co. Kilkenny",29
+"052 Odagh, Co. Kilkenny",25.5
+"053 Outrath, Co. Kilkenny",39.8
+"054 Paulstown, Co. Kilkenny",71.4
+"055 Rathcoole, Co. Kilkenny",21.2
+"056 Rathealy, Co. Kilkenny",15.7
+"057 St. Canice, Co. Kilkenny",28.5
+"058 Shankill, Co. Kilkenny",32.2
+"059 Tiscoffin, Co. Kilkenny",21.4
+"060 Tullaroan, Co. Kilkenny",19
+"061 Aghaviller, Co. Kilkenny",24.1
+"062 Ballyhale, Co. Kilkenny",50.1
+"063 Ballyvool, Co. Kilkenny",16.1
+"064 Bennettsbridge, Co. Kilkenny",57.8
+"065 Bramblestown, Co. Kilkenny",20.5
+"066 Castlebanny, Co. Kilkenny",10.9
+"067 Castlegannon, Co. Kilkenny",9.7
+"068 Coolhill, Co. Kilkenny",16.7
+"069 Danesfort, Co. Kilkenny",31.3
+"070 Ennisnag, Co. Kilkenny",45.5
+"071 Famma, Co. Kilkenny",16.2
+"072 Freaghana, Co. Kilkenny",10.8
+"073 Goresbridge, Co. Kilkenny",52.9
+"074 Graiguenamanagh, Co. Kilkenny",56.9
+"075 Inistioge, Co. Kilkenny",30.7
+"076 Jerpoint Church, Co. Kilkenny",56.3
+"077 Kilfane, Co. Kilkenny",17.5
+"078 Kilkeasy, Co. Kilkenny",18.9
+"079 Kiltorcan, Co. Kilkenny",17.7
+"080 Knocktopher, Co. Kilkenny",35.2
+"081 Pleberstown, Co. Kilkenny",13.6
+"082 Powerstown, Co. Kilkenny",24.3
+"083 Stonyford, Co. Kilkenny",41.7
+"084 Thomastown, Co. Kilkenny",113.5
+"085 Tullaherin, Co. Kilkenny",21.8
+"086 Ullard, Co. Kilkenny",19
+"087 Woolengrange, Co. Kilkenny",26.6
+"088 Balleen, Co. Kilkenny",18.8
+"089 Ballyconra, Co. Kilkenny",16.2
+"090 Baunmore, Co. Kilkenny",7.8
+"091 Clomantagh, Co. Kilkenny",18.1
+"092 Galmoy, Co. Kilkenny",12
+"093 Glashare, Co. Kilkenny",15.9
+"094 Johnstown, Co. Kilkenny",43.3
+"095 Lisdowney, Co. Kilkenny",12.4
+"096 Rathbeagh, Co. Kilkenny",21.9
+"097 Tubbridbrittain, Co. Kilkenny",16.1
+"098 Urlingford, Co. Kilkenny",67.7
+"099 Aglish, Co. Kilkenny",56.2
+"100 Ballincrea, Co. Kilkenny",18.5
+"101 Dunkitt, Co. Kilkenny",61.1
+"102 Farnoge, Co. Kilkenny",21.9
+"103 Kilbeacon, Co. Kilkenny",15.2
+"104 Kilbride, Co. Kilkenny",30.1
+"105 Kilcolumb, Co. Kilkenny",32.3
+"106 Kilculliheen (part), Co. Kilkenny",626.5
+"107 Killahy, Co. Kilkenny",34
+"108 Kilmakevoge, Co. Kilkenny",33.2
+"109 Pollrone, Co. Kilkenny",86.8
+"110 Portnascully, Co. Kilkenny",70.7
+"111 Rathpatrick, Co. Kilkenny",64.9
+"112 Rossinan, Co. Kilkenny",40.7
+"113 Ullid, Co. Kilkenny",68
+"001 Abbeyleix, Co. Laois",69
+"002 Aghmacart, Co. Laois",20
+"003 Ballinakill, Co. Laois",42
+"004 Ballyroan, Co. Laois",48.2
+"005 Blandsfort, Co. Laois",15
+"006 Caher, Co. Laois",11.8
+"007 Castletown, Co. Laois",32.3
+"008 Clash, Co. Laois",24.8
+"009 Clonkeen, Co. Laois",25.7
+"010 Colt, Co. Laois",17.3
+"011 Cuffsborough, Co. Laois",16.9
+"012 Cullahill, Co. Laois",21.3
+"013 Cullenagh, Co. Laois",11.7
+"014 Donaghmore, Co. Laois",19
+"015 Donore, Co. Laois",20
+"016 Dunmore, Co. Laois",26.1
+"017 Durrow, Co. Laois",48.9
+"018 Dysartgallen, Co. Laois",12.3
+"019 Fossy, Co. Laois",10.1
+"020 Grantstown, Co. Laois",17.9
+"021 Kilcoke, Co. Laois",12.4
+"022 Kildellig, Co. Laois",16.5
+"023 Killermogh, Co. Laois",18.8
+"024 Kilnaseer, Co. Laois",18.8
+"025 Raheen, Co. Laois",23.5
+"026 Rathdowney, Co. Laois",67.4
+"027 Timahoe, Co. Laois",23
+"028 Ballyadams, Co. Laois",24.6
+"029 Ballylynan, Co. Laois",102.3
+"030 Barrowhouse, Co. Laois",37.5
+"031 Curraclone, Co. Laois",21
+"032 Killabban, Co. Laois",34.6
+"033 Luggacurren, Co. Laois",12.4
+"034 Moyanna, Co. Laois",23
+"035 Rathaspick, Co. Laois",15.7
+"036 Stradbally, Co. Laois",88
+"037 Tankardstown, Co. Laois",24.2
+"038 Timogue, Co. Laois",18.4
+"039 Vicarstown, Co. Laois",15.9
+"040 Arderin, Co. Laois",11.7
+"041 Ballybrittas, Co. Laois",82.3
+"042 Ballycarroll, Co. Laois",33
+"043 Ballyfin, Co. Laois",19
+"044 Borris, Co. Laois",97.5
+"045 Brisha, Co. Laois",17
+"046 Capard, Co. Laois",3.1
+"047 Cappalough, Co. Laois",20.9
+"048 Cardtown, Co. Laois",6.8
+"049 Castlecuffe, Co. Laois",13.4
+"050 Clonaslee, Co. Laois",22.7
+"051 Clondarrig, Co. Laois",124.1
+"052 Clonin, Co. Laois",17.2
+"053 Coolrain, Co. Laois",25.5
+"054 Dangans, Co. Laois",135.9
+"055 Emo, Co. Laois",33.8
+"056 Garrymore, Co. Laois",19.9
+"057 Graigue, Co. Laois",14.3
+"058 Jamestown, Co. Laois",33.3
+"059 Kilcolmanbane, Co. Laois",32.2
+"060 Kilmullen, Co. Laois",41.1
+"061 Kilmurry, Co. Laois",28.8
+"062 Lacka, Co. Laois",11.3
+"063 Marymount, Co. Laois",9.9
+"064 Meelick, Co. Laois",25
+"065 Mountmellick Rural, Co. Laois",62.5
+"066 Mountmellick Urban, Co. Laois",1333.5
+"067 Mountrath, Co. Laois",100.9
+"068 Nealstown, Co. Laois",4.6
+"069 O'More's Forest, Co. Laois",24.5
+"070 Portarlington South, Co. Laois",625.7
+"071 Portlaoighise (Maryborough) Rural, Co. Laois",746.2
+"072 Portlaoighise (Maryborough) Urban, Co. Laois",1908.3
+"073 Rearymore, Co. Laois",17.4
+"074 Rosenallis, Co. Laois",22.3
+"075 Sallyford, Co. Laois",29.6
+"076 Shaen, Co. Laois",39.4
+"077 Tinnahinch, Co. Laois",6.3
+"078 Trumra, Co. Laois",13.8
+"079 Ballybrophy, Co. Laois",19.1
+"080 Borris-in-Ossory, Co. Laois",40.2
+"081 Clonmore, Co. Laois",13.9
+"082 Errill, Co. Laois",23
+"083 Kyle, Co. Laois",10.9
+"084 Kyle South, Co. Laois",11.7
+"085 Moneenalassa, Co. Laois",12.7
+"086 Moneymore, Co. Laois",13.9
+"087 Rathsaran, Co. Laois",38.4
+"088 Ardough, Co. Laois",19.4
+"089 Arless, Co. Laois",26.4
+"090 Ballickmoyler, Co. Laois",47.2
+"091 Ballylehane, Co. Laois",25
+"092 Doonane, Co. Laois",55.1
+"093 Farnans, Co. Laois",15
+"094 Graigue Rural, Co. Laois",283
+"095 Newtown, Co. Laois",27.4
+"096 Rossmore, Co. Laois",36.5
+"097 Shrule, Co. Laois",25.5
+"098 Turra, Co. Laois",22.9
+"001 Longford No. 1 Urban, Co. Longford",2068.8
+"002 Longford No. 2 Urban, Co. Longford",631.8
+"003 Agharra, Co. Longford",23.9
+"004 Ballymahon, Co. Longford",83.3
+"005 Cashel East, Co. Longford",10.7
+"006 Cashel West, Co. Longford",15.7
+"007 Doory, Co. Longford",16.8
+"008 Forgney, Co. Longford",18.3
+"009 Foxhall, Co. Longford",28.6
+"010 Kilcommock, Co. Longford",34
+"011 Kilglass, Co. Longford",21.1
+"012 Ledwithstown, Co. Longford",13.5
+"013 Abbeylara, Co. Longford",25.9
+"014 Ballinalee, Co. Longford",45.5
+"015 Ballymuigh, Co. Longford",20.2
+"016 Bunlahy, Co. Longford",18.2
+"017 Columbkille, Co. Longford",27.4
+"018 Coolamber, Co. Longford",19.2
+"019 Creevy, Co. Longford",22.3
+"020 Crosagstown, Co. Longford",20.5
+"021 Currygrane, Co. Longford",14.8
+"022 Dalystown, Co. Longford",22.2
+"023 Drummeel, Co. Longford",14.1
+"024 Firry, Co. Longford",16.7
+"025 Gelshagh, Co. Longford",22.3
+"026 Granard Rural, Co. Longford",18.3
+"027 Granard Urban, Co. Longford",135.6
+"028 Knockanbaun, Co. Longford",18.3
+"029 Lislea, Co. Longford",16.4
+"030 Meathas Truim, Co. Longford",173.4
+"031 Milltown, Co. Longford",20.5
+"032 Moatfarrell, Co. Longford",24.3
+"033 Moyne, Co. Longford",18.7
+"034 Mullanalaghta, Co. Longford",16
+"035 Newgrove, Co. Longford",2.8
+"036 Sonnagh, Co. Longford",16.8
+"037 Aghaboy, Co. Longford",45.9
+"038 Ardagh East, Co. Longford",22.3
+"039 Ardagh West, Co. Longford",22.9
+"040 Ballinamuck East, Co. Longford",29.8
+"041 Ballinamuck West, Co. Longford",19.1
+"042 Breanrisk, Co. Longford",41.8
+"043 Caldragh, Co. Longford",104.4
+"044 Cloondara, Co. Longford",26
+"045 Cloonee, Co. Longford",32.4
+"046 Corboy, Co. Longford",18.8
+"047 Drumgort, Co. Longford",22.3
+"048 Drumlish, Co. Longford",73.8
+"049 Killashee, Co. Longford",20.4
+"050 Killoe, Co. Longford",17.9
+"051 Longford Rural (Part Urban), Co. Longford",217.9
+"052 Mountdavis, Co. Longford",8.6
+"053 Moydow, Co. Longford",26
+"054 Newtown Forbes, Co. Longford",34.7
+"055 Rathcline, Co. Longford",43.1
+"001 Fair Gate, Co. Louth",4077.9
+"002 St. Laurence Gate, Co. Louth",2494.1
+"003 West Gate, Co. Louth",3251.9
+"004 Dundalk Urban No. 1, Co. Louth",2556.9
+"005 Dundalk Urban No. 2, Co. Louth",678.6
+"006 Dundalk Urban No. 3, Co. Louth",1377.7
+"007 Dundalk Urban No. 4, Co. Louth",2486.8
+"008 Ardee Rural, Co. Louth",47.1
+"009 Ardee Urban, Co. Louth",1046
+"010 Castlebellingham, Co. Louth",91.9
+"011 Clonkeen, Co. Louth",30.7
+"012 Collon, Co. Louth",67.2
+"013 Dromin, Co. Louth",40.7
+"014 Dromiskin, Co. Louth",104.4
+"015 Drumcar, Co. Louth",53.3
+"016 Dunleer, Co. Louth",114.5
+"017 Stabannan, Co. Louth",28.2
+"018 Tallanstown, Co. Louth",45.2
+"019 Ballymascanlan, Co. Louth",88.9
+"020 Barronstown, Co. Louth",42.6
+"021 Carlingford, Co. Louth",131.4
+"022 Castlering, Co. Louth",57.6
+"023 Castletown (Part Urban), Co. Louth",202.6
+"024 Creggan Upper, Co. Louth",44.9
+"025 Darver, Co. Louth",31.9
+"026 Drummullagh, Co. Louth",56.5
+"027 Dundalk Rural (Part Urban), Co. Louth",880.2
+"028 Faughart, Co. Louth",52
+"029 Greenore, Co. Louth",80.4
+"030 Haggardstown (Part Urban), Co. Louth",328.5
+"031 Jenkinstown, Co. Louth",57.5
+"032 Killanny, Co. Louth",40
+"033 Louth, Co. Louth",71.6
+"034 Mansfieldstown, Co. Louth",52.6
+"035 Rathcor, Co. Louth",53.6
+"036 Ravensdale, Co. Louth",39.9
+"037 Clogher, Co. Louth",127.9
+"038 Dysart, Co. Louth",38.4
+"039 Monasterboice, Co. Louth",58.5
+"040 Mullary, Co. Louth",72.8
+"041 St. Peter's (Part Urban), Co. Louth",258.6
+"042 Termonfeckin, Co. Louth",123.7
+"047 St. Mary's (Part Urban), Co. Louth",2573.8
+"001 Ceannanus M�r (Kells) Urban, Co. Meath",1990.8
+"002 Navan Urban, Co. Meath",2133.5
+"003 Trim Urban, Co. Meath",2226.3
+"004 Drumcondra, Co. Meath",28.6
+"005 Grangegeeth, Co. Meath",25.1
+"006 Killary, Co. Meath",25.1
+"007 Culmullin, Co. Meath",31.4
+"008 Donaghmore, Co. Meath",337.5
+"009 Dunboyne, Co. Meath",178.6
+"010 Dunshaughlin, Co. Meath",136.5
+"011 Kilbrew, Co. Meath",109.9
+"012 Killeen, Co. Meath",40.1
+"013 Kilmessan, Co. Meath",61.6
+"014 Kilmore, Co. Meath",42.6
+"015 Rathfeigh, Co. Meath",35
+"016 Ratoath, Co. Meath",294.8
+"017 Rodanstown, Co. Meath",38.3
+"018 Skreen, Co. Meath",38.9
+"019 Ardagh, Co. Meath",28.5
+"020 Ballinlough, Co. Meath",20.3
+"021 Balrathboyne, Co. Meath",34.1
+"022 Boherboy, Co. Meath",29.2
+"023 Burry, Co. Meath",18.3
+"024 Carrickleck, Co. Meath",25.7
+"025 Castlekeeran, Co. Meath",30.1
+"026 Ceannanus M�r (Kells) Rural (Part Urban), Co. Meath",234.2
+"027 Cruicetown, Co. Meath",19.6
+"028 Girley, Co. Meath",18
+"029 Kilmainham, Co. Meath",31.3
+"030 Kilskeer, Co. Meath",27.5
+"031 Loughan, Co. Meath",24.9
+"032 Maperath, Co. Meath",34.8
+"033 Martry, Co. Meath",42.7
+"034 Moybolgue, Co. Meath",22.2
+"035 Moynalty, Co. Meath",29.1
+"036 Newcastle, Co. Meath",25.1
+"037 Newtown, Co. Meath",67.2
+"038 Nobber, Co. Meath",34.8
+"039 Posseckstown, Co. Meath",16.5
+"040 Staholmog, Co. Meath",24.3
+"041 Tailtin, Co. Meath",36.7
+"042 Trohanny, Co. Meath",19.3
+"043 Ardcath, Co. Meath",45.1
+"044 Duleek, Co. Meath",139.4
+"045 Julianstown, Co. Meath",207
+"046 Mellifont, Co. Meath",22.3
+"047 St. Mary's (Part Rural), Co. Meath",352.4
+"048 Stamullin, Co. Meath",133.5
+"049 Ardbraccan, Co. Meath",54.3
+"050 Ardmulchan, Co. Meath",40.7
+"051 Bective, Co. Meath",55.8
+"052 Castletown, Co. Meath",29
+"053 Domhnach Ph�draig, Co. Meath",43.2
+"054 Kentstown, Co. Meath",70.7
+"055 Navan Rural (Part Urban), Co. Meath",486
+"056 Painestown, Co. Meath",36.6
+"057 Rathkenny, Co. Meath",28.7
+"058 Slane, Co. Meath",78.6
+"059 Stackallan, Co. Meath",31.3
+"060 Tara, Co. Meath",40.6
+"061 Crossakeel, Co. Meath",25.6
+"062 Crosskeys, Co. Meath",20.8
+"063 Killallon, Co. Meath",12
+"064 Killeagh, Co. Meath",15.9
+"065 Knocklough, Co. Meath",12.8
+"066 Moylagh, Co. Meath",16.9
+"067 Oldcastle, Co. Meath",70.8
+"068 Stonefield, Co. Meath",13.2
+"069 Ardnamullan, Co. Meath",36.3
+"070 Baile �tha Bu�, Co. Meath",130.7
+"071 Ballyboggan, Co. Meath",19
+"072 Ballyconnell, Co. Meath",29.8
+"073 Castlejordan, Co. Meath",27.8
+"074 Castlerickard, Co. Meath",107.3
+"075 Cloghbrack, Co. Meath",20.7
+"076 Clonmacduff, Co. Meath",35.2
+"077 Gallow, Co. Meath",39.2
+"078 Galtrim, Co. Meath",35.4
+"079 Grennanstown, Co. Meath",50.9
+"080 Hill of Down, Co. Meath",27
+"081 Innfield, Co. Meath",128.1
+"082 Cill Bhr�de, Co. Meath",29.3
+"083 Kilcooly, Co. Meath",22
+"084 Kildalky, Co. Meath",50.1
+"085 Killaconnigan, Co. Meath",86.1
+"086 Killyon, Co. Meath",18.1
+"087 Laracor, Co. Meath",29.5
+"088 Rahinstown, Co. Meath",28.2
+"089 Rathmolyon, Co. Meath",36
+"090 An R�th Mh�r, Co. Meath",36.9
+"091 Summerhill, Co. Meath",76
+"092 Trim Rural (Part Urban), Co. Meath",252.2
+"001 Birr Urban, Co. Offaly",706.8
+"002 Tullamore Urban, Co. Offaly",1476.7
+"003 Ballycumber, Co. Offaly",33.2
+"004 Banagher, Co. Offaly",108.5
+"005 Birr Rural, Co. Offaly",62.3
+"006 Broughal, Co. Offaly",6.5
+"007 Cloghan, Co. Offaly",35.2
+"008 Clonmacnoise, Co. Offaly",11.8
+"009 Derrinboy, Co. Offaly",14.7
+"010 Derryad, Co. Offaly",8.6
+"011 Doon, Co. Offaly",15
+"012 Dromoyle, Co. Offaly",15.3
+"013 Drumcullen, Co. Offaly",15.6
+"014 Eglish, Co. Offaly",7.6
+"015 Ferbane, Co. Offaly",51.8
+"016 Gallen, Co. Offaly",18.7
+"017 Hinds, Co. Offaly",16.5
+"018 Huntston, Co. Offaly",17.9
+"019 Kilcolman, Co. Offaly",15.5
+"020 Kilcormac, Co. Offaly",64.6
+"021 Killyon, Co. Offaly",11.6
+"022 Kinnitty, Co. Offaly",16.2
+"023 Knockbarron, Co. Offaly",13.9
+"024 Lea, Co. Offaly",10.8
+"025 Letter, Co. Offaly",6.7
+"026 Lumcloon, Co. Offaly",18
+"027 Lusmagh, Co. Offaly",20.3
+"028 Mounterin, Co. Offaly",10.3
+"029 Moyclare, Co. Offaly",27.1
+"030 Seirkieran, Co. Offaly",22.6
+"031 Shannonbridge, Co. Offaly",11.5
+"032 Shannonharbour, Co. Offaly",16.5
+"033 Srah, Co. Offaly",32.4
+"034 Ballaghassaan, Co. Offaly",3.9
+"035 Ballyburly, Co. Offaly",56.8
+"036 Ballymacwilliam, Co. Offaly",32
+"037 Bracknagh, Co. Offaly",22
+"038 Clonbulloge, Co. Offaly",17.5
+"039 Clonmore, Co. Offaly",25.7
+"040 Croghan, Co. Offaly",16.7
+"041 Edenderry Rural, Co. Offaly",22.9
+"042 Edenderry Urban, Co. Offaly",905.3
+"043 Esker, Co. Offaly",15.2
+"044 Knockdrin, Co. Offaly",8.2
+"045 Monasteroris, Co. Offaly",28.9
+"046 Aghancon, Co. Offaly",15.4
+"047 Ballincor, Co. Offaly",14.7
+"048 Barna, Co. Offaly",11.2
+"049 Cangort, Co. Offaly",14.9
+"050 Cullenwaine, Co. Offaly",28.4
+"051 Dunkerrin, Co. Offaly",16.1
+"052 Ettagh, Co. Offaly",21.8
+"053 Gorteen, Co. Offaly",11.4
+"054 Mountheaton, Co. Offaly",28.5
+"055 Roscomroe, Co. Offaly",8.3
+"056 Shinrone, Co. Offaly",45.7
+"057 Templeharry, Co. Offaly",11.6
+"058 Tulla, Co. Offaly",4.6
+"059 Ballycommon, Co. Offaly",22.7
+"060 Ballyshear, Co. Offaly",18.1
+"061 Bawn, Co. Offaly",20.7
+"062 Cappancur, Co. Offaly",31.3
+"063 Clara, Co. Offaly",133.4
+"064 Clonygowan, Co. Offaly",29.3
+"065 Daingean, Co. Offaly",80.1
+"066 Derrycooley, Co. Offaly",12.9
+"067 Durrow, Co. Offaly",36.7
+"068 Geashill, Co. Offaly",45.7
+"069 Gorteen, Co. Offaly",25
+"070 Hammerlane, Co. Offaly",23.8
+"071 Kilclonfert, Co. Offaly",13.2
+"072 Kilcumreragh, Co. Offaly",26.2
+"073 Killeigh, Co. Offaly",31.2
+"074 Killooly, Co. Offaly",12.3
+"075 Killoughy, Co. Offaly",27.1
+"076 Mountbriscoe, Co. Offaly",14.5
+"077 O'Dempsey, Co. Offaly",13.1
+"078 Portarlington North, Co. Offaly",116.1
+"079 Rahan, Co. Offaly",30.5
+"080 Raheenakeeran, Co. Offaly",25.2
+"081 Rathfeston, Co. Offaly",21.1
+"082 Rathrobin, Co. Offaly",17.3
+"083 Screggan, Co. Offaly",85.5
+"084 Silverbrook, Co. Offaly",34.2
+"085 Tinamuck, Co. Offaly",20.5
+"086 Tinnycross, Co. Offaly",52.8
+"087 Tullamore Rural, Co. Offaly",175.3
+"001 Athlone East Urban, Co. Westmeath",1794.4
+"002 Athlone West Urban, Co. Westmeath",1333.9
+"003 Athlone East Rural (Part Urban), Co. Westmeath",652.1
+"004 Auburn, Co. Westmeath",36.7
+"005 Ballybroder, Co. Westmeath",21.2
+"006 Bellanalack, Co. Westmeath",41.5
+"007 Carn, Co. Westmeath",36.8
+"008 Castledaly, Co. Westmeath",23.5
+"009 Glassan, Co. Westmeath",60.3
+"010 Kilcumreragh, Co. Westmeath",22.3
+"011 Killinure, Co. Westmeath",33
+"012 Moate, Co. Westmeath",146.5
+"013 Mount Temple, Co. Westmeath",38.2
+"014 Moydrum (Part Urban), Co. Westmeath",143.9
+"015 Muckanagh, Co. Westmeath",15.7
+"016 Tubbrit, Co. Westmeath",24.8
+"017 Umma, Co. Westmeath",13.3
+"018 Ardnagragh, Co. Westmeath",26.5
+"019 Ballymore, Co. Westmeath",35.9
+"020 Doonis, Co. Westmeath",16.1
+"021 Drumraney, Co. Westmeath",21.2
+"022 Noughaval, Co. Westmeath",24.9
+"023 Piercetown, Co. Westmeath",8.3
+"024 Templepatrick, Co. Westmeath",12.4
+"025 Winetown, Co. Westmeath",9.7
+"026 Boherquill, Co. Westmeath",10.8
+"027 Coole, Co. Westmeath",19.9
+"028 Coolure, Co. Westmeath",16
+"029 Finnea, Co. Westmeath",12.2
+"030 Glore, Co. Westmeath",11.2
+"031 Knockarrow, Co. Westmeath",6.1
+"032 Rathowen, Co. Westmeath",23.5
+"033 Street, Co. Westmeath",8.8
+"034 Ballinlough, Co. Westmeath",19
+"035 Ballyhealy, Co. Westmeath",25.4
+"036 Ballynaskeagh, Co. Westmeath",19.9
+"037 Bracklin, Co. Westmeath",14.6
+"038 Clonarney, Co. Westmeath",23.8
+"039 Collinstown, Co. Westmeath",40.8
+"040 Copperalley, Co. Westmeath",18.6
+"041 Delvin, Co. Westmeath",76.6
+"042 Faughalstown, Co. Westmeath",16.5
+"043 Fore East, Co. Westmeath",24
+"044 Fore West, Co. Westmeath",20.8
+"045 Hilltown, Co. Westmeath",13.1
+"046 Kilcumny, Co. Westmeath",17.8
+"047 Killua, Co. Westmeath",54.1
+"048 Killulagh, Co. Westmeath",22.2
+"049 Kilpatrick, Co. Westmeath",12.5
+"050 Kinturk, Co. Westmeath",113.5
+"051 Riverdale, Co. Westmeath",22.7
+"052 Rosmead, Co. Westmeath",26.4
+"053 Ardnaglew, Co. Westmeath",22.2
+"054 Ballinalack, Co. Westmeath",26.7
+"055 Ballykilmore, Co. Westmeath",39.1
+"056 Ballymorin, Co. Westmeath",14.9
+"057 Ballynagore, Co. Westmeath",27.1
+"058 Belvidere, Co. Westmeath",39.8
+"059 Carrick, Co. Westmeath",19
+"060 Castle, Co. Westmeath",70.8
+"061 Castlelost, Co. Westmeath",101
+"062 Castletown, Co. Westmeath",28.4
+"063 Churchtown, Co. Westmeath",15.8
+"064 Cloghan, Co. Westmeath",26.3
+"065 Clonfad, Co. Westmeath",34.3
+"066 Clonlost, Co. Westmeath",22.4
+"067 Derrymore, Co. Westmeath",25.1
+"068 Dysart, Co. Westmeath",15
+"069 Emper, Co. Westmeath",11
+"070 Enniscoffey, Co. Westmeath",22.9
+"071 Gaybrook, Co. Westmeath",30
+"072 Glenlough, Co. Westmeath",7.3
+"073 Greenpark, Co. Westmeath",17.2
+"074 Griffinstown, Co. Westmeath",22.6
+"075 Heathstown, Co. Westmeath",34.3
+"076 Hopestown, Co. Westmeath",42.8
+"077 Huntingdon, Co. Westmeath",23
+"078 Jamestown, Co. Westmeath",8.9
+"079 Kilbeggan, Co. Westmeath",92
+"080 Kilbixy, Co. Westmeath",25.5
+"081 Killare, Co. Westmeath",12.7
+"082 Killucan, Co. Westmeath",128.5
+"083 Kinnegad, Co. Westmeath",210.1
+"084 Knockdrin, Co. Westmeath",26.5
+"085 Lackan, Co. Westmeath",16.1
+"086 Lauree, Co. Westmeath",11.5
+"087 Middleton, Co. Westmeath",21.1
+"088 Milltown, Co. Westmeath",18.9
+"089 Mullingar Rural, Co. Westmeath",628.1
+"090 Mullingar North Urban, Co. Westmeath",2087.3
+"091 Mullingar South Urban, Co. Westmeath",1583.5
+"092 Multyfarnham, Co. Westmeath",29.7
+"093 Newtown, Co. Westmeath",12.7
+"094 Owel, Co. Westmeath",37.8
+"095 Portloman, Co. Westmeath",14.4
+"096 Raharney, Co. Westmeath",41.6
+"097 Rahugh, Co. Westmeath",14.7
+"098 Rathconrath, Co. Westmeath",21.2
+"099 Russellstown, Co. Westmeath",35.9
+"100 Skeagh, Co. Westmeath",14.1
+"101 Sonna, Co. Westmeath",19.3
+"102 Stonehall, Co. Westmeath",13.9
+"103 Streamstown, Co. Westmeath",26.5
+"104 Taghmon, Co. Westmeath",23.1
+"105 Tullaghan, Co. Westmeath",31.8
+"106 Woodland, Co. Westmeath",21.5
+"001 Enniscorthy Urban, Co. Wexford",2667
+"002 New Ross Urban, Co. Wexford",2748.5
+"003 Rosbercon Urban, Co. Wexford",1302.5
+"004 Wexford No. 1 Urban, Co. Wexford",2752.7
+"005 Wexford No. 2 Urban, Co. Wexford",3845.1
+"006 Wexford No. 3 Urban, Co. Wexford",2803.5
+"007 Ballindaggan, Co. Wexford",34.8
+"008 Ballycarney, Co. Wexford",28.9
+"009 Ballyhoge, Co. Wexford",42.6
+"010 Ballyhuskard, Co. Wexford",48.3
+"011 Ballymore, Co. Wexford",29.5
+"012 Ballyvaldon, Co. Wexford",32.4
+"013 Bolaboy, Co. Wexford",62.7
+"014 Bree, Co. Wexford",47.9
+"015 Castleboro, Co. Wexford",35
+"016 Castledockrell, Co. Wexford",23.6
+"017 Castle Ellis, Co. Wexford",43.4
+"018 Castle Talbot, Co. Wexford",42.4
+"019 Clonroche, Co. Wexford",38.2
+"020 Edermine, Co. Wexford",51.6
+"021 Enniscorthy Rural (Part Urban), Co. Wexford",244.4
+"022 Ferns, Co. Wexford",152.7
+"023 Kilbora, Co. Wexford",29.3
+"024 Kilcormick, Co. Wexford",30.1
+"025 Killann, Co. Wexford",22.9
+"026 Kilmallock, Co. Wexford",54.6
+"027 Killoughrum, Co. Wexford",36.6
+"028 Kilrush, Co. Wexford",20.9
+"029 Kiltealy, Co. Wexford",25.6
+"030 Marshalstown, Co. Wexford",43.7
+"031 Moyacomb, Co. Wexford",18.2
+"032 Newtownbarry, Co. Wexford",94.9
+"033 Rossard, Co. Wexford",15
+"034 St. Mary's, Co. Wexford",27.8
+"035 The Harrow, Co. Wexford",31.2
+"036 The Leap, Co. Wexford",38.7
+"037 Tinnacross, Co. Wexford",38.6
+"038 Tombrack, Co. Wexford",28.6
+"039 Ardamine, Co. Wexford",146.4
+"040 Balloughter, Co. Wexford",22.7
+"041 Ballybeg, Co. Wexford",24.4
+"042 Ballycanew, Co. Wexford",63.4
+"043 Ballyellis, Co. Wexford",32.5
+"044 Ballygarrett, Co. Wexford",41.1
+"045 Ballylarkin, Co. Wexford",48.6
+"046 Ballynestragh, Co. Wexford",55
+"047 Cahore, Co. Wexford",23.9
+"048 Coolgreany, Co. Wexford",45.4
+"049 Courtown, Co. Wexford",80.1
+"050 Ford, Co. Wexford",35.4
+"051 Gorey Rural, Co. Wexford",229.1
+"052 Gorey Urban, Co. Wexford",2100.6
+"053 Huntingtown, Co. Wexford",26.4
+"054 Kilcomb, Co. Wexford",43.6
+"055 Kilgorman, Co. Wexford",48.8
+"056 Killenagh, Co. Wexford",34.2
+"057 Killincooly, Co. Wexford",61.2
+"058 Kilnahue, Co. Wexford",28.8
+"059 Limerick, Co. Wexford",44.8
+"060 Monamolin, Co. Wexford",41.1
+"061 Monaseed, Co. Wexford",30.2
+"062 Rossminoge, Co. Wexford",37.2
+"063 Wells, Co. Wexford",30.7
+"064 Wingfield, Co. Wexford",24
+"065 Adamstown, Co. Wexford",42.8
+"066 Ballyanne, Co. Wexford",36.2
+"067 Ballyhack, Co. Wexford",62.2
+"068 Barrack Village, Co. Wexford",7.2
+"069 Barronstown, Co. Wexford",30.7
+"070 Carnagh, Co. Wexford",30.2
+"071 Carrickbyrne, Co. Wexford",30.6
+"072 Clongeen, Co. Wexford",43.4
+"073 Clonleigh, Co. Wexford",27.2
+"074 Dunmain, Co. Wexford",30
+"075 Fethard, Co. Wexford",53.6
+"076 Horetown, Co. Wexford",26.8
+"077 Inch, Co. Wexford",35.2
+"078 Kilgarvan, Co. Wexford",25.1
+"079 Killesk, Co. Wexford",32.3
+"080 Kilmokea, Co. Wexford",61.1
+"081 Newbawn, Co. Wexford",25.1
+"082 New Ross Rural, Co. Wexford",240.9
+"083 Oldcourt, Co. Wexford",38.6
+"084 Old Ross, Co. Wexford",34.9
+"085 Rathroe, Co. Wexford",34
+"086 Rochestown, Co. Wexford",22.8
+"087 Templeludigan, Co. Wexford",22.8
+"088 Templetown, Co. Wexford",26.9
+"089 Tintern, Co. Wexford",43.2
+"090 Whitechurch, Co. Wexford",28.5
+"091 Whitemoor, Co. Wexford",27.3
+"092 Ardcavan, Co. Wexford",131
+"093 Ardcolm, Co. Wexford",41.8
+"094 Artramon, Co. Wexford",44.6
+"095 Aughwilliam, Co. Wexford",34.3
+"096 Ballymitty, Co. Wexford",30.1
+"097 Bannow, Co. Wexford",46.7
+"098 Bridgetown, Co. Wexford",57
+"099 Carrick, Co. Wexford",129.7
+"100 Drinagh, Co. Wexford",66.3
+"101 Duncormick, Co. Wexford",42.6
+"102 Forth, Co. Wexford",54.7
+"103 Glynn, Co. Wexford",57
+"104 Harperstown, Co. Wexford",36.7
+"105 Harristown, Co. Wexford",32.7
+"106 Kilbride, Co. Wexford",30.6
+"107 Kilcowan, Co. Wexford",33.9
+"108 Killag, Co. Wexford",24.4
+"109 Killinick, Co. Wexford",48.6
+"110 Killurin, Co. Wexford",50.9
+"111 Kilmore, Co. Wexford",84.5
+"112 Kilpatrick, Co. Wexford",48.5
+"113 Kilscoran, Co. Wexford",69.2
+"114 Lady's Island, Co. Wexford",52.4
+"115 Mayglass, Co. Wexford",48
+"116 Newcastle, Co. Wexford",62.4
+"117 Rathaspick, Co. Wexford",85.7
+"118 Rosslare, Co. Wexford",124.1
+"119 St. Helen's, Co. Wexford",186.9
+"120 Tacumshin, Co. Wexford",30.9
+"121 Taghmon, Co. Wexford",54.8
+"122 Tomhaggard, Co. Wexford",37
+"123 Wexford Rural (Part Urban), Co. Wexford",948.4
+"124 Whitechurch, Co. Wexford",25.3
+"001 Arklow No. 1 Urban, Co. Wicklow",2402.5
+"002 Arklow No. 2 Urban, Co. Wicklow",1362.7
+"003 Bray No. 1, Co. Wicklow",3345.4
+"004 Bray No. 2, Co. Wicklow",2756.4
+"005 Bray No. 3, Co. Wicklow",4611.4
+"006 Rathmichael (Bray), Co. Wicklow",7689
+"007 Wicklow Urban, Co. Wicklow",2201.5
+"008 Ballinguile, Co. Wicklow",5.3
+"009 Baltinglass, Co. Wicklow",140.2
+"010 Blessington, Co. Wicklow",74.5
+"011 Burgage, Co. Wicklow",122.6
+"012 Donaghmore, Co. Wicklow",25.1
+"013 Donard, Co. Wicklow",26.3
+"014 Dunlavin, Co. Wicklow",76.3
+"015 Eadestown, Co. Wicklow",11.5
+"016 Hartstown, Co. Wicklow",18.4
+"017 Hollywood, Co. Wicklow",26
+"018 Humewood, Co. Wicklow",18.4
+"019 Imael North, Co. Wicklow",5.3
+"020 Imael South, Co. Wicklow",11.3
+"021 Kilbride, Co. Wicklow",20.7
+"022 Lackan, Co. Wicklow",12.6
+"023 Lugglass, Co. Wicklow",4.5
+"024 Rathdangan, Co. Wicklow",19
+"025 Rathsallagh, Co. Wicklow",19.5
+"026 Stratford, Co. Wicklow",50.3
+"027 Talbotstown, Co. Wicklow",28.7
+"028 The Grange, Co. Wicklow",24.6
+"029 Tober, Co. Wicklow",26.4
+"030 Togher, Co. Wicklow",18.8
+"031 Tuckmill, Co. Wicklow",24.3
+"032 Delgany, Co. Wicklow",488.6
+"033 Enniskerry, Co. Wicklow",90.2
+"034 Greystones, Co. Wicklow",1914.8
+"035 Kilmacanoge (Part Urban), Co. Wicklow",518.9
+"036 Powerscourt, Co. Wicklow",13.7
+"037 Altidore, Co. Wicklow",20.4
+"038 Arklow Rural, Co. Wicklow",21.6
+"039 Aughrim, Co. Wicklow",69.7
+"040 Avoca, Co. Wicklow",51.3
+"041 Ballinaclash, Co. Wicklow",32.3
+"042 Ballinacor, Co. Wicklow",6.7
+"043 Ballinderry, Co. Wicklow",22.2
+"044 Ballyarthur, Co. Wicklow",59.1
+"045 Ballycullen, Co. Wicklow",23.7
+"046 Brockagh, Co. Wicklow",9.7
+"047 Calary, Co. Wicklow",9.9
+"048 Cronebane, Co. Wicklow",34.9
+"049 Dunganstown East, Co. Wicklow",32.8
+"050 Dunganstown South, Co. Wicklow",38.7
+"051 Dunganstown West, Co. Wicklow",18.2
+"052 Ennereilly, Co. Wicklow",20.9
+"053 Glendalough, Co. Wicklow",4.5
+"054 Glenealy, Co. Wicklow",68.6
+"055 Kilbride, Co. Wicklow",36
+"056 Kilcoole, Co. Wicklow",451.2
+"057 Killiskey, Co. Wicklow",44.8
+"058 Knockrath, Co. Wicklow",3.5
+"059 Moneystown, Co. Wicklow",21.9
+"060 Newcastle Lower, Co. Wicklow",94.4
+"061 Newcastle Upper, Co. Wicklow",148.5
+"062 Oldtown, Co. Wicklow",32.9
+"063 Rathdrum, Co. Wicklow",68.4
+"064 Togher, Co. Wicklow",67.6
+"065 Trooperstown, Co. Wicklow",16.7
+"066 Wicklow Rural, Co. Wicklow",246.1
+"067 Aghowle, Co. Wicklow",14.6
+"068 Ballingate, Co. Wicklow",18.9
+"069 Ballinglen, Co. Wicklow",12
+"070 Ballybeg, Co. Wicklow",10
+"071 Carnew, Co. Wicklow",71.5
+"072 Coolattin, Co. Wicklow",17.9
+"073 Coolballintaggart, Co. Wicklow",12.1
+"074 Coolboy, Co. Wicklow",36.3
+"075 Cronelea, Co. Wicklow",13
+"076 Kilballyowen, Co. Wicklow",19.9
+"077 Killinure, Co. Wicklow",19.5
+"078 Kilpipe, Co. Wicklow",14.5
+"079 Money, Co. Wicklow",9.5
+"080 Rath, Co. Wicklow",17.3
+"081 Shillelagh, Co. Wicklow",37.5
+"082 Tinahely, Co. Wicklow",37.3
+"001 Ennis No. 1 Urban, Co. Clare",2184.7
+"002 Ennis No. 2 Urban, Co. Clare",4132.6
+"003 Ennis No. 3 Urban, Co. Clare",817.3
+"004 Ennis No. 4 Urban, Co. Clare",2947.4
+"005 Kilrush Urban, Co. Clare",481.2
+"006 Abbey, Co. Clare",18.3
+"007 Carran, Co. Clare",3.3
+"008 Castletown, Co. Clare",3.2
+"009 Derreen, Co. Clare",5.9
+"010 Drumcreehy, Co. Clare",20.2
+"011 Gleninagh, Co. Clare",5.5
+"012 Lisdoonvarna, Co. Clare",73.7
+"013 Mountelva, Co. Clare",2.9
+"014 Noughaval, Co. Clare",4.5
+"015 Oughtmama, Co. Clare",3.1
+"016 Rathborney, Co. Clare",3.1
+"017 Ballyeighter, Co. Clare",7
+"018 Boston, Co. Clare",6.2
+"019 Corrofin, Co. Clare",42.6
+"020 Glenroe, Co. Clare",4.8
+"021 Killinaboy, Co. Clare",11.2
+"022 Kiltoraght, Co. Clare",10.2
+"023 Muckanagh, Co. Clare",9.8
+"024 Rath, Co. Clare",16.3
+"025 Ruan, Co. Clare",26.5
+"026 Clareabbey (Part Urban), Co. Clare",116.6
+"027 Clenagh, Co. Clare",332.1
+"028 Crusheen, Co. Clare",34.5
+"029 Doora (Part Urban), Co. Clare",64.9
+"030 Drumline, Co. Clare",68.8
+"031 Dysert, Co. Clare",18.5
+"032 Ennis Rural (Part Urban), Co. Clare",623.3
+"033 Furroor, Co. Clare",7.6
+"034 Kilcloher, Co. Clare",28.3
+"035 Killanniv, Co. Clare",29.2
+"036 Killone, Co. Clare",38.9
+"037 Kilnamona, Co. Clare",33.7
+"038 Kilraghtis, Co. Clare",36
+"039 Kinturk, Co. Clare",13.3
+"040 Newmarket, Co. Clare",109.2
+"041 Sixmilebridge, Co. Clare",173.1
+"042 Spancelhill (Part Urban), Co. Clare",38.1
+"043 Templemaley, Co. Clare",56.4
+"044 Tomfinlough, Co. Clare",32.6
+"045 Urlan, Co. Clare",53.2
+"046 Annagh, Co. Clare",18.1
+"047 Ballagh, Co. Clare",13.3
+"048 Ballyea, Co. Clare",24.7
+"049 Ballysteen, Co. Clare",19.4
+"050 Ballyvaskin, Co. Clare",19.2
+"051 Cloghaun, Co. Clare",12
+"052 Cloonanaha, Co. Clare",10.5
+"053 Clooney, Co. Clare",15.8
+"054 Ennistimon, Co. Clare",90.8
+"055 Formoyle, Co. Clare",8.9
+"056 Kilfenora, Co. Clare",16.7
+"057 Killaspuglonane, Co. Clare",19.7
+"058 Killilagh, Co. Clare",33.6
+"059 Kilshanny, Co. Clare",16.5
+"060 Liscannor, Co. Clare",26.4
+"061 Lurraga, Co. Clare",17.4
+"062 Magherareagh, Co. Clare",12
+"063 Milltown Malbay, Co. Clare",88.6
+"064 Moy, Co. Clare",27.1
+"065 Smithstown, Co. Clare",11.4
+"066 Ballynacally, Co. Clare",18.2
+"067 Clondagad, Co. Clare",24.8
+"068 Coolmeen, Co. Clare",10.9
+"069 Kilchreest, Co. Clare",17.3
+"070 Kilfiddane, Co. Clare",12.1
+"071 Killadysert, Co. Clare",24
+"072 Killofin, Co. Clare",14
+"073 Kilmurry, Co. Clare",15.6
+"074 Liscasey, Co. Clare",21.9
+"075 Lisheen, Co. Clare",34
+"076 Rinealon, Co. Clare",13
+"077 Cahermurphy, Co. Clare",11.6
+"078 Cloonadrum, Co. Clare",26.5
+"079 Clooncoorha, Co. Clare",17.6
+"080 Cooraclare, Co. Clare",23.8
+"081 Creegh, Co. Clare",21.2
+"082 Doonbeg, Co. Clare",36.4
+"083 Drumellihy, Co. Clare",16.2
+"084 Einagh, Co. Clare",21.2
+"085 Glenmore, Co. Clare",10.3
+"086 Kilballyowen, Co. Clare",9.7
+"087 Kilfearagh, Co. Clare",18.1
+"088 Kilkee, Co. Clare",175.6
+"089 Killard, Co. Clare",15.6
+"090 Killimer, Co. Clare",21.1
+"091 Kilmihil, Co. Clare",29.2
+"092 Kilmurry, Co. Clare",41.4
+"093 Kilrush Rural, Co. Clare",21.9
+"094 Knock, Co. Clare",11.4
+"095 Knocknaboley, Co. Clare",9.6
+"096 Knocknagore, Co. Clare",10.6
+"097 Moveen, Co. Clare",8.9
+"098 Moyarta, Co. Clare",11
+"099 Mullagh, Co. Clare",11.6
+"100 Querrin, Co. Clare",17.3
+"101 Rahona, Co. Clare",17.4
+"102 St. Martin's, Co. Clare",10.3
+"103 Tullig, Co. Clare",7
+"104 Tullycreen, Co. Clare",12.8
+"105 Ballycannan, Co. Clare",103.5
+"106 Ballyglass, Co. Clare",397.9
+"107 Cappavilla, Co. Clare",100
+"108 Castlecrine, Co. Clare",24.9
+"109 Cloghera, Co. Clare",28.1
+"110 Cloontra, Co. Clare",11.5
+"111 Cratloe, Co. Clare",73.2
+"112 Fahymore, Co. Clare",16.1
+"113 Killeely, Co. Clare",52.6
+"114 Killokennedy, Co. Clare",6
+"115 Kilseily, Co. Clare",27
+"116 Kiltenanlea, Co. Clare",92
+"117 Lackareagh, Co. Clare",8.8
+"118 Mountievers, Co. Clare",62.1
+"119 O'Briensbridge, Co. Clare",53.5
+"120 Ayle, Co. Clare",19
+"121 Boherglass, Co. Clare",17
+"122 Caherhurley, Co. Clare",14.9
+"123 Cahermurphy, Co. Clare",3.1
+"124 Cappaghabaun, Co. Clare",4.6
+"125 Carrowbaun, Co. Clare",6.5
+"126 Cloonusker, Co. Clare",7.4
+"127 Coolreagh, Co. Clare",13.4
+"128 Corlea, Co. Clare",6.1
+"129 Derrynagittagh, Co. Clare",12.6
+"130 Drummaan, Co. Clare",21.2
+"131 Feakle, Co. Clare",21.2
+"132 Inishcaltra North, Co. Clare",13.1
+"133 Inishcaltra South, Co. Clare",19.6
+"134 Killaloe, Co. Clare",112.1
+"135 Mountshannon, Co. Clare",25.7
+"136 Ogonnelloe, Co. Clare",27.3
+"137 Scarriff, Co. Clare",46.2
+"138 Ballyblood, Co. Clare",14.6
+"139 Ballynahinch, Co. Clare",14.1
+"140 Caher, Co. Clare",8.1
+"141 Clooney, Co. Clare",27.4
+"142 Dangan, Co. Clare",14.7
+"143 Glendree, Co. Clare",9.7
+"144 Kilkishen, Co. Clare",49.4
+"145 Killanena, Co. Clare",7.3
+"146 Killuran, Co. Clare",19.3
+"147 Kiltannon, Co. Clare",10.6
+"148 Kyle, Co. Clare",18.9
+"149 Loughea, Co. Clare",6.8
+"150 Newgrove, Co. Clare",12.6
+"151 Quin, Co. Clare",80.9
+"152 Rathclooney, Co. Clare",11.1
+"153 Rossroe, Co. Clare",47.4
+"154 Toberbreeda, Co. Clare",10.6
+"155 Tulla, Co. Clare",56.7
+"001 Ballinlough A, Cork City",4860.7
+"002 Ballinlough B, Cork City",3615.5
+"003 Ballinlough C, Cork City",2774.4
+"004 Ballyphehane A, Cork City",5758.6
+"005 Ballyphehane B, Cork City",1903.8
+"006 Bishopstown A, Cork City",1451.2
+"007 Bishopstown B, Cork City",2028.5
+"008 Bishopstown C, Cork City",2963.9
+"009 Bishopstown D, Cork City",2503.8
+"010 Bishopstown E, Cork City",3242.3
+"011 Blackpool A, Cork City",4502
+"012 Blackpool B, Cork City",4177.2
+"013 Browningstown, Cork City",2889.7
+"014 Centre A, Cork City",3061.3
+"015 Centre B, Cork City",7939.7
+"016 Churchfield, Cork City",5536.3
+"017 City Hall A, Cork City",4087.5
+"018 City Hall B, Cork City",4218.3
+"019 Commons, Cork City",765.2
+"020 Evergreen, Cork City",7134.6
+"021 Fair Hill A, Cork City",4824.5
+"022 Fair Hill B, Cork City",4090.5
+"023 Fair Hill C, Cork City",4326.5
+"024 Farranferris A, Cork City",8177.8
+"025 Farranferris B, Cork City",6535.7
+"026 Farranferris C, Cork City",1937.1
+"027 Gillabbey A, Cork City",7961.7
+"028 Gillabbey B, Cork City",4408.9
+"029 Gillabbey C, Cork City",5481
+"030 Glasheen A, Cork City",3112.8
+"031 Glasheen B, Cork City",4973.9
+"032 Glasheen C, Cork City",4900.8
+"033 Greenmount, Cork City",7174.8
+"034 Gurranebraher A, Cork City",9449.4
+"035 Gurranebraher B, Cork City",7987.9
+"036 Gurranebraher C, Cork City",8266.7
+"037 Gurranebraher D, Cork City",11194.5
+"038 Gurranebraher E, Cork City",8188.2
+"039 Knocknaheeny, Cork City",3380.5
+"040 Knockrea A, Cork City",3454
+"041 Knockrea B, Cork City",764.8
+"042 Mahon A, Cork City",3401.3
+"043 Mahon B, Cork City",1618.6
+"044 Mahon C, Cork City",3353.4
+"045 Mardyke, Cork City",2461
+"046 Mayfield, Cork City",4058.6
+"047 Montenotte A, Cork City",5011.1
+"048 Montenotte B, Cork City",3238.1
+"049 Pouladuff A, Cork City",4420.9
+"050 Pouladuff B, Cork City",3375.2
+"051 St. Patrick's A, Cork City",4399.5
+"052 St. Patrick's B, Cork City",4562.9
+"053 St. Patrick's C, Cork City",8556.2
+"054 Shanakiel, Cork City",2840.4
+"055 Shandon A, Cork City",9768.1
+"056 Shandon B, Cork City",14587.2
+"057 South Gate A, Cork City",11079.7
+"058 South Gate B, Cork City",13616.4
+"059 Sundays Well A, Cork City",2221.6
+"060 Sundays Well B, Cork City",5188.4
+"061 The Glen A, Cork City",2965.9
+"062 The Glen B, Cork City",4753.6
+"063 The Lough, Cork City",5750.1
+"064 Tivoli A, Cork City",1794.9
+"065 Tivoli B, Cork City",1885.9
+"066 Togher A, Cork City",3085.6
+"067 Togher B, Cork City",5758.1
+"068 Tramore A, Cork City",2967.6
+"069 Tramore B, Cork City",3350.8
+"070 Tramore C, Cork City",2533.4
+"071 Turners Cross A, Cork City",4416.6
+"072 Turners Cross B, Cork City",7005.9
+"073 Turners Cross C, Cork City",3503.9
+"074 Turners Cross D, Cork City",1829
+"001 Clonakilty Urban, Co. Cork",885.5
+"002 Cobh Urban, Co. Cork",2741.9
+"003 Fermoy Urban, Co. Cork",1840.7
+"004 Kinsale Urban, Co. Cork",2176.7
+"005 Macroom Urban, Co. Cork",376.7
+"006 Mallow North Urban, Co. Cork",1596.8
+"007 Mallow South Urban, Co. Cork",1097.5
+"008 Midleton Urban, Co. Cork",2547.6
+"009 Skibbereen Urban, Co. Cork",669.7
+"010 Youghal Urban, Co. Cork",1462.3
+"011 Ballinadee, Co. Cork",30.8
+"012 Ballygroman, Co. Cork",92.7
+"013 Ballymodan, Co. Cork",159.2
+"014 Ballymurphy, Co. Cork",69.1
+"015 Bandon, Co. Cork",2520.2
+"016 Baurleigh, Co. Cork",28.3
+"017 Bengour, Co. Cork",17.7
+"018 Boulteen, Co. Cork",31.4
+"019 Brinny, Co. Cork",31.1
+"020 Cashel, Co. Cork",28
+"021 Inishannon, Co. Cork",99.3
+"022 Kilbonane, Co. Cork",63.8
+"023 Kilbrittain, Co. Cork",45.1
+"024 Kilbrogan, Co. Cork",68.1
+"025 Knockavilly, Co. Cork",31
+"026 Knockroe, Co. Cork",35.7
+"027 Moviddy, Co. Cork",46.1
+"028 Murragh, Co. Cork",28.4
+"029 Rathclarin, Co. Cork",33.4
+"030 Teadies, Co. Cork",48
+"031 Templemartin, Co. Cork",26.2
+"032 Ahil, Co. Cork",3.7
+"033 Bantry Rural, Co. Cork",33.7
+"034 Bantry Urban, Co. Cork",323.8
+"035 Douce, Co. Cork",6.1
+"036 Durrus East, Co. Cork",16.6
+"037 Durrus West, Co. Cork",29
+"038 Glanlough, Co. Cork",13.2
+"039 Glengarriff, Co. Cork",24.1
+"040 Kealkill, Co. Cork",19.4
+"041 Kilcaskan, Co. Cork",11.5
+"042 Mealagh, Co. Cork",12.9
+"043 Scart, Co. Cork",14.5
+"044 Seefin, Co. Cork",14.6
+"045 Sheepshead, Co. Cork",7.1
+"046 Whiddy, Co. Cork",4.3
+"047 Adrigole, Co. Cork",7.3
+"048 Bear, Co. Cork",9.2
+"049 Coulagh, Co. Cork",13
+"050 Curryglass, Co. Cork",11.8
+"051 Kilcatherine, Co. Cork",13.4
+"052 Killaconenagh, Co. Cork",34.2
+"053 Kilnamanagh, Co. Cork",9.3
+"054 Abbeymahon, Co. Cork",34.7
+"055 Ardfield, Co. Cork",41.7
+"056 Argideen, Co. Cork",22.5
+"057 Butlerstown, Co. Cork",23.7
+"058 Cahermore, Co. Cork",19.7
+"059 Castleventry, Co. Cork",22.4
+"060 Clonakilty Rural, Co. Cork",73.6
+"061 Coolcraheen, Co. Cork",40.1
+"062 Courtmacsherry, Co. Cork",93.2
+"063 Derry, Co. Cork",31.9
+"064 Kilkerranmore, Co. Cork",34.2
+"065 Kilmaloda East, Co. Cork",25
+"066 Kilmaloda West, Co. Cork",18.6
+"067 Kilmoylerane, Co. Cork",22
+"068 Kilnagross, Co. Cork",36.7
+"069 Knocks, Co. Cork",26
+"070 Rathbarry, Co. Cork",29.6
+"071 Rosscarbery, Co. Cork",99.5
+"072 Rossmore, Co. Cork",25.5
+"073 Templeomalus, Co. Cork",43.1
+"074 Timoleague, Co. Cork",63.7
+"075 Ballincollig, Co. Cork",594.7
+"076 Ballygarvan, Co. Cork",102.4
+"077 Ballynaglogh, Co. Cork",27
+"078 Bishopstown (Part Rural), Co. Cork",269.8
+"079 Blackpool, Co. Cork",33
+"080 Blarney, Co. Cork",243.5
+"081 Caherlag, Co. Cork",273.2
+"082 Carrigaline, Co. Cork",476.1
+"083 Carrignavar, Co. Cork",37.3
+"084 Carrigrohane Beg, Co. Cork",66.7
+"085 Cobh Rural, Co. Cork",312.9
+"086 Douglas, Co. Cork",759.7
+"087 Dripsey, Co. Cork",59.1
+"088 Dunderrow, Co. Cork",78.6
+"089 Firmount, Co. Cork",34.1
+"090 Glenville, Co. Cork",32.8
+"091 Greenfort, Co. Cork",38.9
+"092 Inishkenny, Co. Cork",318.7
+"093 Killeagh, Co. Cork",30.4
+"094 Knockantota, Co. Cork",56
+"095 Knockraha, Co. Cork",59.9
+"096 Lehenagh, Co. Cork",784.6
+"097 Matehy, Co. Cork",109.5
+"098 Monkstown Rural, Co. Cork",150.5
+"099 Monkstown Urban, Co. Cork",1302
+"100 Ovens, Co. Cork",147.7
+"101 Rathcooney (Part Rural), Co. Cork",275
+"102 Riverstown, Co. Cork",157.5
+"103 St. Mary's (Part Rural), Co. Cork",293.2
+"104 Whitechurch, Co. Cork",100.2
+"105 Aultagh, Co. Cork",14.8
+"106 Ballingurteen, Co. Cork",29.2
+"107 Ballymoney, Co. Cork",34.1
+"108 B�al �tha an Ghaorthaidh, Co. Cork",5.2
+"109 Bealock, Co. Cork",10.5
+"110 Carrigboy, Co. Cork",16.7
+"111 Castletown, Co. Cork",24.5
+"112 Coolmountain, Co. Cork",12
+"113 Drinagh, Co. Cork",16.3
+"114 Dunmanway North, Co. Cork",47.6
+"115 Dunmanway South, Co. Cork",75.4
+"116 Garrown, Co. Cork",7
+"117 Kinneigh, Co. Cork",19.8
+"118 Manch, Co. Cork",23.7
+"119 Milane, Co. Cork",7.7
+"120 Teerelton, Co. Cork",21.2
+"121 Aghern, Co. Cork",15.8
+"122 Ballyhooly, Co. Cork",40.1
+"123 Ballynoe, Co. Cork",20.2
+"124 Carrig, Co. Cork",8.9
+"125 Castlecooke, Co. Cork",14.2
+"126 Castle Hyde, Co. Cork",41.3
+"127 Castlelyons, Co. Cork",49.2
+"128 Castletownroche, Co. Cork",37.1
+"129 Coole, Co. Cork",36.6
+"130 Curraglass, Co. Cork",16.2
+"131 Fermoy Rural, Co. Cork",235.9
+"132 Glanworth East, Co. Cork",19.5
+"133 Glanworth West, Co. Cork",57
+"134 Gortnaskehy, Co. Cork",15.2
+"135 Gortroe, Co. Cork",25.8
+"136 Kilcor, Co. Cork",15.6
+"137 Kilcummer, Co. Cork",11
+"138 Kildinan, Co. Cork",14.4
+"139 Killathy, Co. Cork",16.9
+"140 Kilworth, Co. Cork",49.4
+"141 Knockmourne, Co. Cork",35.4
+"142 Leitrim, Co. Cork",20.9
+"143 Rathcormack, Co. Cork",83.6
+"144 Watergrasshill, Co. Cork",47.8
+"145 Allow, Co. Cork",19.1
+"146 Ballyhoolahan, Co. Cork",17.1
+"147 Banteer, Co. Cork",33.6
+"148 Barleyhill, Co. Cork",13.9
+"149 Barnacurra, Co. Cork",12.4
+"150 Bawncross, Co. Cork",15
+"151 Boherboy, Co. Cork",27.9
+"152 Castlecor, Co. Cork",24.2
+"153 Castlemagner, Co. Cork",33.7
+"154 Clonfert East, Co. Cork",9.2
+"155 Clonfert West, Co. Cork",5.5
+"156 Clonmeen, Co. Cork",20.7
+"157 Coolclogh, Co. Cork",21.7
+"158 Dromina, Co. Cork",30.9
+"159 Glenlara, Co. Cork",13.9
+"160 Gortmore, Co. Cork",32.8
+"161 Greenane, Co. Cork",63.7
+"162 Kanturk, Co. Cork",93.5
+"163 Kilbrin, Co. Cork",18.2
+"164 Kilmeen, Co. Cork",16.6
+"165 Knockatooan, Co. Cork",7.5
+"166 Knocktemple, Co. Cork",22.4
+"167 Meens, Co. Cork",16.8
+"168 Milford, Co. Cork",30.2
+"169 Nad, Co. Cork",4.9
+"170 Newmarket, Co. Cork",54.3
+"171 Newtown, Co. Cork",35.7
+"172 Roskeen, Co. Cork",24.3
+"173 Rosnalee, Co. Cork",23.6
+"174 Rowls, Co. Cork",5.4
+"175 Tincoora, Co. Cork",27
+"176 Tullylease, Co. Cork",17
+"177 Williamstown, Co. Cork",24.4
+"178 Ballinspittle, Co. Cork",46.6
+"179 Ballyfeard, Co. Cork",26.7
+"180 Ballyfoyle, Co. Cork",27
+"181 Ballymackean, Co. Cork",32.6
+"182 Ballymartle, Co. Cork",46.8
+"183 Carrigaline, Co. Cork",162.6
+"184 Coolmain, Co. Cork",24
+"185 Cullen, Co. Cork",45.7
+"186 Farranbrien, Co. Cork",33.9
+"187 Kilmonoge, Co. Cork",80
+"188 Kilpatrick, Co. Cork",41.2
+"189 Kinsale Rural, Co. Cork",98.7
+"190 Kinure, Co. Cork",34.4
+"191 Laherne, Co. Cork",55.9
+"192 Leighmoney, Co. Cork",39.7
+"193 Liscleary, Co. Cork",228.4
+"194 Nohaval, Co. Cork",35.3
+"195 Templebreedy, Co. Cork",293.1
+"196 Templemichael, Co. Cork",36.3
+"197 Aghinagh, Co. Cork",25.3
+"198 Aglish, Co. Cork",61.9
+"199 B�al �tha an Ghaorthaidh (Bealanageary), Co. Cork",16.2
+"200 Ceann Droma, Co. Cork",21
+"201 Cannaway, Co. Cork",29.1
+"202 Claonr�th, Co. Cork",8.2
+"203 Clondrohid, Co. Cork",19.1
+"204 Clonmoyle, Co. Cork",34.7
+"205 Doire Fh�n�n, Co. Cork",13
+"206 Gort na Tiobratan, Co. Cork",11.3
+"207 Gowlane, Co. Cork",33.4
+"208 Greenville, Co. Cork",16.5
+"209 Inchigeelagh, Co. Cork",21.4
+"210 Kilberrihert, Co. Cork",14
+"211 Kilcullen, Co. Cork",24.6
+"212 Cill na Martra, Co. Cork",24.8
+"213 Macloneigh, Co. Cork",32
+"214 Magourney, Co. Cork",50.7
+"215 Mashanaglass, Co. Cork",31.9
+"216 Mountrivers, Co. Cork",19.6
+"217 Rahalisk, Co. Cork",12.3
+"218 An Sliabh Riabhach, Co. Cork",18.2
+"219 Na hUl�in, Co. Cork",19.1
+"220 Warrenscourt, Co. Cork",29.5
+"221 Ardskeagh, Co. Cork",22.2
+"222 Ballyclogh, Co. Cork",26.9
+"223 Ballynamona, Co. Cork",24.2
+"224 Buttevant, Co. Cork",50.9
+"225 Caherduggan, Co. Cork",38.5
+"226 Carrig, Co. Cork",19.9
+"227 Churchtown, Co. Cork",29.6
+"228 Clenor, Co. Cork",16.7
+"229 Doneraile, Co. Cork",57.3
+"230 Dromore, Co. Cork",50.4
+"231 Imphrick, Co. Cork",14.5
+"232 Kilmaclenine, Co. Cork",30.3
+"233 Kilshannig, Co. Cork",18.9
+"234 Liscarroll, Co. Cork",31.3
+"235 Mallow Rural, Co. Cork",141.1
+"236 Milltown, Co. Cork",19.3
+"237 Monanimy, Co. Cork",23
+"238 Rahan, Co. Cork",22.9
+"239 Rathluirc, Co. Cork",228.3
+"240 Shanballymore, Co. Cork",28.8
+"241 Skahanagh, Co. Cork",6.9
+"242 Springfort, Co. Cork",30.2
+"243 Streamhill, Co. Cork",5.1
+"244 Templemary, Co. Cork",17.9
+"245 Wallstown, Co. Cork",16.7
+"246 Ballintemple, Co. Cork",27.3
+"247 Ballycottin, Co. Cork",97.2
+"248 Ballyspillane, Co. Cork",26.5
+"249 Carrigtohill, Co. Cork",160.3
+"250 Castlemartyr, Co. Cork",45.2
+"251 Clonmult, Co. Cork",15.8
+"252 Cloyne, Co. Cork",146.1
+"253 Corkbeg, Co. Cork",140.1
+"254 Dangan, Co. Cork",20
+"255 Dungourney, Co. Cork",32.3
+"256 Garryvoe, Co. Cork",40.2
+"257 Ightermurragh, Co. Cork",93.1
+"258 Inch, Co. Cork",23.6
+"259 Lisgoold, Co. Cork",34.8
+"260 Midleton Rural, Co. Cork",251.6
+"261 Mogeely, Co. Cork",38.9
+"262 Rostellan, Co. Cork",76
+"263 Templebodan, Co. Cork",21.1
+"264 Templenacarriga, Co. Cork",23
+"265 Caherbarnagh, Co. Cork",10.8
+"266 Coomlogane, Co. Cork",18.7
+"267 Crinnaloo, Co. Cork",10.1
+"268 Cullen, Co. Cork",24.5
+"269 Derragh, Co. Cork",18.1
+"270 Doonasleen, Co. Cork",25.1
+"271 Drishane, Co. Cork",61.9
+"272 Keale, Co. Cork",17.7
+"273 Kilcorney, Co. Cork",15.8
+"274 Knocknagree, Co. Cork",23.1
+"275 Rathcool, Co. Cork",31.4
+"276 Skagh, Co. Cork",18.3
+"277 Ballyarthur, Co. Cork",22
+"278 Derryvillane, Co. Cork",21.2
+"279 Farahy, Co. Cork",25.3
+"280 Kildorrery, Co. Cork",41.7
+"281 Kilgullane, Co. Cork",16
+"282 Kilphelan, Co. Cork",24.6
+"283 Marshalstown, Co. Cork",29.9
+"284 Mitchelstown, Co. Cork",84
+"285 Templemolaga, Co. Cork",17.3
+"286 Aghadown North, Co. Cork",22.9
+"287 Aghadown South, Co. Cork",27.7
+"288 Bredagh, Co. Cork",32.8
+"289 Caheragh, Co. Cork",12.8
+"290 Cl�ire, Co. Cork",20.4
+"291 Carrigbaun, Co. Cork",16.8
+"292 Castlehaven North, Co. Cork",30.8
+"293 Castlehaven South, Co. Cork",26.5
+"294 Cloghdonnell, Co. Cork",15.3
+"295 Cloonkeen, Co. Cork",18.7
+"296 Drinagh, Co. Cork",20.5
+"297 Dromdaleague North, Co. Cork",12
+"298 Dromdaleague South, Co. Cork",31.2
+"299 Garranes, Co. Cork",16.6
+"300 Gortnascreeny, Co. Cork",18.3
+"301 Kilfaughnabeg, Co. Cork",45.1
+"302 Killeenleagh, Co. Cork",21.4
+"303 Knockskagh, Co. Cork",27.5
+"304 Myross, Co. Cork",51.8
+"305 Shreelane, Co. Cork",19.9
+"306 Skibbereen Rural, Co. Cork",40.7
+"307 Tullagh, Co. Cork",42.1
+"308 Woodfort, Co. Cork",19.9
+"309 Ballybane, Co. Cork",10.2
+"310 Ballydehob, Co. Cork",29.9
+"311 Coolagh, Co. Cork",12
+"312 Crookhaven, Co. Cork",9.2
+"313 Dunbeacon, Co. Cork",6.9
+"314 Dunmanus, Co. Cork",9.9
+"315 Goleen, Co. Cork",12.9
+"316 Kilcoe, Co. Cork",16.9
+"317 Lowertown, Co. Cork",18.7
+"318 Skull, Co. Cork",61.9
+"319 Toormore, Co. Cork",11.9
+"320 Ardagh, Co. Cork",21
+"321 Clonpriest, Co. Cork",37.9
+"322 Kilcronat, Co. Cork",8.7
+"323 Killeagh, Co. Cork",65.5
+"324 Kilmacdonogh, Co. Cork",39.1
+"325 Youghal Rural (Part Rural), Co. Cork",81.6
+"001 Killarney Urban, Co. Kerry",1467.7
+"002 Listowel Urban, Co. Kerry",673
+"003 Tralee Urban, Co. Kerry",2163.9
+"004 Na Beathacha, Co. Kerry",5.1
+"005 Baile an Sceilg, Co. Kerry",12.8
+"006 An Baile Breac, Co. Kerry",2.9
+"007 Caher, Co. Kerry",41.4
+"008 Cathair D�nall, Co. Kerry",14.7
+"009 Ceann�igh, Co. Kerry",4.4
+"010 Castlequin, Co. Kerry",10.9
+"011 Cloon, Co. Kerry",2.2
+"012 Curraghbeg, Co. Kerry",4.9
+"013 Doire Fh�on�in, Co. Kerry",6.3
+"014 Doire Ianna, Co. Kerry",2.1
+"015 An tImleach, Co. Kerry",24.5
+"016 Glanbehy, Co. Kerry",18
+"017 Killinane, Co. Kerry",5
+"018 Lickeen, Co. Kerry",2.9
+"019 Loch Lu�och, Co. Kerry",14.6
+"020 M�istir Gaoithe, Co. Kerry",2.3
+"021 Maum, Co. Kerry",6.6
+"022 Portmagee, Co. Kerry",24.7
+"023 Toghroinn Fh�on�in, Co. Kerry",11.2
+"024 Teeranearagh, Co. Kerry",10.7
+"025 Valencia, Co. Kerry",25
+"026 Ballinvoher, Co. Kerry",23
+"027 An Baile Dubh, Co. Kerry",3.5
+"028 Ballynacourty, Co. Kerry",12.9
+"029 C� Bhr�anainn, Co. Kerry",6.6
+"030 Castlegregory, Co. Kerry",42.1
+"031 An Cloch�n, Co. Kerry",6.8
+"032 Deelis, Co. Kerry",10.6
+"033 An Daingean, Co. Kerry",769.4
+"034 D�n Chaoin, Co. Kerry",9.7
+"035 D�n Urlann, Co. Kerry",24
+"036 Na Gleannta, Co. Kerry",29.8
+"037 Inch, Co. Kerry",6.8
+"038 Cill Maoilch�adair, Co. Kerry",24
+"039 Cill Chu�in, Co. Kerry",10.9
+"040 Cinn Aird, Co. Kerry",12.1
+"041 Lack, Co. Kerry",11.8
+"042 M�rthain, Co. Kerry",18.5
+"043 An Mhin Aird, Co. Kerry",15
+"044 An Sr�idbhaile, Co. Kerry",13.1
+"045 Ceann Tr�, Co. Kerry",17.5
+"046 Ardea, Co. Kerry",5.4
+"047 Banawn, Co. Kerry",3.4
+"048 Cappagh, Co. Kerry",10.3
+"049 Castlecove, Co. Kerry",4.7
+"050 Dawros, Co. Kerry",11.5
+"051 Dromore, Co. Kerry",13.5
+"052 Glanlee, Co. Kerry",2.8
+"053 Glanlough, Co. Kerry",3.3
+"054 Glanmore, Co. Kerry",3.2
+"055 Greenane, Co. Kerry",7.7
+"056 Kenmare, Co. Kerry",58
+"057 Kilgarvan, Co. Kerry",9.9
+"058 Loughbrin, Co. Kerry",2.4
+"059 Reen, Co. Kerry",7.4
+"060 Sneem, Co. Kerry",12.1
+"061 Tahilla, Co. Kerry",4.3
+"062 Aghadoe, Co. Kerry",81.6
+"063 Aglish, Co. Kerry",49.7
+"064 Ballyhar, Co. Kerry",21.2
+"065 Brewsterfield, Co. Kerry",27.5
+"066 Caragh, Co. Kerry",29.7
+"067 Churchtown, Co. Kerry",18.1
+"068 Clydagh, Co. Kerry",2
+"069 Coolies, Co. Kerry",29.4
+"070 Coom, Co. Kerry",28.1
+"071 Curraghmore, Co. Kerry",6.3
+"072 Currans, Co. Kerry",27.1
+"073 Doocarrig, Co. Kerry",17.5
+"074 Dromin, Co. Kerry",38.3
+"075 Dunloe, Co. Kerry",20.9
+"076 Flesk, Co. Kerry",6.9
+"077 Headfort, Co. Kerry",41.5
+"078 Kilbonane, Co. Kerry",37.6
+"079 Kilcummin, Co. Kerry",54.5
+"080 Kilfelim, Co. Kerry",21.6
+"081 Kilgobnet, Co. Kerry",31.2
+"082 Killarney Rural (Part Urban), Co. Kerry",133.2
+"083 Killeentierna, Co. Kerry",26.3
+"084 Killorglin, Co. Kerry",125.1
+"085 Kilnanare, Co. Kerry",27
+"086 Knocknahoe, Co. Kerry",19
+"087 Lahard, Co. Kerry",41.1
+"088 Milltown, Co. Kerry",77.9
+"089 Molahiffe, Co. Kerry",44.7
+"090 Muckross (Part Urban), Co. Kerry",9
+"091 Rathmore, Co. Kerry",46.4
+"092 Rockfield, Co. Kerry",45.9
+"093 Ardagh, Co. Kerry",43.6
+"094 Astee, Co. Kerry",21.2
+"095 Ballincloher, Co. Kerry",37.3
+"096 Ballyconry, Co. Kerry",38.2
+"097 Ballyduff, Co. Kerry",69.8
+"098 Ballyegan, Co. Kerry",8.9
+"099 Ballyhorgan, Co. Kerry",23.6
+"100 Beal, Co. Kerry",18.2
+"101 Carrig, Co. Kerry",33.8
+"102 Causeway, Co. Kerry",56.7
+"103 Cloontubbrid, Co. Kerry",25.8
+"104 Drommartin, Co. Kerry",30.9
+"105 Duagh, Co. Kerry",38.4
+"106 Ennismore, Co. Kerry",32.7
+"107 Gullane, Co. Kerry",16.1
+"108 Gunsborough, Co. Kerry",22.9
+"109 Kilfeighny, Co. Kerry",25.8
+"110 Killehenny, Co. Kerry",99
+"111 Killury, Co. Kerry",27
+"112 Kilmeany, Co. Kerry",30.1
+"113 Kilshenane, Co. Kerry",6.8
+"114 Kiltomy, Co. Kerry",26.2
+"115 Leitrim, Co. Kerry",28
+"116 Lislaughtin, Co. Kerry",23.3
+"117 Lisselton, Co. Kerry",17.8
+"118 Listowel Rural, Co. Kerry",56.7
+"119 Lixnaw, Co. Kerry",91.9
+"120 Moynsha, Co. Kerry",25.8
+"121 Newtownsandes, Co. Kerry",27.6
+"122 Rathea, Co. Kerry",17.7
+"123 Shronowen, Co. Kerry",15.8
+"124 Tarbert, Co. Kerry",45.1
+"125 Tarmon, Co. Kerry",23.7
+"126 Trienearagh, Co. Kerry",16.1
+"127 Urlee, Co. Kerry",30.1
+"128 Abbeydorney, Co. Kerry",44.9
+"129 Arabela, Co. Kerry",52.3
+"130 Ardfert, Co. Kerry",122.6
+"131 Ballyegan, Co. Kerry",27.5
+"132 Ballyheige, Co. Kerry",64.7
+"133 Ballynahaglish, Co. Kerry",84.9
+"134 Ballynorig, Co. Kerry",28.9
+"135 Ballyseedy, Co. Kerry",88
+"136 Banna, Co. Kerry",36.5
+"137 Baurtregaum, Co. Kerry",14.6
+"138 Blennerville (Part Urban), Co. Kerry",51
+"139 Boolteens, Co. Kerry",22.6
+"140 Brosna, Co. Kerry",29.7
+"141 Carker, Co. Kerry",19.2
+"142 Castleisland, Co. Kerry",92.4
+"143 Clogherbrien, Co. Kerry",65.7
+"144 Cordal, Co. Kerry",11.8
+"145 Crinny, Co. Kerry",17.3
+"146 Derreen, Co. Kerry",8.9
+"147 Doon, Co. Kerry",67.2
+"148 Gneeves, Co. Kerry",15.1
+"149 Kerryhead, Co. Kerry",26.5
+"150 Kilflyn, Co. Kerry",13.6
+"151 Kilgarrylander, Co. Kerry",19.6
+"152 Kilgobban, Co. Kerry",8.2
+"153 Killahan, Co. Kerry",24.2
+"154 Kilmurry, Co. Kerry",11.7
+"155 Kiltallagh, Co. Kerry",29.8
+"156 Knockglass, Co. Kerry",39.3
+"157 Knocknagashel, Co. Kerry",17.3
+"158 Lackabaun, Co. Kerry",15
+"159 Millbrook, Co. Kerry",14.6
+"160 Mount Eagle, Co. Kerry",4.8
+"161 Nohaval, Co. Kerry",14.3
+"162 O'Brennan, Co. Kerry",17
+"163 Ratass, Co. Kerry",65.9
+"164 Scartaglin, Co. Kerry",34.4
+"165 Tralee Rural (Part Urban), Co. Kerry",647.2
+"166 Tubrid, Co. Kerry",33.9
+"001 Abbey A, Limerick City",1901
+"002 Abbey B, Limerick City",2721.7
+"003 Abbey C, Limerick City",4831.2
+"004 Abbey D, Limerick City",4488.8
+"005 Ballinacurra A, Limerick City",1087.9
+"006 Ballinacurra B, Limerick City",2022.1
+"007 Ballynanty, Limerick City",2181.5
+"008 Castle A, Limerick City",3642.9
+"009 Castle B, Limerick City",3724.3
+"010 Castle C, Limerick City",2279.4
+"011 Castle D, Limerick City",2282.9
+"012 Coolraine, Limerick City",2950
+"013 Custom House, Limerick City",5206.9
+"014 Dock A, Limerick City",14758
+"015 Dock B, Limerick City",7063.2
+"016 Dock C, Limerick City",3469.8
+"017 Dock D, Limerick City",1341.3
+"018 Farranshone, Limerick City",3452.1
+"019 Galvone A, Limerick City",1938.6
+"020 Galvone B, Limerick City",1001.2
+"021 Glentworth A, Limerick City",2241.3
+"022 Glentworth B, Limerick City",4634.3
+"023 Glentworth C, Limerick City",2239.1
+"024 John's A, Limerick City",2066.9
+"025 John's B, Limerick City",3492.5
+"026 John's C, Limerick City",7259.3
+"027 Killeely A, Limerick City",3005
+"028 Killeely B, Limerick City",7075.4
+"029 Market, Limerick City",8757.5
+"030 Prospect A, Limerick City",4865.7
+"031 Prospect B, Limerick City",3570
+"032 Rathbane, Limerick City",2756.4
+"033 St. Laurence, Limerick City",1144.2
+"034 Shannon A, Limerick City",8181.7
+"035 Shannon B, Limerick City",4968.6
+"036 Singland A, Limerick City",5224.1
+"037 Singland B, Limerick City",3512
+"065 Limerick North Rural, Limerick City",754
+"001 Abbeyville, Co. Limerick",26.7
+"002 Adare North, Co. Limerick",33.5
+"003 Adare South, Co. Limerick",94.8
+"004 Ballingarry, Co. Limerick",53.2
+"005 Ballyagran, Co. Limerick",29.8
+"006 Ballygrennan, Co. Limerick",18.2
+"007 Ballynabanoge, Co. Limerick",22.6
+"008 Ballynoe, Co. Limerick",20.2
+"009 Castletown, Co. Limerick",17.9
+"010 Coolrus, Co. Limerick",21.3
+"011 Crean, Co. Limerick",28.9
+"012 Crecora, Co. Limerick",32.6
+"013 Croom, Co. Limerick",94.5
+"014 Dunnaman, Co. Limerick",38.6
+"015 Fedamore, Co. Limerick",64
+"016 Garrane, Co. Limerick",26.4
+"017 Grange, Co. Limerick",34.2
+"018 Kilfinny, Co. Limerick",18.8
+"019 Kilpeacon, Co. Limerick",32.3
+"020 Rathmore, Co. Limerick",23.7
+"021 Fleanmore, Co. Limerick",17.2
+"022 Glin, Co. Limerick",48
+"023 Kilfergus, Co. Limerick",15.6
+"024 Kilmoylan, Co. Limerick",11.2
+"025 Ardpatrick, Co. Limerick",18.3
+"026 Athlacca, Co. Limerick",22.6
+"027 Ballymacshaneboy, Co. Limerick",20
+"028 Bruff, Co. Limerick",71.9
+"029 Bruree, Co. Limerick",60.5
+"030 Bulgaden, Co. Limerick",23.4
+"031 Cahercorney, Co. Limerick",41.7
+"032 Colmanswell, Co. Limerick",18.4
+"033 Darragh, Co. Limerick",16.7
+"034 Dromin, Co. Limerick",21.5
+"035 Emlygrennan, Co. Limerick",30.3
+"036 Glenbrohane, Co. Limerick",21.6
+"037 Griston, Co. Limerick",19
+"038 Hospital, Co. Limerick",60.1
+"039 Kilfinnane, Co. Limerick",40.6
+"040 Kilflyn, Co. Limerick",10.3
+"041 Kilmallock, Co. Limerick",108.4
+"042 Kilteely, Co. Limerick",32.6
+"043 Knockainy, Co. Limerick",32
+"044 Knocklong, Co. Limerick",47.1
+"045 Particles, Co. Limerick",9.9
+"046 Rockhill, Co. Limerick",18.9
+"047 Tobernea, Co. Limerick",30.4
+"048 Uregare, Co. Limerick",27
+"049 Abington, Co. Limerick",56.7
+"050 Ballybricken, Co. Limerick",61.7
+"051 Ballycummin, Co. Limerick",952.1
+"052 Ballysimon, Co. Limerick",449.7
+"053 Ballyvarra, Co. Limerick",114.6
+"054 Caherconlish East, Co. Limerick",25.9
+"055 Caherconlish West, Co. Limerick",92.8
+"056 Caherelly, Co. Limerick",32.3
+"057 Cappamore, Co. Limerick",74.8
+"058 Carrig, Co. Limerick",40.1
+"059 Castleconnell, Co. Limerick",154
+"060 Clarina, Co. Limerick",84.9
+"061 Clonkeen, Co. Limerick",60.9
+"062 Doon West, Co. Limerick",10.1
+"063 Glenstal, Co. Limerick",34.6
+"064 Kilmurry, Co. Limerick",35.1
+"066 Limerick South Rural, Co. Limerick",308
+"067 Patrickswell, Co. Limerick",116.4
+"068 Roxborough, Co. Limerick",62.7
+"069 Anglesborough, Co. Limerick",13.6
+"070 Ballylanders, Co. Limerick",50.5
+"071 Cullane, Co. Limerick",20
+"072 Duntryleague, Co. Limerick",20.3
+"073 Galbally, Co. Limerick",35.3
+"074 Kilbeheny, Co. Limerick",9.4
+"075 Kilglass, Co. Limerick",23.6
+"076 Knocknascrow, Co. Limerick",13.7
+"077 Riversdale, Co. Limerick",17.2
+"078 Abbeyfeale, Co. Limerick",172.8
+"079 Ardagh, Co. Limerick",37.7
+"080 Ballintober, Co. Limerick",22.9
+"081 Ballynoe West, Co. Limerick",25.8
+"082 Boola, Co. Limerick",14.3
+"083 Broadford, Co. Limerick",33.3
+"084 Caher, Co. Limerick",27.4
+"085 Cleanglass, Co. Limerick",13.5
+"086 Cloncagh, Co. Limerick",17.8
+"087 Danganbeg, Co. Limerick",22.3
+"088 Dromcolliher, Co. Limerick",36.4
+"089 Dromtrasna, Co. Limerick",31
+"090 Feenagh, Co. Limerick",23.6
+"091 Garryduff, Co. Limerick",17.7
+"092 Glenagower, Co. Limerick",27.4
+"093 Glengort, Co. Limerick",21
+"094 Glensharrold, Co. Limerick",21.5
+"095 Kilmeedy, Co. Limerick",24.4
+"096 Knockaderry, Co. Limerick",34.4
+"097 Mahoonagh, Co. Limerick",40.7
+"098 Monagay, Co. Limerick",34.9
+"099 Mountcollins, Co. Limerick",27.8
+"100 Mountplummer, Co. Limerick",15.6
+"101 Newcastle Rural, Co. Limerick",87.8
+"102 Newcastle Urban, Co. Limerick",1613.6
+"103 Port, Co. Limerick",31.1
+"104 Rathronan, Co. Limerick",23.1
+"105 Rooskagh, Co. Limerick",13.5
+"106 Templeglentan, Co. Limerick",33.4
+"107 Askeaton East, Co. Limerick",43.2
+"108 Askeaton West, Co. Limerick",82.8
+"109 Aughinish, Co. Limerick",21
+"110 Ballyallinan, Co. Limerick",18.7
+"111 Ballynacarriga, Co. Limerick",54.7
+"112 Castletown, Co. Limerick",32.4
+"113 Craggs, Co. Limerick",19.5
+"114 Croagh, Co. Limerick",34.9
+"115 Dromard, Co. Limerick",33
+"116 Dunmoylan East, Co. Limerick",20.6
+"117 Dunmoylan West, Co. Limerick",7.7
+"118 Iveruss, Co. Limerick",20.3
+"119 Kilcornan, Co. Limerick",31.1
+"120 Kildimo, Co. Limerick",50.8
+"121 Kilscannell, Co. Limerick",24.9
+"122 Lismakeery, Co. Limerick",20.6
+"123 Loghill, Co. Limerick",29.6
+"124 Mohernagh, Co. Limerick",22.7
+"125 Nantinan, Co. Limerick",33.7
+"126 Pallaskenry, Co. Limerick",86
+"127 Rathkeale Rural, Co. Limerick",33.2
+"128 Rathkeale Urban, Co. Limerick",228.9
+"129 Riddlestown, Co. Limerick",27
+"130 Shanagolden, Co. Limerick",77.5
+"131 Shanid, Co. Limerick",29.8
+"132 Bilboa, Co. Limerick",15.9
+"133 Doon South, Co. Limerick",42.6
+"134 Grean, Co. Limerick",46.3
+"135 Oola, Co. Limerick",33.6
+"136 Templebredon, Co. Limerick",24.1
+"001 Nenagh East Urban, North Tipperary",685.3
+"002 Nenagh West Urban, North Tipperary",1457.1
+"003 Templemore, North Tipperary",451.1
+"004 Thurles Urban, North Tipperary",1343.1
+"005 Aglishcloghane, North Tipperary",10.2
+"006 Ballingarry, North Tipperary",12.5
+"007 Ballylusky, North Tipperary",14.7
+"008 Borrisokane, North Tipperary",61
+"009 Carrig, North Tipperary",14.5
+"010 Cloghjordan, North Tipperary",36.6
+"011 Cloghprior, North Tipperary",17.2
+"012 Clohaskin, North Tipperary",12
+"013 Finnoe, North Tipperary",12.6
+"014 Graigue, North Tipperary",15.2
+"015 Kilbarron, North Tipperary",17
+"016 Lorrha East, North Tipperary",10
+"017 Lorrha West, North Tipperary",11.6
+"018 Mertonhall, North Tipperary",10.5
+"019 Rathcabban, North Tipperary",16.4
+"020 Redwood, North Tipperary",6.4
+"021 Riverstown, North Tipperary",27.5
+"022 Terryglass, North Tipperary",16.8
+"023 Uskane, North Tipperary",11.9
+"024 Abington, North Tipperary",11.6
+"025 Aghnameadle, North Tipperary",11.4
+"026 Ardcrony, North Tipperary",34.3
+"027 Ballina, North Tipperary",124.7
+"028 Ballygibbon, North Tipperary",21.5
+"029 Ballymackey, North Tipperary",18
+"030 Ballynaclogh, North Tipperary",29.1
+"031 Birdhill, North Tipperary",32.7
+"032 Burgesbeg, North Tipperary",22.7
+"033 Carrigatogher, North Tipperary",33.5
+"034 Castletown, North Tipperary",48.3
+"035 Derrycastle, North Tipperary",22.9
+"036 Dolla, North Tipperary",7.8
+"037 Greenhall, North Tipperary",19.9
+"038 Kilcomenty, North Tipperary",32.5
+"039 Kilkeary, North Tipperary",26.8
+"040 Killoscully, North Tipperary",17.5
+"041 Kilmore, North Tipperary",19
+"042 Kilnaneave, North Tipperary",15.4
+"043 Kilnarath, North Tipperary",10.2
+"044 Knigh, North Tipperary",33.1
+"045 Lackagh, North Tipperary",0.7
+"046 Latteragh, North Tipperary",24.5
+"047 Monsea, North Tipperary",38.2
+"048 Nenagh Rural, North Tipperary",55.5
+"049 Newport, North Tipperary",102.8
+"050 Templederry, North Tipperary",5.3
+"051 Youghalarra, North Tipperary",31.2
+"052 Borrisnafarney, North Tipperary",11.9
+"053 Borrisnoe, North Tipperary",5.7
+"054 Bourney East, North Tipperary",12.1
+"055 Bourney West, North Tipperary",15.2
+"056 Killavinoge, North Tipperary",20.6
+"057 Killea, North Tipperary",14.1
+"058 Rathnaveoge, North Tipperary",14.3
+"059 Roscrea, North Tipperary",131.7
+"060 Timoney, North Tipperary",17.2
+"061 Ballycahill, North Tipperary",21.6
+"062 Ballymurreen, North Tipperary",22.6
+"063 Borrisoleigh, North Tipperary",54.3
+"064 Drom, North Tipperary",25
+"065 Foilnaman, North Tipperary",13.8
+"066 Glenkeen, North Tipperary",15.5
+"067 Gortkelly, North Tipperary",19.8
+"068 Holycross, North Tipperary",40.3
+"069 Inch, North Tipperary",27.1
+"070 Kilrush, North Tipperary",20.6
+"071 Littleton, North Tipperary",42
+"072 Longfordpass, North Tipperary",12.8
+"073 Loughmoe, North Tipperary",21.6
+"074 Moyaliff, North Tipperary",16.8
+"075 Moycarky, North Tipperary",33.4
+"076 Moyne, North Tipperary",17.2
+"077 Rahelty, North Tipperary",30
+"078 Templetouhy, North Tipperary",19.6
+"079 Thurles Rural, North Tipperary",60.6
+"080 Twomileborris, North Tipperary",37.4
+"081 Upperchurch, North Tipperary",10.8
+"082 Carrickbeg Urban, South Tipperary",421.3
+"083 Carrick-on-Suir Urban, South Tipperary",815.8
+"084 Cashel Urban, South Tipperary",1791.5
+"085 Clonmel East Urban, South Tipperary",1495
+"086 Clonmel West Urban, South Tipperary",2264.3
+"087 Tipperary East Urban, South Tipperary",1567.9
+"088 Tipperary West Urban, South Tipperary",1009.5
+"089 Carrick-on-Suir Rural, South Tipperary",32.2
+"090 Garrangibbon, South Tipperary",17.5
+"091 Kilmurry, South Tipperary",16.1
+"092 Newtown, South Tipperary",19
+"093 Ardmayle, South Tipperary",24.5
+"094 Ardsallagh, South Tipperary",15.9
+"095 Ballysheehan, South Tipperary",17.9
+"096 Cashel Rural, South Tipperary",74
+"097 Clogher, South Tipperary",11.3
+"098 Cloneen, South Tipperary",18.9
+"099 Clonoulty East, South Tipperary",28.8
+"100 Clonoulty West, South Tipperary",16.5
+"101 Colman, South Tipperary",22.8
+"102 Cooleagh, South Tipperary",19.5
+"103 Drangan, South Tipperary",22.6
+"104 Fethard, South Tipperary",1219.8
+"105 Gaile, South Tipperary",44.4
+"106 Graigue, South Tipperary",8.4
+"107 Greystown, South Tipperary",14.1
+"108 Killeenasteena, South Tipperary",23.6
+"109 Killenaule, South Tipperary",43.3
+"110 Kilpatrick, South Tipperary",29.8
+"111 Knockgraffon, South Tipperary",22.5
+"112 Magorban, South Tipperary",18.7
+"113 Nodstown, South Tipperary",27
+"114 Oughterleague, South Tipperary",31
+"115 Peppardstown, South Tipperary",31.2
+"116 Tullamain, South Tipperary",30.9
+"117 Ardfinnan, South Tipperary",44.4
+"118 Ballybacon, South Tipperary",14
+"119 Ballyporeen, South Tipperary",22.1
+"120 Burncourt, South Tipperary",14.6
+"121 Caher, South Tipperary",95.7
+"122 Clogheen, South Tipperary",14.4
+"123 Coolagarranroe, South Tipperary",17.9
+"124 Derrygrath, South Tipperary",28.1
+"125 Kilcommon, South Tipperary",83
+"126 Kilcoran, South Tipperary",11.3
+"127 Mortlestown, South Tipperary",93.7
+"128 Newcastle, South Tipperary",20.1
+"129 Tubbrid, South Tipperary",19.1
+"130 Tullaghmelan, South Tipperary",45.2
+"131 Tullaghorton, South Tipperary",11.5
+"132 Ballyclerahan, South Tipperary",49.4
+"133 Clonmel Rural (Part Urban), South Tipperary",257.3
+"134 Inishlounaght (Part Urban), South Tipperary",129.2
+"135 Kilcash, South Tipperary",21.9
+"136 Killaloan, South Tipperary",8.8
+"137 Kilsheelan, South Tipperary",49.7
+"138 Kiltinan, South Tipperary",12.3
+"139 Lisronagh, South Tipperary",45.6
+"140 Anner, South Tipperary",15.5
+"141 Ballingarry, South Tipperary",27.8
+"142 Ballyphilip, South Tipperary",28
+"143 Buolick, South Tipperary",26
+"144 Crohane, South Tipperary",15
+"145 Farranrory, South Tipperary",20.4
+"146 Fennor, South Tipperary",19.9
+"147 Kilcooly, South Tipperary",15.1
+"148 Kilvemnon, South Tipperary",22.9
+"149 Modeshil, South Tipperary",14.1
+"150 Mullinahone, South Tipperary",44.3
+"151 New Birmingham, South Tipperary",28
+"152 Poyntstown, South Tipperary",13.1
+"153 Ballycarron, South Tipperary",19
+"154 Ballygriffin, South Tipperary",18.8
+"155 Ballykisteen, South Tipperary",49.7
+"156 Bansha, South Tipperary",35.5
+"157 Bruis, South Tipperary",20.8
+"158 Cappagh, South Tipperary",36.2
+"159 Clonbeg, South Tipperary",13.3
+"160 Cullen, South Tipperary",25
+"161 Curraheen, South Tipperary",12.2
+"162 Donohill, South Tipperary",19
+"163 Drumwood, South Tipperary",31.7
+"164 Emly, South Tipperary",30.2
+"165 Glengar, South Tipperary",8
+"166 Golden, South Tipperary",40.1
+"167 Kilfeakle, South Tipperary",20.2
+"168 Killadriffe, South Tipperary",18.1
+"169 Kilmucklin, South Tipperary",22.5
+"170 Lattin, South Tipperary",31.3
+"171 Rathlynin, South Tipperary",23
+"172 Rodus, South Tipperary",14.7
+"173 Shronell, South Tipperary",21.9
+"174 Solloghodbeg, South Tipperary",21.5
+"175 Templeneiry, South Tipperary",9.9
+"176 Thomastown, South Tipperary",21.3
+"177 Tipperary Rural, South Tipperary",57.9
+"001 Ballybeg North, Waterford City",4248.7
+"002 Ballybeg South, Waterford City",142.3
+"003 Ballybricken West, Waterford City",2161.4
+"004 Ballymaclode, Waterford City",348.2
+"005 Ballynakill, Waterford City",2047.8
+"006 Ballynaneashagh, Waterford City",3.9
+"007 Ballytruckle, Waterford City",1356.8
+"008 Bilberry, Waterford City",1891.9
+"009 Centre A, Waterford City",5488.7
+"010 Centre B, Waterford City",4959.9
+"011 Cleaboy, Waterford City",3718.1
+"012 Custom House A, Waterford City",4271.5
+"013 Custom House B, Waterford City",2434.9
+"014 Farranshoneen, Waterford City",2503.7
+"015 Ferrybank, Waterford City",1187.2
+"016 Gracedieu, Waterford City",257.7
+"017 Grange North, Waterford City",1900.6
+"018 Grange South, Waterford City",637.4
+"019 Grange Upper, Waterford City",3023.1
+"020 Kilbarry, Waterford City",302.4
+"021 Kingsmeadow, Waterford City",2166
+"022 Larchville, Waterford City",1539.6
+"023 Lisduggan, Waterford City",7098.2
+"024 Military Road, Waterford City",3886.8
+"025 Morrisson's Avenue East, Waterford City",5199.6
+"026 Morrisson's Avenue West, Waterford City",4617.1
+"027 Morrisson's Road, Waterford City",7713.6
+"028 Mount Sion, Waterford City",4416.7
+"029 Newport's Square, Waterford City",7632.6
+"030 Newtown, Waterford City",2578.9
+"031 Park, Waterford City",2757.8
+"032 Poleberry, Waterford City",3001.4
+"033 Roanmore, Waterford City",5315
+"034 Shortcourse, Waterford City",6591.1
+"035 Slievekeale, Waterford City",2755.1
+"036 The Glen, Waterford City",9411.2
+"037 Ticor North, Waterford City",3771.6
+"038 Ticor South, Waterford City",3640
+"001 Dungarvan No. 1 Urban, Co. Waterford",1503.8
+"002 Dungarvan No. 2 Urban, Co. Waterford",1428.3
+"003 Ballydurn, Co. Waterford",7.2
+"004 Carrickbeg Rural, Co. Waterford",34.2
+"005 Clonea, Co. Waterford",22.9
+"006 Fenoagh, Co. Waterford",17.7
+"007 Glen, Co. Waterford",16.5
+"008 Kilmeadan, Co. Waterford",29.7
+"009 Mothel, Co. Waterford",22.1
+"010 Portlaw, Co. Waterford",82.3
+"011 Rathgormuck, Co. Waterford",5.7
+"012 Ross, Co. Waterford",16.7
+"013 Ballymacarbry, Co. Waterford",20.2
+"014 Graignagower, Co. Waterford",18.4
+"015 Gurteen, Co. Waterford",7.2
+"016 Kilmacomma, Co. Waterford",33.1
+"017 Kilronan, Co. Waterford",20.3
+"018 St. Mary's, Co. Waterford",19.4
+"019 Aird Mh�r, Co. Waterford",9.6
+"020 Baile Mhac Airt, Co. Waterford",12.9
+"021 Bohadoon, Co. Waterford",14.2
+"022 Cappagh, Co. Waterford",24.5
+"023 Carriglea, Co. Waterford",26.8
+"024 Clonea, Co. Waterford",89
+"025 Colligan, Co. Waterford",28.2
+"026 Coumaraglin, Co. Waterford",8.8
+"027 Dromana, Co. Waterford",54
+"028 Dromore, Co. Waterford",13.4
+"029 Dungarvan Rural, Co. Waterford",102.7
+"030 Keereen, Co. Waterford",17.8
+"031 Knockaunbrandaun, Co. Waterford",7.3
+"032 Modelligo, Co. Waterford",17.1
+"033 Mountstuart, Co. Waterford",5
+"034 An Rinn, Co. Waterford",56.3
+"035 Seskinan, Co. Waterford",16.1
+"036 Whitechurch, Co. Waterford",19
+"037 Annestown, Co. Waterford",47.8
+"038 Ballylaneen, Co. Waterford",17
+"039 Carrigcastle, Co. Waterford",28.8
+"040 Comeragh, Co. Waterford",18.2
+"041 Dunhill, Co. Waterford",23.8
+"042 Fews, Co. Waterford",17.8
+"043 Fox's Castle, Co. Waterford",22.2
+"044 Gardenmorris, Co. Waterford",31.9
+"045 Georgestown, Co. Waterford",22.1
+"046 Kilbarrymeaden, Co. Waterford",50.9
+"047 Kilmacthomas, Co. Waterford",62.3
+"048 Knockmahon, Co. Waterford",31.6
+"049 Mountkennedy, Co. Waterford",16.7
+"050 Newtown, Co. Waterford",21.6
+"051 Stradbally, Co. Waterford",47.7
+"052 Tinnasaggart, Co. Waterford",6.1
+"053 Ballyduff, Co. Waterford",16.6
+"054 Ballyhane, Co. Waterford",25.7
+"055 Ballyin, Co. Waterford",8.8
+"056 Ballynamult, Co. Waterford",8.6
+"057 Ballysaggartmore, Co. Waterford",9.8
+"058 Cappoquin, Co. Waterford",26.5
+"059 Castlerichard, Co. Waterford",17.2
+"060 Drumroe, Co. Waterford",17
+"061 Gortnapeaky, Co. Waterford",24.7
+"062 Kilcockan, Co. Waterford",11.6
+"063 Kilwatermoy East, Co. Waterford",11.2
+"064 Kilwatermoy West, Co. Waterford",13.1
+"065 Lismore Rural, Co. Waterford",40.4
+"066 Lismore Urban, Co. Waterford",1155.3
+"067 Mocollop, Co. Waterford",9.6
+"068 Modelligo, Co. Waterford",14.4
+"069 Tallow, Co. Waterford",62.5
+"070 Ballynakill (Part Rural), Co. Waterford",47.5
+"071 Drumcannon, Co. Waterford",28.3
+"072 Faithlegg (Part Rural), Co. Waterford",96.6
+"073 Islandikane, Co. Waterford",86.3
+"074 Kilbarry (Part Rural), Co. Waterford",49.5
+"075 Killea, Co. Waterford",115.7
+"076 Killoteran, Co. Waterford",54.7
+"077 Kilmacleague, Co. Waterford",27.8
+"078 Kilmeadan, Co. Waterford",40
+"079 Newcastle, Co. Waterford",28.2
+"080 Pembrokestown, Co. Waterford",33.1
+"081 Rathmoylan, Co. Waterford",72.2
+"082 Reisk, Co. Waterford",44.5
+"083 Tramore, Co. Waterford",575.8
+"084 Woodstown, Co. Waterford",33.7
+"085 Ardmore, Co. Waterford",59
+"086 Ballyheeny, Co. Waterford",39.7
+"087 Clashmore, Co. Waterford",22.2
+"088 Glenwilliam, Co. Waterford",18.3
+"089 Grallagh, Co. Waterford",12.3
+"090 Grange, Co. Waterford",27.6
+"091 Kinsalebeg, Co. Waterford",32.3
+"092 Templemichael, Co. Waterford",12.4
+"001 Ballybaan, Galway City",1811.3
+"002 Baile an Bhriotaigh, Galway City",384.8
+"003 Bearna, Galway City",2258.3
+"004 An Caisle�n Gearr, Galway City",1081.8
+"005 Claddagh, Galway City",3556.2
+"006 Dangan, Galway City",2745.7
+"007 Eyre Square, Galway City",5022.5
+"008 An Cnoc�n Carrach, Galway City",724.3
+"009 Lough Atalia, Galway City",1118.5
+"010 Mionlach, Galway City",642.7
+"011 Mervue, Galway City",2022.3
+"012 Murroogh, Galway City",965
+"013 Newcastle, Galway City",2632.7
+"014 Nuns Island, Galway City",2572.6
+"015 Rahoon, Galway City",645.4
+"016 Renmore, Galway City",1485.2
+"017 Rockbarton, Galway City",2922.3
+"018 Par�iste San Nicol�is, Galway City",2878.9
+"019 Salthill, Galway City",4585.9
+"020 Shantalla, Galway City",3441.7
+"021 Taylors Hill, Galway City",3896.4
+"022 Wellpark, Galway City",2048.9
+"001 Ballinasloe Urban, Co. Galway",401
+"002 Abbeygormacan, Co. Galway",15.6
+"003 Ahascragh, Co. Galway",18.5
+"004 Aughrim, Co. Galway",23.6
+"005 Ballinasloe Rural, Co. Galway",30.5
+"006 Ballymacward, Co. Galway",18
+"007 Clonfert, Co. Galway",13.7
+"008 Clontuskert, Co. Galway",12.2
+"009 Kellysgrove, Co. Galway",15.8
+"010 Kilconnell, Co. Galway",23.7
+"011 Killaan, Co. Galway",15.9
+"012 Killallaghtan, Co. Galway",14.6
+"013 Killoran, Co. Galway",14.2
+"014 Killure, Co. Galway",20.1
+"015 Kilmacshane, Co. Galway",8
+"016 Kiltormer, Co. Galway",18.9
+"017 Kylemore, Co. Galway",6.1
+"018 Laurencetown, Co. Galway",16.8
+"019 Lismanny, Co. Galway",11.7
+"020 Oatfield, Co. Galway",19.3
+"021 Ballynakill, Co. Galway",9.6
+"022 Binn an Choire, Co. Galway",2.3
+"023 Bunowen, Co. Galway",15.8
+"024 Cleggan, Co. Galway",15.1
+"025 Clifden, Co. Galway",63.5
+"026 Cushkillary, Co. Galway",5.3
+"027 Derrycunlagh, Co. Galway",2.1
+"028 Derrylea, Co. Galway",6.4
+"029 Doonloughan, Co. Galway",6
+"030 Errislannan, Co. Galway",11.6
+"031 An Uillinn, Co. Galway",2.8
+"032 Inishbofin, Co. Galway",13.4
+"033 An Cnoc Bu�, Co. Galway",23.4
+"034 Ma�ros, Co. Galway",4.4
+"035 Abhainn Ghabhla, Co. Galway",5
+"036 Rinvyle, Co. Galway",22.7
+"037 Cloch na R�n, Co. Galway",15.6
+"038 Sillerna, Co. Galway",17.2
+"039 Scainimh, Co. Galway",15.6
+"040 Eanach Dh�in, Co. Galway",56.4
+"041 Aughrim, Co. Galway",38.7
+"042 Baile an Teampaill (Part Rural), Co. Galway",97.9
+"043 Ballynacourty, Co. Galway",74.8
+"044 Bearna (Part Rural), Co. Galway",164.4
+"045 Belleville, Co. Galway",29.6
+"046 An Carn M�r, Co. Galway",133.9
+"047 Ceathr� an Bhr�naigh (Part Rural), Co. Galway",70.9
+"048 Baile Chl�ir, Co. Galway",89.5
+"049 Clarinbridge, Co. Galway",122.9
+"050 Deerpark, Co. Galway",76.5
+"051 Na Forbacha, Co. Galway",51.7
+"052 Galway Rural (Part Rural), Co. Galway",41.8
+"053 �rainn, Co. Galway",26
+"054 Cill Chuimin, Co. Galway",25.1
+"055 Cill Aithn�n, Co. Galway",15.8
+"056 Leacach Beag, Co. Galway",77.4
+"057 Liscananaun, Co. Galway",73.1
+"058 Lis�n an Bhealaigh, Co. Galway",61
+"059 Maigh Cuilinn, Co. Galway",103.7
+"060 Oranmore, Co. Galway",192.8
+"061 Sailearna, Co. Galway",22.6
+"062 Sliabh an Aonaigh, Co. Galway",13.7
+"063 An Spid�al, Co. Galway",42
+"064 Stradbally, Co. Galway",74.6
+"065 Tulaigh Mhic Aodh�in, Co. Galway",95.4
+"066 Ballinastack, Co. Galway",20.2
+"067 Ballymoe, Co. Galway",19.4
+"068 Ballynakill, Co. Galway",13
+"069 Boyounagh, Co. Galway",16.3
+"070 Creggs, Co. Galway",10.9
+"071 Curraghmore, Co. Galway",8.2
+"072 Glennamaddy, Co. Galway",27.1
+"073 Island, Co. Galway",13.1
+"074 Kilcroan, Co. Galway",25.4
+"075 Kiltullagh, Co. Galway",14.5
+"076 Raheen, Co. Galway",20.8
+"077 Scregg, Co. Galway",12
+"078 Shankill, Co. Galway",15.7
+"079 Templetogher, Co. Galway",16
+"080 Toberroe, Co. Galway",13.6
+"081 Ardamullivan, Co. Galway",16.1
+"082 Ardrahan, Co. Galway",58.6
+"083 Ballycahalan, Co. Galway",7.4
+"084 Beagh, Co. Galway",20
+"085 Cahermore, Co. Galway",24.3
+"086 Cappard, Co. Galway",7
+"087 Castletaylor, Co. Galway",42
+"088 Doorus, Co. Galway",68.1
+"089 Drumacoo, Co. Galway",68.7
+"090 Gort, Co. Galway",274.3
+"091 Kilbeacanty, Co. Galway",18.9
+"092 Killeely, Co. Galway",65.4
+"093 Killeenavarra, Co. Galway",32.1
+"094 Killinny, Co. Galway",13.7
+"095 Kiltartan, Co. Galway",26.9
+"096 Kilthomas, Co. Galway",3.9
+"097 Kinvarra, Co. Galway",47.1
+"098 Rahasane, Co. Galway",21.7
+"099 Skehanagh, Co. Galway",30.3
+"100 Aille, Co. Galway",12.1
+"101 Athenry, Co. Galway",217.1
+"102 Ballynagar, Co. Galway",8.3
+"103 Bracklagh, Co. Galway",17.2
+"104 Bullaun, Co. Galway",22.2
+"105 Cappalusk, Co. Galway",13.1
+"106 Castleboy, Co. Galway",21.8
+"107 Cloonkeen, Co. Galway",23
+"108 Colmanstown, Co. Galway",13.5
+"109 Craughwell, Co. Galway",74
+"110 Derrylaur, Co. Galway",2.6
+"111 Drumkeary, Co. Galway",24.6
+"112 Graigabbey, Co. Galway",30.6
+"113 Grange, Co. Galway",21.1
+"114 Greethill, Co. Galway",43.3
+"115 Kilchreest, Co. Galway",13
+"116 Kilconickny, Co. Galway",43.2
+"117 Kilconierin, Co. Galway",30.2
+"118 Killimor, Co. Galway",12.8
+"119 Killogilleen, Co. Galway",36.2
+"120 Kilmeen, Co. Galway",21.5
+"121 Kilreekill, Co. Galway",15.4
+"122 Kilteskill, Co. Galway",16.5
+"123 Kiltullagh, Co. Galway",36.8
+"124 Lackalea, Co. Galway",32.7
+"125 Leitrim, Co. Galway",28.1
+"126 Loughatorick, Co. Galway",0.9
+"127 Loughrea Rural, Co. Galway",32.5
+"128 Loughrea Urban, Co. Galway",1309.4
+"129 Marblehill, Co. Galway",9.5
+"130 Mountain, Co. Galway",11.7
+"131 Movode, Co. Galway",20
+"132 Raford, Co. Galway",31.4
+"133 Tiaquin, Co. Galway",32.8
+"134 Woodford, Co. Galway",19.8
+"135 Annagh, Co. Galway",16.3
+"136 Ballynakill, Co. Galway",18.4
+"137 Caltra, Co. Galway",24.4
+"138 Castleblakeney, Co. Galway",35.9
+"139 Castleffrench, Co. Galway",15.4
+"140 Clonbrock, Co. Galway",17.5
+"141 Cloonkeen, Co. Galway",14.5
+"142 Cooloo, Co. Galway",19.4
+"143 Derryglassaun, Co. Galway",30.9
+"144 Killeroran, Co. Galway",24
+"145 Killian, Co. Galway",13
+"146 Mount Bellew, Co. Galway",44.4
+"147 Mounthazel, Co. Galway",17.2
+"148 Taghboy, Co. Galway",8.7
+"149 Camas, Co. Galway",9.4
+"150 An Fhairche, Co. Galway",27.5
+"151 Conga, Co. Galway",11
+"152 An Cromp�n, Co. Galway",74.8
+"153 An Chorr, Co. Galway",3.9
+"154 Garmna, Co. Galway",44.2
+"155 Cill Chuim�n, Co. Galway",2.6
+"156 Leitir Breac�in, Co. Galway",3.8
+"157 Letterfore, Co. Galway",3.5
+"158 Leitir M�ir, Co. Galway",51.5
+"159 Oughterard, Co. Galway",28.8
+"160 An Ros, Co. Galway",2
+"161 An Turlach, Co. Galway",9.1
+"162 Wormhole, Co. Galway",48.6
+"163 Abbeyville, Co. Galway",16.7
+"164 Ballyglass, Co. Galway",13.3
+"165 Coos, Co. Galway",3.3
+"166 Derrew, Co. Galway",11.3
+"167 Drummin, Co. Galway",13.1
+"168 Eyrecourt, Co. Galway",25.4
+"169 Killimor, Co. Galway",29.1
+"170 Kilmalinoge, Co. Galway",11.7
+"171 Kilquain, Co. Galway",14
+"172 Meelick, Co. Galway",11
+"173 Moat, Co. Galway",13.3
+"174 Pallas, Co. Galway",19.4
+"175 Portumna, Co. Galway",57.6
+"176 Tiranascragh, Co. Galway",14.7
+"177 Tynagh, Co. Galway",32.6
+"178 Abbey East, Co. Galway",29.3
+"179 Abbey West, Co. Galway",48.8
+"180 Addergoole, Co. Galway",22.4
+"181 Annaghdown, Co. Galway",61.1
+"182 Ballinderry, Co. Galway",39.3
+"183 Ballinduff, Co. Galway",54
+"184 Ballynapark, Co. Galway",52.8
+"185 Beaghmore, Co. Galway",19.8
+"186 Belclare, Co. Galway",30.7
+"187 Carrownagur, Co. Galway",15.1
+"188 Carrowrevagh, Co. Galway",21.4
+"189 Claretuam, Co. Galway",36.4
+"190 Clonbern, Co. Galway",14.3
+"191 Cloonkeen, Co. Galway",22.9
+"192 Cummer, Co. Galway",74.4
+"193 Donaghpatrick, Co. Galway",34.3
+"194 Doonbally, Co. Galway",21.2
+"195 Dunmore North, Co. Galway",22.7
+"196 Dunmore South, Co. Galway",59.6
+"197 Foxhall, Co. Galway",19.7
+"198 Headford, Co. Galway",77.3
+"199 Hillsbrook, Co. Galway",29.8
+"200 Kilbennan, Co. Galway",25.1
+"201 Kilcoona, Co. Galway",33.2
+"202 Killeany, Co. Galway",38.3
+"203 Killeen, Co. Galway",31.6
+"204 Killererin, Co. Galway",35.1
+"205 Killower, Co. Galway",27.1
+"206 Killursa, Co. Galway",37.7
+"207 Kilmoylan, Co. Galway",47.8
+"208 Kilshanvy, Co. Galway",18.5
+"209 Levally, Co. Galway",18
+"210 Milltown, Co. Galway",24.4
+"211 Monivea, Co. Galway",31.9
+"212 Moyne, Co. Galway",32.9
+"213 Ryehill, Co. Galway",45.1
+"214 Toberadosh, Co. Galway",18.5
+"215 Tuam Rural, Co. Galway",175.5
+"216 Tuam Urban, Co. Galway",1499.5
+"001 Ballinamore, Co. Leitrim",63.9
+"002 Cloverhill, Co. Leitrim",18
+"003 Corrala, Co. Leitrim",15.9
+"004 Drumreilly North, Co. Leitrim",14.6
+"005 Drumreilly South, Co. Leitrim",13.9
+"006 Garadice, Co. Leitrim",25.6
+"007 Greaghglass, Co. Leitrim",18
+"008 Killygar, Co. Leitrim",10.4
+"009 Newtowngore, Co. Leitrim",17.1
+"010 Oughteragh, Co. Leitrim",8.6
+"011 Stralongford, Co. Leitrim",3.2
+"012 Aghacashel, Co. Leitrim",7.6
+"013 Annaduff, Co. Leitrim",21.3
+"014 Barnameenagh, Co. Leitrim",6.1
+"015 Carrick-on-Shannon, Co. Leitrim",182.7
+"016 Drumreilly East, Co. Leitrim",2.5
+"017 Drumreilly West, Co. Leitrim",5
+"018 Drumshanbo, Co. Leitrim",93.4
+"019 Drumsna, Co. Leitrim",32.7
+"020 Gortnagullion, Co. Leitrim",16.5
+"021 Gowel, Co. Leitrim",25
+"022 Keshcarrigan, Co. Leitrim",53.3
+"023 Kiltubbrid, Co. Leitrim",13.3
+"024 Leitrim, Co. Leitrim",54.9
+"025 Moher, Co. Leitrim",13.4
+"026 Yugan, Co. Leitrim",14.2
+"027 Aghalateeve, Co. Leitrim",4.9
+"028 Aghanlish, Co. Leitrim",6.6
+"029 Aghavoghill, Co. Leitrim",3.2
+"030 Gubacreeny, Co. Leitrim",38.8
+"031 Kinlough, Co. Leitrim",45.8
+"032 Melvin, Co. Leitrim",12
+"033 Tullaghan, Co. Leitrim",27.8
+"034 Arigna, Co. Leitrim",1.3
+"035 Ballaghameehan, Co. Leitrim",7
+"036 Belhavel, Co. Leitrim",11.6
+"037 Cloonclare, Co. Leitrim",9.1
+"038 Cloonlogher, Co. Leitrim",8.7
+"039 Drumahaire, Co. Leitrim",47
+"040 Drumkeeran, Co. Leitrim",17.9
+"041 Garvagh, Co. Leitrim",8.8
+"042 Glenade, Co. Leitrim",6.2
+"043 Glenaniff, Co. Leitrim",5.1
+"044 Glenboy, Co. Leitrim",9.4
+"045 Glencar, Co. Leitrim",7.1
+"046 Glenfarn, Co. Leitrim",8
+"047 Killanummery, Co. Leitrim",18.2
+"048 Killarga, Co. Leitrim",2.1
+"049 Kiltyclogher, Co. Leitrim",6.7
+"050 Lurganboy, Co. Leitrim",14.2
+"051 Mahanagh, Co. Leitrim",9.6
+"052 Manorhamilton, Co. Leitrim",56.9
+"053 Munakill, Co. Leitrim",8.2
+"054 Sramore, Co. Leitrim",13.8
+"055 St. Patrick's, Co. Leitrim",7.1
+"056 Aghavas, Co. Leitrim",20.4
+"057 Beihy, Co. Leitrim",15.3
+"058 Breandrum, Co. Leitrim",15.4
+"059 Bunnybeg, Co. Leitrim",11.8
+"060 Carrigallen East, Co. Leitrim",22.6
+"061 Carrigallen West, Co. Leitrim",36.6
+"062 Cashel, Co. Leitrim",15.2
+"063 Castlefore, Co. Leitrim",20.7
+"064 Cattan, Co. Leitrim",15
+"065 Cloone, Co. Leitrim",18.9
+"066 Corriga, Co. Leitrim",11.6
+"067 Drumard, Co. Leitrim",17.8
+"068 Drumdoo, Co. Leitrim",20.7
+"069 Drumod, Co. Leitrim",49.4
+"070 Fenagh, Co. Leitrim",28.7
+"071 Gortermone, Co. Leitrim",17.2
+"072 Keeldra, Co. Leitrim",12.1
+"073 Lisgillock, Co. Leitrim",13.5
+"074 Mohill, Co. Leitrim",58
+"075 Rinn, Co. Leitrim",22.1
+"076 Riverstown, Co. Leitrim",11.3
+"077 Roosky, Co. Leitrim",33.8
+"078 Rowan, Co. Leitrim",16.1
+"001 Ardnaree South Urban, Co. Mayo",1516.4
+"002 Ballina Urban, Co. Mayo",1565.2
+"003 Castlebar Urban, Co. Mayo",1595.4
+"004 Westport Urban, Co. Mayo",734.9
+"005 Ardagh, Co. Mayo",20.3
+"006 Ardnaree North (Part Urban), Co. Mayo",54.7
+"007 Ardnaree South Rural (Part Urban), Co. Mayo",161.8
+"008 Attymass East, Co. Mayo",19
+"009 Attymass West, Co. Mayo",12.4
+"010 Ballina Rural (Part Urban), Co. Mayo",90.6
+"011 Ballycastle, Co. Mayo",9.7
+"012 Ballysakeery, Co. Mayo",22.9
+"013 B�al Deirg M�r, Co. Mayo",2
+"014 Bunaveela, Co. Mayo",1.5
+"015 Carrowmore, Co. Mayo",36
+"016 Crossmolina North, Co. Mayo",38.1
+"017 Crossmolina South, Co. Mayo",32.3
+"018 Deel, Co. Mayo",11.3
+"019 Derry, Co. Mayo",2.7
+"020 Fortland, Co. Mayo",23.4
+"021 Kilfian East, Co. Mayo",9.9
+"022 Kilfian South, Co. Mayo",3.4
+"023 Kilfian West, Co. Mayo",1.3
+"024 Kilgarvan, Co. Mayo",13.7
+"025 Killala, Co. Mayo",30.9
+"026 Lackan North, Co. Mayo",8.8
+"027 Lackan South, Co. Mayo",21.4
+"028 Letterbrick, Co. Mayo",3.6
+"029 Mount Falcon, Co. Mayo",44.1
+"030 Rathoma, Co. Mayo",12.5
+"031 Sallymount, Co. Mayo",16.6
+"032 Sraheen, Co. Mayo",60.9
+"033 Baile an Chalaidh, Co. Mayo",6.6
+"034 Ballinrobe, Co. Mayo",85.8
+"035 Baile �bha, Co. Mayo",6.6
+"036 Burriscarra, Co. Mayo",18.5
+"037 An Cheapaigh Dhuibh, Co. Mayo",10.4
+"038 Cong, Co. Mayo",28.7
+"039 Coonard, Co. Mayo",15.2
+"040 Dalgan, Co. Mayo",32
+"041 Hollymount, Co. Mayo",23.2
+"042 Houndswood, Co. Mayo",24.4
+"043 Kilcommon, Co. Mayo",16.9
+"044 Kilmaine, Co. Mayo",24.1
+"045 Neale, Co. Mayo",20.6
+"046 Newbrook, Co. Mayo",15.3
+"047 Abhainn Bhrain, Co. Mayo",4.5
+"048 Partra�, Co. Mayo",19.1
+"049 Roslee, Co. Mayo",26.4
+"050 Shrule, Co. Mayo",30
+"051 An Geata M�r Thuaidh, Co. Mayo",22.3
+"052 An Geata M�r Theas, Co. Mayo",24.3
+"053 Bangor, Co. Mayo",10.4
+"054 Barr R�sca�, Co. Mayo",2.1
+"055 B�al an Mhuirthead, Co. Mayo",43.5
+"056 Gleann na Muaidhe, Co. Mayo",3.9
+"057 Gleann Chaisil, Co. Mayo",13.5
+"058 Glenco, Co. Mayo",0.6
+"059 Guala Mh�r, Co. Mayo",3.9
+"060 Cnoc an Daimh, Co. Mayo",10.2
+"061 Cnoc na Lobhar, Co. Mayo",17
+"062 Moing na B�, Co. Mayo",3.9
+"063 Na Monga, Co. Mayo",7.3
+"064 Cnoc na R�ithe, Co. Mayo",17.4
+"065 Sheskin, Co. Mayo",0.5
+"066 Addergoole, Co. Mayo",20.5
+"067 Balla, Co. Mayo",43.8
+"068 Ballinafad, Co. Mayo",27.9
+"069 Ballyhean, Co. Mayo",35.8
+"070 Ballynagoraher, Co. Mayo",8.1
+"071 Bellavary, Co. Mayo",31.9
+"072 Breaghwy, Co. Mayo",77.1
+"073 Burren, Co. Mayo",8.5
+"074 Castlebar Rural (Part Urban), Co. Mayo",185.4
+"075 Clogher, Co. Mayo",27.8
+"076 Cloonkeen, Co. Mayo",30.9
+"077 Croaghmoyle, Co. Mayo",6
+"078 Killavally, Co. Mayo",21.4
+"079 Manulla, Co. Mayo",33.5
+"080 Pontoon, Co. Mayo",11.1
+"081 Strade, Co. Mayo",19
+"082 Tamhnaigh na Gra�, Co. Mayo",10.5
+"083 Turlough, Co. Mayo",47.6
+"084 Ballindine, Co. Mayo",37.6
+"085 Ballyhaunis, Co. Mayo",103.8
+"086 Ballyhowly, Co. Mayo",20.7
+"087 Bekan, Co. Mayo",22.4
+"088 Caraun, Co. Mayo",16.4
+"089 Claremorris, Co. Mayo",192.2
+"090 Cloghermore, Co. Mayo",12.1
+"091 Course, Co. Mayo",16.7
+"092 Crossboyne, Co. Mayo",42.3
+"093 Culnacleha, Co. Mayo",16.1
+"094 Garrymore, Co. Mayo",18.8
+"095 Kilcolman, Co. Mayo",23.1
+"096 Kilvine, Co. Mayo",23.6
+"097 Knock North, Co. Mayo",37.1
+"098 Knock South, Co. Mayo",28.7
+"099 Loughanboy, Co. Mayo",14.5
+"100 Mayo, Co. Mayo",16.9
+"101 Murneen, Co. Mayo",15.4
+"102 Tagheen, Co. Mayo",14.4
+"103 Aghamore, Co. Mayo",24.7
+"104 Ballinamore, Co. Mayo",18.2
+"105 Bohola, Co. Mayo",26.2
+"106 Brackloon, Co. Mayo",21.2
+"107 Callow, Co. Mayo",13.2
+"108 Cloonmore, Co. Mayo",14.5
+"109 Coolnaha, Co. Mayo",23.7
+"110 Cuildoo, Co. Mayo",16.2
+"111 Doocastle, Co. Mayo",10.3
+"112 Kilbeagh, Co. Mayo",26.2
+"113 Kilkelly, Co. Mayo",22.8
+"114 Killedan, Co. Mayo",28.2
+"115 Kilmovee, Co. Mayo",20.3
+"116 Kiltamagh, Co. Mayo",76.7
+"117 Meelick, Co. Mayo",23.5
+"118 Sonnagh, Co. Mayo",29.9
+"119 Swineford, Co. Mayo",64
+"120 Toocananagh, Co. Mayo",26.8
+"121 Toomore, Co. Mayo",46.1
+"122 Tumgesh, Co. Mayo",13
+"123 Urlaur, Co. Mayo",12.8
+"124 Acaill, Co. Mayo",24.4
+"125 Aghagower North, Co. Mayo",45.6
+"126 Aghagower South, Co. Mayo",4.8
+"127 Aillemore, Co. Mayo",12.2
+"128 Ballycroy North, Co. Mayo",3.7
+"129 Ballycroy South, Co. Mayo",2.7
+"130 Bundorragha, Co. Mayo",2
+"131 Clare Island, Co. Mayo",9.3
+"132 Clogher, Co. Mayo",41
+"133 An Corr�n, Co. Mayo",9.2
+"134 Croaghpatrick, Co. Mayo",19.8
+"135 Derryloughan, Co. Mayo",24.9
+"136 Dumha �ige, Co. Mayo",14.9
+"137 Drummin, Co. Mayo",3.4
+"138 Emlagh, Co. Mayo",12.6
+"139 Erriff, Co. Mayo",1.5
+"140 Glenhest, Co. Mayo",5.7
+"141 Islandeady, Co. Mayo",25
+"142 Kilgeever, Co. Mayo",1.8
+"143 Kilmaclasser, Co. Mayo",27.6
+"144 Kilmeena (Part Urban), Co. Mayo",42.5
+"145 Kilsallagh, Co. Mayo",14.6
+"146 Knappagh, Co. Mayo",30.4
+"147 Louisburgh, Co. Mayo",42
+"148 Newport East, Co. Mayo",32.4
+"149 Newport West, Co. Mayo",11.8
+"150 Owennadornaun, Co. Mayo",3.6
+"151 Slievemahanagh, Co. Mayo",7.8
+"152 Slievemore, Co. Mayo",14
+"153 Srahmore, Co. Mayo",1.7
+"154 Westport Rural, Co. Mayo",112.4
+"001 Athlone West Rural, Co. Roscommon",266.8
+"002 Ballydangan, Co. Roscommon",22.8
+"003 Ballynamona, Co. Roscommon",25.9
+"004 Caltragh, Co. Roscommon",19.7
+"005 Carnagh, Co. Roscommon",33.6
+"006 Carrowreagh, Co. Roscommon",18.8
+"007 Castlesampson, Co. Roscommon",14.6
+"008 Cloonburren, Co. Roscommon",13.4
+"009 Cloonown, Co. Roscommon",25.4
+"010 Crannagh, Co. Roscommon",47.5
+"011 Creagh, Co. Roscommon",36.1
+"012 Culliagh, Co. Roscommon",13.4
+"013 Drumlosh, Co. Roscommon",27.4
+"014 Dysart, Co. Roscommon",10.4
+"015 Kilcar, Co. Roscommon",23.2
+"016 Kiltoom, Co. Roscommon",75.9
+"017 Lecarrow, Co. Roscommon",22
+"018 Moore, Co. Roscommon",15.8
+"019 Rockhill, Co. Roscommon",21.1
+"020 Taghboy, Co. Roscommon",28.8
+"021 Taghmaconnell, Co. Roscommon",14.2
+"022 Thomastown, Co. Roscommon",31
+"023 Turrock, Co. Roscommon",15.8
+"024 Aghafin, Co. Roscommon",10.9
+"025 Altagowlan, Co. Roscommon",4.8
+"026 Aughrim East, Co. Roscommon",11.4
+"027 Aughrim West, Co. Roscommon",9.5
+"028 Ballyfarnan, Co. Roscommon",32.4
+"029 Ballyfermoyle, Co. Roscommon",13.7
+"030 Boyle Rural, Co. Roscommon",65
+"031 Boyle Urban, Co. Roscommon",506.6
+"032 Breedoge, Co. Roscommon",13.4
+"033 Cloonteen, Co. Roscommon",16.7
+"034 Creeve, Co. Roscommon",8.6
+"035 Croghan, Co. Roscommon",16.7
+"036 Crossna, Co. Roscommon",10.7
+"037 Danesfort, Co. Roscommon",65.4
+"038 Estersnow, Co. Roscommon",7.4
+"039 Keadew, Co. Roscommon",24.6
+"040 Kilbryan, Co. Roscommon",15.4
+"041 Kilcolagh, Co. Roscommon",13.4
+"042 Killukin, Co. Roscommon",24.9
+"043 Killummod, Co. Roscommon",10.3
+"044 Kilmacumsy, Co. Roscommon",16.6
+"045 Kilmore, Co. Roscommon",10.5
+"046 Lisgarve, Co. Roscommon",10.4
+"047 Lough Allen, Co. Roscommon",24.2
+"048 Mantua, Co. Roscommon",3.6
+"049 Oakport, Co. Roscommon",29.7
+"050 Rockingham, Co. Roscommon",12.3
+"051 Rushfield, Co. Roscommon",18.7
+"052 Tivannagh, Co. Roscommon",12.3
+"053 Tumna North, Co. Roscommon",12.5
+"054 Tumna South, Co. Roscommon",12.6
+"055 Artagh North, Co. Roscommon",23
+"056 Artagh South, Co. Roscommon",13.5
+"057 Ballaghaderreen, Co. Roscommon",62.1
+"058 Ballinlough, Co. Roscommon",20.3
+"059 Ballintober, Co. Roscommon",19.2
+"060 Baslick, Co. Roscommon",9.1
+"061 Bellanagare, Co. Roscommon",12.9
+"062 Buckill, Co. Roscommon",14.9
+"063 Carrowduff, Co. Roscommon",12.7
+"064 Castleplunket, Co. Roscommon",13.9
+"065 Castlereagh, Co. Roscommon",75.2
+"066 Castleteheen, Co. Roscommon",16.5
+"067 Cloonfower, Co. Roscommon",9.6
+"068 Coolougher, Co. Roscommon",13.4
+"069 Edmondstown, Co. Roscommon",12.8
+"070 Fairymount, Co. Roscommon",9.5
+"071 Frenchpark, Co. Roscommon",28.3
+"072 Kiltullagh, Co. Roscommon",24
+"073 Loughglinn, Co. Roscommon",21.2
+"074 Annaghmore, Co. Roscommon",17.4
+"075 Athleague East, Co. Roscommon",16.2
+"076 Athleague West, Co. Roscommon",23.5
+"077 Ballygarden, Co. Roscommon",12.4
+"078 Bumlin, Co. Roscommon",19.7
+"079 Cams, Co. Roscommon",19.6
+"080 Cloonfinlough, Co. Roscommon",10
+"081 Cloontuskert, Co. Roscommon",52.4
+"082 Cloonygormican, Co. Roscommon",16.7
+"083 Cloonyquin, Co. Roscommon",12.8
+"084 Creeve, Co. Roscommon",12.7
+"085 Cregga, Co. Roscommon",10.8
+"086 Drumdaff, Co. Roscommon",21.7
+"087 Dunamon, Co. Roscommon",16.2
+"088 Elia, Co. Roscommon",14.9
+"089 Elphin, Co. Roscommon",51.1
+"090 Fuerty, Co. Roscommon",22.5
+"091 Kilbride North, Co. Roscommon",20.1
+"092 Kilbride South, Co. Roscommon",14.3
+"093 Kilgefin, Co. Roscommon",15.1
+"094 Kilglass North, Co. Roscommon",19.2
+"095 Kilglass South, Co. Roscommon",13
+"096 Killavackan, Co. Roscommon",15.2
+"097 Killukin, Co. Roscommon",11.8
+"098 Kilteevan, Co. Roscommon",18.8
+"099 Lackan, Co. Roscommon",15.8
+"100 Lismaha, Co. Roscommon",14.5
+"101 Lissonuffy, Co. Roscommon",6.2
+"102 Mote, Co. Roscommon",30.1
+"103 Ogulla, Co. Roscommon",17.4
+"104 Roosky, Co. Roscommon",38.2
+"105 Roscommon Rural, Co. Roscommon",110.5
+"106 Roscommon Urban, Co. Roscommon",1150
+"107 Rosmoylan, Co. Roscommon",8.9
+"108 Rossmore, Co. Roscommon",9.5
+"109 Scregg, Co. Roscommon",27.9
+"110 Strokestown, Co. Roscommon",58.3
+"111 Termonbarry, Co. Roscommon",49.4
+"112 Tulsk, Co. Roscommon",17.1
+"001 Sligo East, Co. Sligo",1909.3
+"002 Sligo North, Co. Sligo",1127.2
+"003 Sligo West, Co. Sligo",1351.9
+"004 Aghanagh, Co. Sligo",15.3
+"005 Ballynashee, Co. Sligo",12
+"006 Coolavin, Co. Sligo",16
+"007 Cuilmore, Co. Sligo",18.7
+"008 Drumrat, Co. Sligo",24.2
+"009 Kilfree, Co. Sligo",31.3
+"010 Killadoon, Co. Sligo",13.9
+"011 Killaraght, Co. Sligo",12.4
+"012 Kilmactranny, Co. Sligo",13.2
+"013 Kilshalvy, Co. Sligo",14.1
+"014 Shancough, Co. Sligo",6.3
+"015 Templevanny, Co. Sligo",9.7
+"016 Toomour, Co. Sligo",14
+"017 Aughris, Co. Sligo",17.5
+"018 Buncrowey, Co. Sligo",11.3
+"019 Castleconor East, Co. Sligo",7.5
+"020 Castleconor West, Co. Sligo",27.6
+"021 Dromard East, Co. Sligo",12.9
+"022 Dromard West, Co. Sligo",13.2
+"023 Dromore, Co. Sligo",39
+"024 Easky East, Co. Sligo",30.4
+"025 Easky West, Co. Sligo",24.3
+"026 Kilglass, Co. Sligo",68.2
+"027 Mullagheruse, Co. Sligo",0.8
+"028 Rathmacurkey, Co. Sligo",17.9
+"029 Skreen, Co. Sligo",5.5
+"030 Templeboy North, Co. Sligo",23.9
+"031 Templeboy South, Co. Sligo",5.8
+"032 Toberpatrick East, Co. Sligo",20.3
+"033 Toberpatrick West, Co. Sligo",23.3
+"034 Ballintogher East, Co. Sligo",29.5
+"035 Ballintogher West, Co. Sligo",20
+"036 Ballymote, Co. Sligo",83.7
+"037 Ballynakill, Co. Sligo",23.9
+"038 Ballysadare East, Co. Sligo",90.9
+"039 Ballysadare West, Co. Sligo",18
+"040 Bricklieve, Co. Sligo",15.8
+"041 Calry, Co. Sligo",45.8
+"042 Carney, Co. Sligo",30.7
+"043 Carrickbanagher, Co. Sligo",36.2
+"044 Cliffony North, Co. Sligo",46.7
+"045 Cliffony South, Co. Sligo",29.3
+"046 Collooney, Co. Sligo",105.9
+"047 Drumcliff East, Co. Sligo",52
+"048 Drumcliff West, Co. Sligo",130.1
+"049 Drumcolumb, Co. Sligo",12.4
+"050 Drumfin, Co. Sligo",21.6
+"051 Glencar, Co. Sligo",17.4
+"052 Kilmacowen, Co. Sligo",90.8
+"053 Knockaree, Co. Sligo",156.2
+"054 Lakeview, Co. Sligo",26.1
+"055 Lisconny, Co. Sligo",24.9
+"056 Lissadill East, Co. Sligo",50.1
+"057 Lissadill North, Co. Sligo",76.4
+"058 Lissadill West, Co. Sligo",36.8
+"059 Riverstown, Co. Sligo",37.6
+"060 Rossinver East, Co. Sligo",5.8
+"061 Rossinver West, Co. Sligo",12.7
+"062 Achonry East, Co. Sligo",19.4
+"063 Achonry West, Co. Sligo",24.2
+"064 Aclare, Co. Sligo",10.5
+"065 Annagh, Co. Sligo",14.8
+"066 Banada, Co. Sligo",16.4
+"067 Branchfield, Co. Sligo",3.6
+"068 Breencorragh, Co. Sligo",3.1
+"069 Carrownaskeagh, Co. Sligo",5
+"070 Cartron, Co. Sligo",10.4
+"071 Cloonacool, Co. Sligo",9.4
+"072 Cloonoghill, Co. Sligo",20.1
+"073 Coolaney, Co. Sligo",56.9
+"074 Glendarragh, Co. Sligo",5.6
+"075 Kilmacteige, Co. Sligo",7.5
+"076 Kilturra, Co. Sligo",14
+"077 Leitrim, Co. Sligo",14.4
+"078 Loughill, Co. Sligo",3.6
+"079 Owenmore, Co. Sligo",8.3
+"080 Streamstown, Co. Sligo",14
+"081 Temple, Co. Sligo",26.3
+"082 Tobercurry, Co. Sligo",75.6
+"001 Cavan Urban, Co. Cavan",1894.8
+"002 Bailieborough, Co. Cavan",88.3
+"003 Carnagarve, Co. Cavan",26.5
+"004 Crossbane, Co. Cavan",29.5
+"005 Drumanespick, Co. Cavan",30.1
+"006 Enniskeen, Co. Cavan",24.1
+"007 Killinkere, Co. Cavan",20.3
+"008 Kingscourt, Co. Cavan",171.8
+"009 Lisagoan, Co. Cavan",28.3
+"010 Mullagh, Co. Cavan",93.2
+"011 Shercock, Co. Cavan",56.7
+"012 Skeagh, Co. Cavan",19.1
+"013 Taghart, Co. Cavan",28.9
+"014 Termon, Co. Cavan",28
+"015 Ballyconnell, Co. Cavan",56.8
+"016 Ballymagauran, Co. Cavan",16.6
+"017 Bawnboy, Co. Cavan",20.9
+"018 Benbrack, Co. Cavan",2.5
+"019 Bilberry, Co. Cavan",14
+"020 Carn, Co. Cavan",18.5
+"021 Diamond, Co. Cavan",15.5
+"022 Doogary, Co. Cavan",15.3
+"023 Kinawley, Co. Cavan",4.7
+"024 Lissanover, Co. Cavan",17.8
+"025 Pedara Vohers, Co. Cavan",11.8
+"026 Swanlinbar, Co. Cavan",24.9
+"027 Templeport, Co. Cavan",14
+"028 Tircahan, Co. Cavan",2.2
+"029 Ballyjamesduff, Co. Cavan",153
+"030 Castlerahan, Co. Cavan",32.2
+"031 Kilbride, Co. Cavan",33.7
+"032 Lurgan, Co. Cavan",43.9
+"033 Munterconnaught, Co. Cavan",43.1
+"034 Virginia, Co. Cavan",89.3
+"035 Ardue, Co. Cavan",36.9
+"036 Arvagh, Co. Cavan",34.1
+"037 Ashfield, Co. Cavan",20.9
+"038 Ballintemple, Co. Cavan",26.2
+"039 Ballyhaise, Co. Cavan",60.8
+"040 Ballymachugh, Co. Cavan",28.5
+"041 Bellananagh, Co. Cavan",102.7
+"042 Belturbet Urban, Co. Cavan",348.3
+"043 Bruce Hall, Co. Cavan",22.6
+"044 Butler's Bridge, Co. Cavan",62.8
+"045 Canningstown, Co. Cavan",22.5
+"046 Carrafin, Co. Cavan",20
+"047 Castlesaunderson, Co. Cavan",17.1
+"048 Cavan Rural, Co. Cavan",239.4
+"049 Clonervy, Co. Cavan",47.9
+"050 Cootehill Rural, Co. Cavan",32
+"051 Cootehill Urban, Co. Cavan",881.7
+"052 Corr, Co. Cavan",24.4
+"053 Corraneary, Co. Cavan",19.1
+"054 Crossdoney, Co. Cavan",25
+"055 Crosskeys, Co. Cavan",36.1
+"056 Cuttragh, Co. Cavan",33.3
+"057 Denn, Co. Cavan",34.4
+"058 Derrin, Co. Cavan",29.5
+"059 Drumcarban, Co. Cavan",32.8
+"060 Drumcarn, Co. Cavan",21.1
+"061 Drung, Co. Cavan",23.5
+"062 Graddum, Co. Cavan",26.5
+"063 Grilly, Co. Cavan",26.7
+"064 Kilconny, Co. Cavan",34
+"065 Kill, Co. Cavan",25.6
+"066 Killashandra, Co. Cavan",41.2
+"067 Killykeen, Co. Cavan",25.4
+"068 Kilnaleck, Co. Cavan",53.8
+"069 Knappagh, Co. Cavan",20.9
+"070 Larah North, Co. Cavan",20.7
+"071 Larah South, Co. Cavan",23.4
+"072 Milltown, Co. Cavan",19.4
+"073 Moynehall, Co. Cavan",74.4
+"074 Rakenny, Co. Cavan",19.9
+"075 Redhill, Co. Cavan",26.4
+"076 Springfield, Co. Cavan",9.1
+"077 Stradone, Co. Cavan",29.9
+"078 Tullyvin East, Co. Cavan",21.6
+"079 Tullyvin West, Co. Cavan",16.4
+"080 Waterloo, Co. Cavan",26.9
+"081 Derrylahan, Co. Cavan",4.5
+"082 Derrynananta, Co. Cavan",1.5
+"083 Dowra, Co. Cavan",6.9
+"084 Dunmakeever, Co. Cavan",4.6
+"085 Eskey, Co. Cavan",20.2
+"086 Killinagh, Co. Cavan",6.8
+"087 Teebane, Co. Cavan",1.4
+"088 Tuam, Co. Cavan",13.9
+"089 Drumlumman, Co. Cavan",33.8
+"090 Kilcogy, Co. Cavan",24.2
+"091 Kilgolagh, Co. Cavan",20.3
+"092 Loughdawan, Co. Cavan",25.3
+"093 Scrabby, Co. Cavan",37.3
+"001 Buncrana Urban, Co. Donegal",735
+"002 Bundoran Urban, Co. Donegal",441.4
+"003 Letterkenny Urban, Co. Donegal",1383.3
+"004 Ballintra, Co. Donegal",24.7
+"005 Ballyshannon Rural, Co. Donegal",44.4
+"006 Ballyshannon Urban, Co. Donegal",599.9
+"007 Bundoran Rural, Co. Donegal",45.6
+"008 Carrickboy, Co. Donegal",27.1
+"009 Cavangarden, Co. Donegal",13.2
+"010 Cliff, Co. Donegal",12.1
+"011 Ballintra, Co. Donegal",17.1
+"012 An Bhinn Bh�n, Co. Donegal",3.6
+"013 Bonnyglen, Co. Donegal",17.1
+"014 Clogher, Co. Donegal",24.5
+"015 Corkermore, Co. Donegal",12.2
+"016 Donegal, Co. Donegal",128.7
+"017 Dunkineely, Co. Donegal",42.5
+"018 Eanymore, Co. Donegal",18.7
+"019 Grousehall, Co. Donegal",3
+"020 Haugh, Co. Donegal",14.4
+"021 Inver, Co. Donegal",31.6
+"022 Laghy, Co. Donegal",18.7
+"023 Loch Iascaigh, Co. Donegal",5.7
+"024 Pettigoe, Co. Donegal",8.8
+"025 Tantallon, Co. Donegal",54.9
+"026 Tawnawully, Co. Donegal",10.2
+"027 Templecarn, Co. Donegal",1.7
+"028 Tullynaught, Co. Donegal",17.4
+"029 Ards, Co. Donegal",34.5
+"030 Cr�och na Sm�ar, Co. Donegal",8.4
+"031 An Craoslach, Co. Donegal",34.5
+"032 Na Croisbheala�, Co. Donegal",21.2
+"033 Caisle�n na dTuath, Co. Donegal",16.2
+"034 D�n Fionnachaidh, Co. Donegal",23.9
+"035 D�n L�iche, Co. Donegal",7.8
+"036 Gort an Choirce, Co. Donegal",30.5
+"037 Machaire Chlochair, Co. Donegal",28.9
+"038 M�n an Chladaigh, Co. Donegal",31.8
+"039 Anagaire, Co. Donegal",58.7
+"040 �rainn Mh�r, Co. Donegal",26.2
+"041 Ard an R�tha, Co. Donegal",32.5
+"042 Cr� Bheithe, Co. Donegal",4.2
+"043 Cr� Chaorach, Co. Donegal",3.2
+"044 Crownarad, Co. Donegal",19.8
+"045 Dawros, Co. Donegal",17.7
+"046 An D�choraidh, Co. Donegal",2.1
+"047 An Cloch�n Liath, Co. Donegal",55.8
+"048 Baile na Finne, Co. Donegal",8.7
+"049 Gleann Cholm Cille, Co. Donegal",16.7
+"050 Gleann Gheis, Co. Donegal",17.2
+"051 Gleann L�ith�n, Co. Donegal",1.9
+"052 Na Gleannta, Co. Donegal",17.7
+"053 An Ghrafaidh, Co. Donegal",2
+"054 Inis Caoil, Co. Donegal",2
+"055 Cill Charthaigh, Co. Donegal",41.4
+"056 Cill Ghabhlaigh, Co. Donegal",6.5
+"057 Killybegs, Co. Donegal",76.9
+"058 An Leargaidh Mh�r, Co. Donegal",25
+"059 Leitir Mhic an Bhaird, Co. Donegal",16.7
+"060 Maas, Co. Donegal",10.5
+"061 An Machaire, Co. Donegal",18.4
+"062 M�lainn Bhig, Co. Donegal",11.3
+"063 Maol Mos�g, Co. Donegal",9.2
+"064 Inis Mhic an Doirn, Co. Donegal",42.9
+"065 Tieveskeelta, Co. Donegal",5.8
+"066 Ardmalin, Co. Donegal",24.7
+"067 Ballyliffin, Co. Donegal",43.4
+"068 Birdstown, Co. Donegal",55
+"069 Buncrana Rural, Co. Donegal",127.5
+"070 Burt, Co. Donegal",34.7
+"071 Carndonagh, Co. Donegal",58.9
+"072 Carthage, Co. Donegal",36.1
+"073 Castlecary, Co. Donegal",34.4
+"074 Castleforward, Co. Donegal",60.9
+"075 Culdaff, Co. Donegal",36.4
+"076 Desertegny, Co. Donegal",23.4
+"077 Dunaff, Co. Donegal",25.4
+"078 Fahan, Co. Donegal",57.7
+"079 Glennagannon, Co. Donegal",35.8
+"080 Gleneely, Co. Donegal",20.4
+"081 Glentogher, Co. Donegal",28.7
+"082 Greencastle, Co. Donegal",30.1
+"083 Illies, Co. Donegal",18.1
+"084 Inch Island, Co. Donegal",35.3
+"085 Kilderry, Co. Donegal",68
+"086 Killea, Co. Donegal",58.9
+"087 Malin, Co. Donegal",24
+"088 Mintiaghs, Co. Donegal",28.8
+"089 Moville, Co. Donegal",129.7
+"090 Newtown Cunningham, Co. Donegal",49.9
+"091 Redcastle, Co. Donegal",32.1
+"092 Straid, Co. Donegal",36.8
+"093 Three Trees, Co. Donegal",23.9
+"094 Turmone, Co. Donegal",11.5
+"095 Whitecastle, Co. Donegal",34.7
+"096 Ballymacool (Part Rural), Co. Donegal",126.5
+"097 Castlewray (Part Rural), Co. Donegal",161
+"098 M�n an L�b�in, Co. Donegal",5.9
+"099 Corravaddy (Part Rural), Co. Donegal",68.7
+"100 Edenacarnan (Part Rural), Co. Donegal",61.1
+"101 Gart�n, Co. Donegal",3.1
+"102 Gortnavern, Co. Donegal",94.6
+"103 Killymasny, Co. Donegal",20.3
+"104 Kincraigy, Co. Donegal",33
+"105 Letterkenny Rural (Part Rural), Co. Donegal",880.4
+"106 Magheraboy (Part Rural), Co. Donegal",62.4
+"107 Manorcunningham, Co. Donegal",73.3
+"108 Su� Corr, Co. Donegal",3.9
+"109 Templedouglas, Co. Donegal",26.9
+"110 Ballyarr, Co. Donegal",43.5
+"111 Carraig Airt, Co. Donegal",37
+"112 An Cheathr� Chaol, Co. Donegal",29.6
+"113 Creamhghort, Co. Donegal",21
+"114 F�naid Thuaidh, Co. Donegal",17.3
+"115 F�naid Thiar, Co. Donegal",16.6
+"116 Glen, Co. Donegal",9.7
+"117 Glenalla, Co. Donegal",21.2
+"118 Grianfort, Co. Donegal",20
+"119 Killygarvan, Co. Donegal",8.2
+"120 Kilmacrenan, Co. Donegal",83.1
+"121 Cnoc Colbha, Co. Donegal",16.1
+"122 Loch Caol, Co. Donegal",13.5
+"123 Millford, Co. Donegal",57.3
+"124 Rathmelton, Co. Donegal",61.3
+"125 Rathmullan, Co. Donegal",47.7
+"126 Ros Goill, Co. Donegal",40
+"127 Rosnakill, Co. Donegal",23.7
+"128 An Tearmann, Co. Donegal",11.7
+"129 Allt na P�iste, Co. Donegal",5.3
+"130 Castlefinn, Co. Donegal",50.4
+"131 An Cloch�n, Co. Donegal",10.3
+"132 Cloghard, Co. Donegal",30.6
+"133 Clonleigh North, Co. Donegal",51.9
+"134 Clonleigh South, Co. Donegal",94.2
+"135 Convoy, Co. Donegal",57.1
+"136 Dooish, Co. Donegal",51.5
+"137 Feddyglass, Co. Donegal",24.2
+"138 Figart, Co. Donegal",55.3
+"139 Gleneely, Co. Donegal",26.4
+"140 Goland, Co. Donegal",8.9
+"141 Killygordon, Co. Donegal",51.6
+"142 Knock, Co. Donegal",74.6
+"143 Lettermore, Co. Donegal",10.7
+"144 M�n Charraigeach, Co. Donegal",4.2
+"145 Raphoe, Co. Donegal",105.2
+"146 St. Johnstown, Co. Donegal",62
+"147 Stranorlar, Co. Donegal",110.6
+"148 Treantaghmucklagh, Co. Donegal",31.3
+"149 Urney West, Co. Donegal",31.7
+"001 Carrickmacross Urban, Co. Monaghan",1479.2
+"002 Castleblayney Urban, Co. Monaghan",1171
+"003 Clones Urban, Co. Monaghan",1305.1
+"004 Monaghan Urban, Co. Monaghan",1282
+"005 Ballymackney, Co. Monaghan",61.9
+"006 Bocks, Co. Monaghan",42.7
+"007 Carrickmacross Rural, Co. Monaghan",194
+"008 Corracharra, Co. Monaghan",25
+"009 Crossalare, Co. Monaghan",48.5
+"010 Donaghmoyne, Co. Monaghan",42.5
+"011 Drumboory, Co. Monaghan",27.6
+"012 Drumcarrow, Co. Monaghan",27.7
+"013 Drumgurra, Co. Monaghan",33.7
+"014 Enagh, Co. Monaghan",39.4
+"015 Inishkeen, Co. Monaghan",52.3
+"016 Kilmurry, Co. Monaghan",34.9
+"017 Kiltybegs, Co. Monaghan",38.4
+"018 Loughfea, Co. Monaghan",39.8
+"019 Raferagh, Co. Monaghan",21.9
+"020 Annayalla, Co. Monaghan",30.7
+"021 Ballybay Rural, Co. Monaghan",83.8
+"022 Ballybay Urban, Co. Monaghan",1196
+"023 Bellatrain, Co. Monaghan",25.9
+"024 Broomfield, Co. Monaghan",40.9
+"025 Carrickaslane, Co. Monaghan",33.2
+"026 Carrickatee, Co. Monaghan",23.1
+"027 Castleblayney Rural (Part Rural), Co. Monaghan",149.5
+"028 Church Hill, Co. Monaghan",31.4
+"029 Creeve, Co. Monaghan",25.4
+"030 Cremartin, Co. Monaghan",45.7
+"031 Greagh, Co. Monaghan",26.3
+"032 Laragh, Co. Monaghan",39.5
+"033 Mullyash, Co. Monaghan",16
+"034 Aghabog, Co. Monaghan",16.5
+"035 Anny, Co. Monaghan",18.8
+"036 Clones Rural (Part Rural), Co. Monaghan",59
+"037 Cormeen, Co. Monaghan",23.2
+"038 Currin, Co. Monaghan",27.7
+"039 Dawsongrove, Co. Monaghan",29.3
+"040 Drum, Co. Monaghan",11.9
+"041 Drummully, Co. Monaghan",11.7
+"042 Killeevan, Co. Monaghan",20.3
+"043 Killynenagh, Co. Monaghan",12.3
+"044 Lisnaveane, Co. Monaghan",18.2
+"045 Newbliss, Co. Monaghan",44.4
+"046 St. Tierney, Co. Monaghan",30.3
+"047 Anketell Grove, Co. Monaghan",46.7
+"048 Bellanode, Co. Monaghan",65.8
+"049 Bragan, Co. Monaghan",14
+"050 Caddagh, Co. Monaghan",22.5
+"051 Castleshane, Co. Monaghan",44.9
+"052 Clones, Co. Monaghan",24.2
+"053 Clontibret, Co. Monaghan",32.6
+"054 Derrygorry, Co. Monaghan",19.7
+"055 Drumhillagh, Co. Monaghan",28.6
+"056 Drumsnat, Co. Monaghan",69.1
+"057 Emyvale, Co. Monaghan",82.8
+"058 Enagh, Co. Monaghan",37.9
+"059 Figullar, Co. Monaghan",29.3
+"060 Glaslough, Co. Monaghan",42.7
+"061 Killylough, Co. Monaghan",33.1
+"062 Kilmore, Co. Monaghan",38.6
+"063 Monaghan Rural (Part Rural), Co. Monaghan",218.1
+"064 Rackwallace, Co. Monaghan",39
+"065 Scotstown, Co. Monaghan",49.2
+"066 Shanmullagh, Co. Monaghan",16.3
+"067 Sheskin, Co. Monaghan",18.3
+"068 Tedavnet, Co. Monaghan",41.3
+"069 Tehallan, Co. Monaghan",52.8
+"070 Tullycorbet, Co. Monaghan",24.2
