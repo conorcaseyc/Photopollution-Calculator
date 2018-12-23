@@ -36,7 +36,7 @@ def main():
 	#Imports Population Density Data from the Central Statistics Office
 	import pandas as pd
 	import math
-	pd_filename = 'Data/populationdensity.csv'
+	pd_filename = 'Data/Population_Density/populationdensity.csv'
 	pd_data = pd.read_csv(pd_filename)
 
 	place_town = input("""
