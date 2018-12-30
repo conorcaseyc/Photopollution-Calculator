@@ -14,7 +14,7 @@ To run this program you will need:
 * Numpy
 * Mathplotlib
 
-All the necessary tools needed to run this module are available through [Anaconda](https://www.anaconda.com/download/).
+All the necessary tools needed to run this program are available through [Anaconda](https://www.anaconda.com/download/).
 Choose the operating system you are using, download the Python 2.7 version, and follow the Installation instructions available on their website.
 
 To install and run this program, open a command line and type the following:
