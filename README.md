@@ -30,7 +30,7 @@ If you are using Python 3, use the following command instead of the final comman
 $ python3 Program_3.py
 ```
 
-If you have any problems, please [email me.](mailto:16ccasey@student.kenmarecs.com).
+If you have any problems, please [email me.](mailto:16ccasey@student.kenmarecs.com)
 > Where did the population density for the towns come from?
 
 They came from the Irish 2016 Census, and as a result are provided by the Central Statistics Office.
