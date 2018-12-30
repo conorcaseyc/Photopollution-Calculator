@@ -1,6 +1,6 @@
-# Photopollution Calculator for Munster
+# Photopollution Calculator
 
-Welcome to the Photopollution Calculator for Munster. This program is based on the mathematical model developed in the BT Young Scientist project called "Is It Possible to Create a Mathematical Model to Predict Photopollution Based on Population Density in Munster".
+Welcome to the Photopollution Calculator. This program is based on the mathematical model developed in the BT Young Scientist project called "Is It Possible to Create a Mathematical Model to Predict Photopollution Based on Population Density in Munster".
 
 ***Frequently Asked Questions:***
 
