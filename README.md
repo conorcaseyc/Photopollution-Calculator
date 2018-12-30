@@ -47,4 +47,4 @@ https://qgis.org/en/site/forusers/download.html
 
 > Questions, or any other problems?
 
-Any other questions, want to report a bug, or just general feedback, please email me at 16ccasey@student.kenmarecs.com  
+Any other questions, want to report a bug, or just general feedback, please [email me](mailto:16ccasey@student.kenmarecs.com).  
