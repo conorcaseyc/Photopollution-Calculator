@@ -24,7 +24,7 @@ $ git clone https://www.github.com/conorcaseyc/Photopollution-Calculator
 $ cd Photopollution-Calculator
 $ python2 Program.py
 ```
-If you are using Python 3, use the following command instead of the final command previously mentioned.
+If you are using Python 3, use the following command instead of the final command previously mentioned:
 
 ```bash
 $ python3 Program_3.py
