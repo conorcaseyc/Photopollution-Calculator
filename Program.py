@@ -1,4 +1,4 @@
-print """Photopollution Calculator for Munster Copyright (C) 2018  Conor Casey
+print """Photopollution Calculator Copyright (C) 2018  Conor Casey
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
 under certain conditions. For further details, type `license'.
@@ -30,6 +30,7 @@ v1.2.0: Major Changes to Data Calculations
 v1.5.0: Fin 2018 update
 v1.5.1: Emergency Bug Fix Update
 v1.5.2: Small Changes and Fixes
+v1.6.0: Errer Update
 
 Current Edition: v1.5.2"""
 
@@ -78,7 +79,13 @@ Please input the name of the town: """).title()
 		town = pd_data[pd_data.Towns.isin([towns])]
 		town.reset_index(inplace = True, drop = True)	
 		print town 
-		user_input = float(town.PD)	
+		user_input = float(town.PD)
+		if not town.empty: 
+			print town 
+			user_input = float(town.PD)
+		else:
+			print "No population density data for the town of " + towns + " is available."
+			main()
 	else:
 		print "Invalid Entry"
 		main()	
