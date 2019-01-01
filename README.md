@@ -2,7 +2,7 @@
 
 Welcome to the Photopollution Calculator. This program is based on the mathematical model developed in the BT Young Scientist project called "Is It Possible to Create a Mathematical Model to Predict Photopollution Based on Population Density in Munster".
 
-***Frequently Asked Questions:***
+***Installation Instructions***
 
 > How do I run this program?
 
@@ -31,6 +31,9 @@ $ python3 Program_3.py
 ```
 
 If you have any problems, please [email me.](mailto:16ccasey@student.kenmarecs.com)
+
+***FAQs***
+
 > Where did the population density for the towns come from?
 
 They came from the Irish 2016 Census, and as a result are provided by the Central Statistics Office.
