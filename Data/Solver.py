@@ -23,7 +23,8 @@ slope,intercept2,r_value2,p_value2,std_err2 = linregress(population,lux)
 correlation2 = (pow(r_value2,2))
 print correlation2
 #Calculate Standard Deviation
-print std(lux)
+stddev = std(lux)
+print stddev
 #Gets the root of the equation
 root = 14.32414198 / 0.03510566
 print root
