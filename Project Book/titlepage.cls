@@ -104,7 +104,7 @@
 {\large \vspace*{1ex}
     {{\@college} \par}
 \vspace*{1ex}
-    {Pobalscoil Inbhear Scéine \par}
+    {Pobalscoil Inbhear Sceine\par}
 \vspace*{25mm}
     {{\submittedtext} \par}
 \vspace*{1ex}
