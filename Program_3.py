@@ -7,7 +7,7 @@ Don't know how to use the program? Type "help" for support.
 To get a history of the updates released for this program, type "updates"
 To exit the program, type 'quit'.
 
-Current Edition: v1.6.0""")
+Current Edition: v2.0.0""")
 
 def main():
 	#Imports Population Density Data from the Central Statistics Office
