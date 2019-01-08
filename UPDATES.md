@@ -23,3 +23,4 @@ v1.5.0: Fin 2018 update
 v1.5.1: Emergency Bug Fix Update
 v1.5.2: Small Changes and Fixes
 v1.6.0: Errer Update
+v2.0.0: BTYSTE Update
