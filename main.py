@@ -1,4 +1,4 @@
-print("""Photopollution Calculator Copyright (C) 2018  Conor Casey
+print("""Photopollution Calculator Copyright (C) 2019  Conor Casey
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
 under certain conditions. For further details, type `license'.
@@ -7,7 +7,7 @@ Don't know how to use the program? Type "help" for support.
 To get a history of the updates released for this program, type "updates"
 To exit the program, type 'quit'.
 
-Current Edition: v2.0.0""")
+Current Edition: v3.0.0""")
 
 def main():
 	#Imports Population Density Data from the Central Statistics Office
@@ -72,37 +72,27 @@ Please input the name of the town: """).title()
 		main()	
 
 	#Calculation of Light Pollution 		
-	lux = 0.03510566 * user_input - 14.32414198
-
-	#Get Limerick's Population Density In Order to Understand what the LUX Values Mean 
-	limerick = pd_data[pd_data.Towns.isin(["Limerick City"])]
-	limerick.reset_index(inplace = True, drop = True)
-	limerick_pd = float(limerick.PD)
-	limerick_lux = 0.03510566 * (limerick_pd) - 14.32414198
+	sqm = -2.51632097e-03 * user_input + 2.07271443e+01
 
 	#Understanding LUX Values
-	calculations = (lux) / (limerick_lux) * 100
 	def conditions():
-		if calculations >= 80:
-			return " Terrible Stargazing Conditions"
-		elif calculations >= 60:
-			return " Poor Stargazing Conditions"
-		elif calculations >= 40:
-			return " Fair Stargazing Conditions"
-		elif calculations >= 20:
+		if sqm > 21:
+			return " Excellent Stargazing Conditions"
+		elif sqm > 20:
+			return " Great Stargazing Conditions"
+		elif sqm > 19:
 			return " Good Stargazing Conditions"
-		elif calculations >= 0:
-			return " Excellent Stargazing Conditions"			
+		elif sqm > 18:
+			return " Fair Stargazing Conditions"
+		elif sqm > 17:
+			return " Poor Stargazing Conditions"
+		elif sqm < 17:
+			return " Terrible Stargazing Conditions"			
 
 	#Result/Output
-	if calculations >= 0:
-		print("""
-Photopollution in this location is approximately """ + str(int(math.ceil(lux))) + " LUX, this should" + """
+	print("""
+Photopollution in this location is approximately """ + str(round(sqm, 2)) + " mags / arcsec^2, this should" + """
 correlate to""" + conditions())
-	elif calculations < 0:
-		print("""
-Oops, it appears we are getting a negative LUX value. Your population density
-is extremely low, therefore, this correlates to Excellent Stargazing Conditions.""")
 
 	#Restarts Program
 	restart = input("""

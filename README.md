@@ -8,26 +8,19 @@ Welcome to the Photopollution Calculator. This program is based on the mathemati
 
 To run this program you will need:
 
-* Python (Preferably Python 2.7)
+* Python 3
 * Pandas
 * Scipy
 * Numpy
 * Mathplotlib
 
 All the necessary tools needed to run this program are available through [Anaconda](https://www.anaconda.com/download/).
-Choose the operating system you are using, download the Python 2.7 version, and follow the Installation instructions available on their website.
+Choose the operating system you are using, download the Python 3 version, and follow the Installation instructions available on their website.
 
 To install and run this program, open a command line and type the following:
 
-``` bash
-$ git clone https://www.github.com/conorcaseyc/Photopollution-Calculator 
-$ cd Photopollution-Calculator
-$ python2 Program.py
-```
-If you are using Python 3, use the following command instead of the final command previously mentioned:
-
 ```bash
-$ python3 Program_3.py
+$ python main.py
 ```
 
 If you have any problems, please [email me.](mailto:16ccasey@student.kenmarecs.com)
