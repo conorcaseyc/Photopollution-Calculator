@@ -1,0 +1,379 @@
+﻿Town,PD,TOWN
+Hartlepool,973,HARTLEPOOL
+Middlesbrough,"2,643",MIDDLESBROUGH
+Redcar & Cleveland,561,REDCAR & CLEVELAND
+Stockton-On-Tees,944,STOCKTON-ON-TEES
+Darlington,511,DARLINGTON
+Halton,"1,508",HALTON
+Warrington,"1,101",WARRINGTON
+Blackburn With Darwen,"1,022",BLACKBURN WITH DARWEN
+Blackpool,"4,009",BLACKPOOL
+Kingston Upon Hull,"3,694",KINGSTON UPON HULL
+East Riding Of Yorkshire,141,EAST RIDING OF YORKSHIRE
+North East Lincolnshire,820,NORTH EAST LINCOLNSHIRE
+North Lincolnshire,191,NORTH LINCOLNSHIRE
+York,744,YORK
+Derby,"3,164",DERBY
+Leicester,"4,182",LEICESTER
+Rutland,101,RUTLAND
+Nottingham,"4,111",NOTTINGHAM
+Herefordshire,82,HEREFORDSHIRE
+Telford And Wrekin,560,TELFORD AND WREKIN
+Stoke-On-Trent,"2,569",STOKE-ON-TRENT
+Bath & North East Somerset,520,BATH & NORTH EAST SOMERSET
+Bristol,"4,026",BRISTOL
+North Somerset,568,NORTH SOMERSET
+South Gloucestershire,533,SOUTH GLOUCESTERSHIRE
+Plymouth,"3,243",PLYMOUTH
+Torbay,"2,135",TORBAY
+Bournemouth,"3,641",BOURNEMOUTH
+Poole,"2,195",POOLE
+Swindon,877,SWINDON
+Peterborough,505,PETERBOROUGH
+Luton,"4,585",LUTON
+Southend,"3,959",SOUTHEND
+Thurrock,977,THURROCK
+Medway,"1,337",MEDWAY
+Bracknell Forest,"1,065",BRACKNELL FOREST
+West Berkshire,219,WEST BERKSHIRE
+Reading,"3,818",READING
+Slough,"4,029",SLOUGH
+Windsor And Maidenhead,744,WINDSOR AND MAIDENHEAD
+Wokingham,912,WOKINGHAM
+Milton Keynes,782,MILTON KEYNES
+Brighton And Hove,"3,130",BRIGHTON AND HOVE
+Portsmouth,"5,146",PORTSMOUTH
+Southampton,"4,810",SOUTHAMPTON
+Isle Of Wight,370,ISLE OF WIGHT
+Isle Of Anglesey,96,ISLE OF ANGLESEY
+Gwynedd,47,GWYNEDD
+Conwy,98,CONWY
+Denbighshire,116,DENBIGHSHIRE
+Flintshire,342,FLINTSHIRE
+Wrexham,265,WREXHAM
+Powys,25,POWYS
+Ceredigion,43,CEREDIGION
+Pembrokeshire,72,PEMBROKESHIRE
+Carmarthenshire,76,CARMARTHENSHIRE
+Swansea,615,SWANSEA
+Neath Port Talbot,311,NEATH PORT TALBOT
+Bridgend,537,BRIDGEND
+The Vale Of Glamorgan,378,THE VALE OF GLAMORGAN
+Cardiff,"2,436",CARDIFF
+Cynon,552,CYNON
+Taff,552,TAFF
+Rhondda,552,RHONDDA
+Merthyr Tydfil,503,MERTHYR TYDFIL
+Caerphilly,625,CAERPHILLY
+Blaenau Gwent,629,BLAENAU GWENT
+Torfaen,721,TORFAEN
+Monmouthshire,104,MONMOUTHSHIRE
+Newport,742,NEWPORT
+City Of London,"4,029",CITY OF LONDON
+Barking & Dagenham,"4,980",BARKING & DAGENHAM
+Barnet,"4,014",BARNET
+Bexley,"3,764",BEXLEY
+Brent,"5,934",BRENT
+Bromley,"2,080",BROMLEY
+Camden,"10,798",CAMDEN
+Croydon,"3,994",CROYDON
+Ealing,"5,736",EALING
+Enfield,"3,648",ENFIELD
+Greenwich,"4,826",GREENWICH
+Hackney,"11,499",HACKNEY
+Hammersmith & Fulham,"10,345",HAMMERSMITH & FULHAM
+Haringey,"7,605",HARINGEY
+Harrow,"4,558",HARROW
+Havering,"2,103",HAVERING
+Hillingdon,"2,300",HILLINGDON
+Hounslow,"4,229",HOUNSLOW
+Islington,"13,061",ISLINGTON
+Kensington & Chelsea,"13,973",KENSINGTON & CHELSEA
+Kingston Upon Thames,"4,536",KINGSTON UPON THAMES
+Lambeth,"10,606",LAMBETH
+Lewisham,"7,580",LEWISHAM
+Merton,"5,552",MERTON
+Newham,"6,629",NEWHAM
+Redbridge,"4,795",REDBRIDGE
+Richmond Upon Thames,"3,325",RICHMOND UPON THAMES
+Southwark,"9,948",SOUTHWARK
+Sutton,"4,429",SUTTON
+Tower Hamlets,"12,034",TOWER HAMLETS
+Waltham Forest,"5,852",WALTHAM FOREST
+Wandsworth,"8,451",WANDSWORTH
+Westminster,"11,784",WESTMINSTER
+Bolton,"1,906",BOLTON
+Bury,"1,847",BURY
+Manchester,"4,313",MANCHESTER
+Oldham,"1,544",OLDHAM
+Rochdale,"1,298",ROCHDALE
+Salford,"2,356",SALFORD
+Stockport,"2,258",STOCKPORT
+Tameside,"2,102",TAMESIDE
+Trafford,"2,049",TRAFFORD
+Wigan,"1,634",WIGAN
+Knowsley,"1,724",KNOWSLEY
+Liverpool,"3,981",LIVERPOOL
+St Helens,"1,300",ST HELENS
+Sefton,"1,782",SEFTON
+Wirral,"1,966",WIRRAL
+Barnsley,692,BARNSLEY
+Doncaster,512,DONCASTER
+Rotherham,889,ROTHERHAM
+Sheffield,"1,510",SHEFFIELD
+Gateshead,"1,347",GATESHEAD
+Newcastle Upon Tyne,"2,576",NEWCASTLE UPON TYNE
+North Tyneside,"2,409",NORTH TYNESIDE
+South Tyneside,"2,386",SOUTH TYNESIDE
+Sunderland,"2,063",SUNDERLAND
+Birmingham,"3,872",BIRMINGHAM
+Coventry,"3,201",COVENTRY
+Dudley,"3,138",DUDLEY
+Sandwell,"3,421",SANDWELL
+Solihull,"1,156",SOLIHULL
+Walsall,"2,471",WALSALL
+Wolverhampton,"3,447",WOLVERHAMPTON
+Bradford,"1,399",BRADFORD
+Calderdale,557,CALDERDALE
+Kirklees,"1,003",KIRKLEES
+Leeds,"1,448",LEEDS
+Wakefield,961,WAKEFIELD
+Mid Bedfordshire,271,MID BEDFORDSHIRE
+Bedford,338,BEDFORD
+South Bedfordshire,558,SOUTH BEDFORDSHIRE
+Aylesbury Vale,193,AYLESBURY VALE
+Chiltern,465,CHILTERN
+South Bucks,478,SOUTH BUCKS
+Wycombe,508,WYCOMBE
+Cambridge,"3,089",CAMBRIDGE
+East Cambridgeshire,130,EAST CAMBRIDGESHIRE
+Fenland,168,FENLAND
+Huntingdonshire,185,HUNTINGDONSHIRE
+South Cambridgeshire,162,SOUTH CAMBRIDGESHIRE
+Chester,266,CHESTER
+Congleton,436,CONGLETON
+Crewe & Nantwich,277,CREWE & NANTWICH
+Ellesmere Port & Neston,912,ELLESMERE PORT & NESTON
+Macclesfield,291,MACCLESFIELD
+Vale Royal,335,VALE ROYAL
+Caradon,127,CARADON
+Carrick,204,CARRICK
+Kerrier,214,KERRIER
+North Cornwall,73,NORTH CORNWALL
+Penwith,212,PENWITH
+Restormel,231,RESTORMEL
+Isles Of Scilly,129,ISLES OF SCILLY
+Allerdale,76,ALLERDALE
+Barrow-In-Furness,906,BARROW-IN-FURNESS
+Carlisle,101,CARLISLE
+Copeland,95,COPELAND
+Eden,24,EDEN
+South Lakeland,68,SOUTH LAKELAND
+Amber Valley,458,AMBER VALLEY
+Bolsover,465,BOLSOVER
+Chesterfield,"1,530",CHESTERFIELD
+Derbyshire Dales,89,DERBYSHIRE DALES
+Erewash,"1,015",EREWASH
+High Peak,172,HIGH PEAK
+North East Derbyshire,357,NORTH EAST DERBYSHIRE
+South Derbyshire,278,SOUTH DERBYSHIRE
+East Devon,163,EAST DEVON
+Exeter,"2,544",EXETER
+Mid Devon,83,MID DEVON
+North Devon,84,NORTH DEVON
+South Hams,94,SOUTH HAMS
+Teignbridge,189,TEIGNBRIDGE
+Torridge,67,TORRIDGE
+West Devon,46,WEST DEVON
+Christchurch,939,CHRISTCHURCH
+East Dorset,248,EAST DORSET
+North Dorset,105,NORTH DORSET
+Purbeck,112,PURBECK
+West Dorset,89,WEST DORSET
+Weymouth & Portland,"1,522",WEYMOUTH & PORTLAND
+Chester-Le-Street,787,CHESTER-LE-STREET
+Derwentside,329,DERWENTSIDE
+Durham,525,DURHAM
+Easington,662,EASINGTON
+Sedgefield,399,SEDGEFIELD
+Teesdale,29,TEESDALE
+Wear Valley,126,WEAR VALLEY
+Eastbourne,"2,196",EASTBOURNE
+Hastings,"2,933",HASTINGS
+Lewes,334,LEWES
+Rother,176,ROTHER
+Wealden,173,WEALDEN
+Basildon,"1,592",BASILDON
+Braintree,235,BRAINTREE
+Brentwood,488,BRENTWOOD
+Castle Point,"1,984",CASTLE POINT
+Chelmsford,500,CHELMSFORD
+Colchester,550,COLCHESTER
+Epping Forest,368,EPPING FOREST
+Harlow,"2,674",HARLOW
+Maldon,176,MALDON
+Rochford,492,ROCHFORD
+Tendring,440,TENDRING
+Uttlesford,121,UTTLESFORD
+Cheltenham,"2,472",CHELTENHAM
+Cotswold,72,COTSWOLD
+Forest Of Dean,157,FOREST OF DEAN
+Gloucester,"2,922",GLOUCESTER
+Stroud,243,STROUD
+Tewkesbury,197,TEWKESBURY
+Basingstoke & Deane,261,BASINGSTOKE & DEANE
+East Hampshire,219,EAST HAMPSHIRE
+Eastleigh,"1,534",EASTLEIGH
+Fareham,"1,510",FAREHAM
+Gosport,"3,159",GOSPORT
+Hart,424,HART
+Havant,"2,110",HAVANT
+New Forest,235,NEW FOREST
+Rushmoor,"2,356",RUSHMOOR
+Test Valley,181,TEST VALLEY
+Winchester,173,WINCHESTER
+Broxbourne,"1,762",BROXBOURNE
+Dacorum,672,DACORUM
+East Hertfordshire,291,EAST HERTFORDSHIRE
+Hertsmere,988,HERTSMERE
+North Hertfordshire,335,NORTH HERTFORDSHIRE
+St Albans,861,ST ALBANS
+Stevenage,"3,149",STEVENAGE
+Three Rivers,"1,001",THREE RIVERS
+Watford,"4,014",WATFORD
+Welwyn Hatfield,883,WELWYN HATFIELD
+Ashford,199,ASHFORD
+Canterbury,496,CANTERBURY
+Dartford,"1,299",DARTFORD
+Dover,340,DOVER
+Gravesham,"1,005",GRAVESHAM
+Maidstone,381,MAIDSTONE
+Sevenoaks,309,SEVENOAKS
+Shepway,284,SHEPWAY
+Swale,357,SWALE
+Thanet,"1,279",THANET
+Tonbridge & Malling,495,TONBRIDGE & MALLING
+Tunbridge Wells,326,TUNBRIDGE WELLS
+Burnley,771,BURNLEY
+Chorley,520,CHORLEY
+Fylde,463,FYLDE
+Hyndburn,"1,111",HYNDBURN
+Lancaster,245,LANCASTER
+Pendle,527,PENDLE
+Preston,949,PRESTON
+Ribble Valley,99,RIBBLE VALLEY
+Rossendale,488,ROSSENDALE
+South Ribble,959,SOUTH RIBBLE
+West Lancashire,318,WEST LANCASHIRE
+Wyre,394,WYRE
+Blaby,721,BLABY
+Charnwood,598,CHARNWOOD
+Harborough,142,HARBOROUGH
+Hinckley & Bosworth,353,HINCKLEY & BOSWORTH
+Melton,103,MELTON
+North West Leicestershire,325,NORTH WEST LEICESTERSHIRE
+Oadby & Wigston,"2,489",OADBY & WIGSTON
+Boston,163,BOSTON
+East Lindsey,80,EAST LINDSEY
+Lincoln,"2,513",LINCOLN
+North Kesteven,115,NORTH KESTEVEN
+South Holland,114,SOUTH HOLLAND
+South Kesteven,140,SOUTH KESTEVEN
+West Lindsey,77,WEST LINDSEY
+Breckland,100,BRECKLAND
+Broadland,224,BROADLAND
+Great Yarmouth,559,GREAT YARMOUTH
+Kings Lynn & West Norfolk,101,KINGS LYNN & WEST NORFOLK
+North Norfolk,105,NORTH NORFOLK
+Norwich,"3,677",NORWICH
+South Norfolk,134,SOUTH NORFOLK
+Corby,695,CORBY
+Daventry,119,DAVENTRY
+East Northamptonshire,167,EAST NORTHAMPTONSHIRE
+Kettering,388,KETTERING
+Northampton,"2,627",NORTHAMPTON
+South Northamptonshire,140,SOUTH NORTHAMPTONSHIRE
+Wellingborough,465,WELLINGBOROUGH
+Alnwick,30,ALNWICK
+Berwick-Upon-Tweed,27,BERWICK-UPON-TWEED
+Blyth Valley,"1,152",BLYTH VALLEY
+Castle Morpeth,82,CASTLE MORPETH
+Tynedale,27,TYNEDALE
+Wansbeck,931,WANSBECK
+Craven,47,CRAVEN
+Hambleton,67,HAMBLETON
+Harrogate,121,HARROGATE
+Richmondshire,40,RICHMONDSHIRE
+Ryedale,36,RYEDALE
+Scarborough,133,SCARBOROUGH
+Selby,138,SELBY
+Ashfield,"1,068",ASHFIELD
+Bassetlaw,175,BASSETLAW
+Broxtowe,"1,396",BROXTOWE
+Gedling,943,GEDLING
+Mansfield,"1,299",MANSFIELD
+Newark & Sherwood,174,NEWARK & SHERWOOD
+Rushcliffe,276,RUSHCLIFFE
+Cherwell,239,CHERWELL
+Oxford,"3,370",OXFORD
+South Oxfordshire,193,SOUTH OXFORDSHIRE
+Vale Of White Horse,207,VALE OF WHITE HORSE
+West Oxfordshire,145,WEST OXFORDSHIRE
+Bridgnorth,83,BRIDGNORTH
+North Shropshire,90,NORTH SHROPSHIRE
+Oswestry,158,OSWESTRY
+Shrewsbury & Atcham,160,SHREWSBURY & ATCHAM
+South Shropshire,42,SOUTH SHROPSHIRE
+Mendip,147,MENDIP
+Sedgemoor,200,SEDGEMOOR
+South Somerset,165,SOUTH SOMERSET
+Taunton Deane,237,TAUNTON DEANE
+West Somerset,49,WEST SOMERSET
+Cannock Chase,"1,200",CANNOCK CHASE
+East Staffordshire,283,EAST STAFFORDSHIRE
+Lichfield,298,LICHFIELD
+Newcastle-Under-Lyme,590,NEWCASTLE-UNDER-LYME
+South Staffordshire,262,SOUTH STAFFORDSHIRE
+Stafford,211,STAFFORD
+Staffordshire Moorlands,166,STAFFORDSHIRE MOORLANDS
+Tamworth,"2,464",TAMWORTH
+Babergh,144,BABERGH
+Forest Heath,170,FOREST HEATH
+Ipswich,"3,254",IPSWICH
+Mid Suffolk,109,MID SUFFOLK
+St Edmundsbury,159,ST EDMUNDSBURY
+Suffolk Coastal,139,SUFFOLK COASTAL
+Waveney,317,WAVENEY
+Elmbridge,"1,388",ELMBRIDGE
+Epsom & Ewell,"2,180",EPSOM & EWELL
+Guildford,506,GUILDFORD
+Mole Valley,328,MOLE VALLEY
+Reigate & Banstead,"1,074",REIGATE & BANSTEAD
+Runnymede,"1,101",RUNNYMEDE
+Spelthorne,"2,081",SPELTHORNE
+Surrey Heath,889,SURREY HEATH
+Tandridge,335,TANDRIDGE
+Waverley,348,WAVERLEY
+Woking,"1,470",WOKING
+North Warwickshire,218,NORTH WARWICKSHIRE
+Nuneaton & Bedworth,"1,547",NUNEATON & BEDWORTH
+Rugby,268,RUGBY
+Stratford-On-Avon,122,STRATFORD-ON-AVON
+Warwick,491,WARWICK
+Adur,"1,474",ADUR
+Arun,682,ARUN
+Chichester,144,CHICHESTER
+Crawley,"2,392",CRAWLEY
+Horsham,247,HORSHAM
+Mid Sussex,397,MID SUSSEX
+Worthing,"3,176",WORTHING
+Kennet,83,KENNET
+North Wiltshire,175,NORTH WILTSHIRE
+Salisbury,117,SALISBURY
+West Wiltshire,247,WEST WILTSHIRE
+Bromsgrove,431,BROMSGROVE
+Malvern Hills,131,MALVERN HILLS
+Redditch,"1,450",REDDITCH
+Worcester,"2,848",WORCESTER
+Wychavon,176,WYCHAVON
+Wyre Forest,502,WYRE FOREST

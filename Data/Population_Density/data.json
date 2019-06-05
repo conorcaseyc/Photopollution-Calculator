@@ -1,0 +1,3322 @@
+[
+  {
+    "Towns": "",
+    "PD": ""
+  },
+  {
+    "Towns": "Dublin City",
+    "PD": 3677.5
+  },
+  {
+    "Towns": "Galway City",
+    "PD": 1475.2
+  },
+  {
+    "Towns": "Cork City",
+    "PD": 3300
+  },
+  {
+    "Towns": "Limerick City",
+    "PD": 1591.2
+  },
+  {
+    "Towns": "Waterford City",
+    "PD": 1107.5
+  },
+  {
+    "Towns": "Drogheda",
+    "PD": 2776.6
+  },
+  {
+    "Towns": "Swords",
+    "PD": 3791.7
+  },
+  {
+    "Towns": "Dundalk",
+    "PD": 1651
+  },
+  {
+    "Towns": "Bray",
+    "PD": 4035.7
+  },
+  {
+    "Towns": "Navan",
+    "PD": 2332.8
+  },
+  {
+    "Towns": "Kilkenny",
+    "PD": 2115.9
+  },
+  {
+    "Towns": "Ennis",
+    "PD": 1286.6
+  },
+  {
+    "Towns": "Carlow",
+    "PD": 2063.4
+  },
+  {
+    "Towns": "Tralee",
+    "PD": 1260.6
+  },
+  {
+    "Towns": "Droichead Nua",
+    "PD": 2578.2
+  },
+  {
+    "Towns": "Portlaoise",
+    "PD": 1829.3
+  },
+  {
+    "Towns": "Balbriggan",
+    "PD": 4514.1
+  },
+  {
+    "Towns": "Naas",
+    "PD": 2567.7
+  },
+  {
+    "Towns": "Athlone",
+    "PD": 1338.8
+  },
+  {
+    "Towns": "Mullingar",
+    "PD": 1575
+  },
+  {
+    "Towns": "Celbridge",
+    "PD": 3463.5
+  },
+  {
+    "Towns": "Wexford",
+    "PD": 998
+  },
+  {
+    "Towns": "Letterkenny",
+    "PD": 1240
+  },
+  {
+    "Towns": "Sligo",
+    "PD": 1858.5
+  },
+  {
+    "Towns": "Greystones",
+    "PD": 2036.6
+  },
+  {
+    "Towns": "Clonmel",
+    "PD": 1636.4
+  },
+  {
+    "Towns": "Malahide",
+    "PD": 2850.3
+  },
+  {
+    "Towns": "Carrigaline",
+    "PD": 3430.1
+  },
+  {
+    "Towns": "Leixlip",
+    "PD": 3138.9
+  },
+  {
+    "Towns": "Tullamore",
+    "PD": 1101.5
+  },
+  {
+    "Towns": "Maynooth",
+    "PD": 2818.8
+  },
+  {
+    "Towns": "Killarney",
+    "PD": 1796.3
+  },
+  {
+    "Towns": "Arklow",
+    "PD": 2492.5
+  },
+  {
+    "Towns": "Cobh",
+    "PD": 2521.9
+  },
+  {
+    "Towns": "Ashbourne",
+    "PD": 3847.6
+  },
+  {
+    "Towns": "Midleton",
+    "PD": 1611.6
+  },
+  {
+    "Towns": "Mallow",
+    "PD": 1517.9
+  },
+  {
+    "Towns": "Castlebar",
+    "PD": 1534.8
+  },
+  {
+    "Towns": "Laytown-Bettystown-Mornington",
+    "PD": 2062.5
+  },
+  {
+    "Towns": "Enniscorthy",
+    "PD": 1977.2
+  },
+  {
+    "Towns": "Cavan",
+    "PD": 1337.3
+  },
+  {
+    "Towns": "Wicklow",
+    "PD": 2015.2
+  },
+  {
+    "Towns": "Tramore",
+    "PD": 1799.5
+  },
+  {
+    "Towns": "Ballina",
+    "PD": 1508.9
+  },
+  {
+    "Towns": "Skerries",
+    "PD": 3101.4
+  },
+  {
+    "Towns": "Longford",
+    "PD": 1387.3
+  },
+  {
+    "Towns": "Rush",
+    "PD": 1699.5
+  },
+  {
+    "Towns": "Gorey",
+    "PD": 1856
+  },
+  {
+    "Towns": "Shannon",
+    "PD": 1387.5
+  },
+  {
+    "Towns": "Athy",
+    "PD": 1557.5
+  },
+  {
+    "Towns": "Ratoath",
+    "PD": 3254.8
+  },
+  {
+    "Towns": "Portmarnock",
+    "PD": 2587.3
+  },
+  {
+    "Towns": "Dungarvan",
+    "PD": 2050.7
+  },
+  {
+    "Towns": "Trim",
+    "PD": 1652.3
+  },
+  {
+    "Towns": "Nenagh",
+    "PD": 1453.3
+  },
+  {
+    "Towns": "Tuam",
+    "PD": 1354.4
+  },
+  {
+    "Towns": "Kildare",
+    "PD": 2781.4
+  },
+  {
+    "Towns": "Portarlington",
+    "PD": 1980.4
+  },
+  {
+    "Towns": "New Ross",
+    "PD": 1311.6
+  },
+  {
+    "Towns": "Youghal",
+    "PD": 1562.7
+  },
+  {
+    "Towns": "Thurles",
+    "PD": 1151.3
+  },
+  {
+    "Towns": "Lusk",
+    "PD": 4052
+  },
+  {
+    "Towns": "Monaghan",
+    "PD": 1146.1
+  },
+  {
+    "Towns": "Donabate",
+    "PD": 3858.3
+  },
+  {
+    "Towns": "Edenderry",
+    "PD": 1724.6
+  },
+  {
+    "Towns": "Clane",
+    "PD": 2483.7
+  },
+  {
+    "Towns": "Dunboyne",
+    "PD": 3563.8
+  },
+  {
+    "Towns": "Bandon",
+    "PD": 1694.3
+  },
+  {
+    "Towns": "Buncrana",
+    "PD": 821.9
+  },
+  {
+    "Towns": "Ballinasloe",
+    "PD": 773.8
+  },
+  {
+    "Towns": "Kinsealy-Drinan",
+    "PD": 5830.3
+  },
+  {
+    "Towns": "Newcastle West",
+    "PD": 1423.6
+  },
+  {
+    "Towns": "Fermoy",
+    "PD": 1428.1
+  },
+  {
+    "Towns": "Westport",
+    "PD": 798.1
+  },
+  {
+    "Towns": "Kells",
+    "PD": 2197.7
+  },
+  {
+    "Towns": "Kilcock",
+    "PD": 3406.3
+  },
+  {
+    "Towns": "Roscommon",
+    "PD": 644.8
+  },
+  {
+    "Towns": "Sallins",
+    "PD": 3883.5
+  },
+  {
+    "Towns": "Passage West",
+    "PD": 1053.6
+  },
+  {
+    "Towns": "Carrick-on-Suir",
+    "PD": 1779.9
+  },
+  {
+    "Towns": "Loughrea",
+    "PD": 1344
+  },
+  {
+    "Towns": "Blessington",
+    "PD": 3139.7
+  },
+  {
+    "Towns": "Roscrea",
+    "PD": 895.7
+  },
+  {
+    "Towns": "Kinsale",
+    "PD": 1229.3
+  },
+  {
+    "Towns": "Carrigtwohill",
+    "PD": 3303.9
+  },
+  {
+    "Towns": "Carrickmacross",
+    "PD": 1362.2
+  },
+  {
+    "Towns": "Oranmore",
+    "PD": 2016.3
+  },
+  {
+    "Towns": "Tipperary",
+    "PD": 1205.4
+  },
+  {
+    "Towns": "Ardee",
+    "PD": 1921.5
+  },
+  {
+    "Towns": "Ballybofey-Stranorlar",
+    "PD": 932.1
+  },
+  {
+    "Towns": "Listowel",
+    "PD": 889.8
+  },
+  {
+    "Towns": "Mountmellick",
+    "PD": 1569.7
+  },
+  {
+    "Towns": "Tullow",
+    "PD": 1057.3
+  },
+  {
+    "Towns": "Clonakilty",
+    "PD": 1337.8
+  },
+  {
+    "Towns": "Athenry",
+    "PD": 1623.6
+  },
+  {
+    "Towns": "Cashel",
+    "PD": 1665.6
+  },
+  {
+    "Towns": "Birr",
+    "PD": 1329.5
+  },
+  {
+    "Towns": "Rathcoole",
+    "PD": 3120.7
+  },
+  {
+    "Towns": "Monasterevin",
+    "PD": 1235.2
+  },
+  {
+    "Towns": "Kilcoole",
+    "PD": 2438.2
+  },
+  {
+    "Towns": "Duleek",
+    "PD": 2329.5
+  },
+  {
+    "Towns": "Carrick-on-Shannon",
+    "PD": 999.9
+  },
+  {
+    "Towns": "Dunshaughlin",
+    "PD": 2251.1
+  },
+  {
+    "Towns": "Rathluirc",
+    "PD": 1266.9
+  },
+  {
+    "Towns": "Macroom",
+    "PD": 1230.3
+  },
+  {
+    "Towns": "Mitchelstown",
+    "PD": 1323.5
+  },
+  {
+    "Towns": "Kilcullen",
+    "PD": 1964.8
+  },
+  {
+    "Towns": "Claremorris",
+    "PD": 1111.3
+  },
+  {
+    "Towns": "Castleblayney",
+    "PD": 1348.6
+  },
+  {
+    "Towns": "Cahir",
+    "PD": 1351.3
+  },
+  {
+    "Towns": "Courtown Harbour",
+    "PD": 1091
+  },
+  {
+    "Towns": "Tower",
+    "PD": 1740.3
+  },
+  {
+    "Towns": "Rathnew",
+    "PD": 2896.5
+  },
+  {
+    "Towns": "Stamullen",
+    "PD": 3627.6
+  },
+  {
+    "Towns": "Kill",
+    "PD": 2995.1
+  },
+  {
+    "Towns": "Clara",
+    "PD": 859.6
+  },
+  {
+    "Towns": "Enfield",
+    "PD": 2506.3
+  },
+  {
+    "Towns": "Saggart",
+    "PD": 3274.4
+  },
+  {
+    "Towns": "Newcastle",
+    "PD": 1451.6
+  },
+  {
+    "Towns": "Gort",
+    "PD": 871.3
+  },
+  {
+    "Towns": "Annacotty",
+    "PD": 1851.7
+  },
+  {
+    "Towns": "Muinebeag",
+    "PD": 862.9
+  },
+  {
+    "Towns": "Newtownmountkennedy",
+    "PD": 1539.3
+  },
+  {
+    "Towns": "Ballinrobe",
+    "PD": 1087.7
+  },
+  {
+    "Towns": "Skibbereen",
+    "PD": 892.2
+  },
+  {
+    "Towns": "Moate",
+    "PD": 1422.7
+  },
+  {
+    "Towns": "Kinnegad",
+    "PD": 2739.9
+  },
+  {
+    "Towns": "Bantry",
+    "PD": 1179
+  },
+  {
+    "Towns": "Kilrush",
+    "PD": 821.6
+  },
+  {
+    "Towns": "Bailieborough",
+    "PD": 649.6
+  },
+  {
+    "Towns": "Ballyjamesduff",
+    "PD": 1574.4
+  },
+  {
+    "Towns": "Virginia",
+    "PD": 1328.8
+  },
+  {
+    "Towns": "Ballina (North Tipperary)",
+    "PD": 1170
+  },
+  {
+    "Towns": "Sixmilebridge",
+    "PD": 2114.2
+  },
+  {
+    "Towns": "Donegal",
+    "PD": 891.4
+  },
+  {
+    "Towns": "Rathangan",
+    "PD": 1007.7
+  },
+  {
+    "Towns": "Crosshaven",
+    "PD": 1273.6
+  },
+  {
+    "Towns": "Boyle",
+    "PD": 679.8
+  },
+  {
+    "Towns": "Blarney",
+    "PD": 1370.8
+  },
+  {
+    "Towns": "Kingscourt",
+    "PD": 1495.7
+  },
+  {
+    "Towns": "Castleisland",
+    "PD": 731.9
+  },
+  {
+    "Towns": "Callan",
+    "PD": 1188.9
+  },
+  {
+    "Towns": "Carndonagh",
+    "PD": 505.8
+  },
+  {
+    "Towns": "Thomastown",
+    "PD": 739.2
+  },
+  {
+    "Towns": "Athboy",
+    "PD": 1798
+  },
+  {
+    "Towns": "Kenmare",
+    "PD": 768.5
+  },
+  {
+    "Towns": "Ballyhaunis",
+    "PD": 969.1
+  },
+  {
+    "Towns": "Kanturk",
+    "PD": 753.2
+  },
+  {
+    "Towns": "Prosperous",
+    "PD": 1707.8
+  },
+  {
+    "Towns": "Ballyshannon",
+    "PD": 790.4
+  },
+  {
+    "Towns": "Killorglin",
+    "PD": 923.9
+  },
+  {
+    "Towns": "Clogherhead",
+    "PD": 1473.9
+  },
+  {
+    "Towns": "Baltinglass",
+    "PD": 800.4
+  },
+  {
+    "Towns": "Castleconnell",
+    "PD": 1296.6
+  },
+  {
+    "Towns": "Edgeworthstown",
+    "PD": 1514.1
+  },
+  {
+    "Towns": "Dingle",
+    "PD": 620.4
+  },
+  {
+    "Towns": "Abbeyfeale",
+    "PD": 1069.2
+  },
+  {
+    "Towns": "Balrothery",
+    "PD": 3786.7
+  },
+  {
+    "Towns": "Bearna",
+    "PD": 1057.6
+  },
+  {
+    "Towns": "Newport Ireland",
+    "PD": 1345.4
+  },
+  {
+    "Towns": "Castlerea",
+    "PD": 868.9
+  },
+  {
+    "Towns": "Tubbercurry",
+    "PD": 877.6
+  },
+  {
+    "Towns": "Bunclody-Carrickduff",
+    "PD": 1096.4
+  },
+  {
+    "Towns": "Bundoran",
+    "PD": 586.6
+  },
+  {
+    "Towns": "Templemore",
+    "PD": 875.9
+  },
+  {
+    "Towns": "Enniskerry",
+    "PD": 1013.2
+  },
+  {
+    "Towns": "Ballymahon",
+    "PD": 1140.9
+  },
+  {
+    "Towns": "Cootehill",
+    "PD": 1002.4
+  },
+  {
+    "Towns": "Castlebridge",
+    "PD": 919.1
+  },
+  {
+    "Towns": "Dunleer",
+    "PD": 1168.2
+  },
+  {
+    "Towns": "Ballivor",
+    "PD": 1855.3
+  },
+  {
+    "Towns": "Ballaghaderreen",
+    "PD": 852.1
+  },
+  {
+    "Towns": "Dunmore East",
+    "PD": 912
+  },
+  {
+    "Towns": "Cloyne",
+    "PD": 1909.7
+  },
+  {
+    "Towns": "Newmarket-on-Fergus",
+    "PD": 1122.8
+  },
+  {
+    "Towns": "Mountrath",
+    "PD": 1024.7
+  },
+  {
+    "Towns": "Abbeyleix",
+    "PD": 548.6
+  },
+  {
+    "Towns": "Rathcormac",
+    "PD": 2069.4
+  },
+  {
+    "Towns": "Banagher",
+    "PD": 961.1
+  },
+  {
+    "Towns": "Strandhill",
+    "PD": 1517.4
+  },
+  {
+    "Towns": "Portlaw",
+    "PD": 1757.8
+  },
+  {
+    "Towns": "Moycullen",
+    "PD": 1243.5
+  },
+  {
+    "Towns": "Clones",
+    "PD": 878.5
+  },
+  {
+    "Towns": "Kilmallock",
+    "PD": 827.2
+  },
+  {
+    "Towns": "Rathdrum",
+    "PD": 1364.1
+  },
+  {
+    "Towns": "Dunmanway",
+    "PD": 910.9
+  },
+  {
+    "Towns": "Lifford",
+    "PD": 1347
+  },
+  {
+    "Towns": "Rosslare",
+    "PD": 663.4
+  },
+  {
+    "Towns": "Collooney",
+    "PD": 1325.3
+  },
+  {
+    "Towns": "Derrinturn",
+    "PD": 1062.3
+  },
+  {
+    "Towns": "Castlemartyr",
+    "PD": 2115.4
+  },
+  {
+    "Towns": "Clifden",
+    "PD": 674.1
+  },
+  {
+    "Towns": "Longwood",
+    "PD": 2509
+  },
+  {
+    "Towns": "Termonfeckin",
+    "PD": 1357.7
+  },
+  {
+    "Towns": "Millstreet",
+    "PD": 762.5
+  },
+  {
+    "Towns": "Ballymote",
+    "PD": 969.6
+  },
+  {
+    "Towns": "Tullyallen",
+    "PD": 1770.3
+  },
+  {
+    "Towns": "Fethard",
+    "PD": 1016.5
+  },
+  {
+    "Towns": "Convoy",
+    "PD": 1030.6
+  },
+  {
+    "Towns": "Castlecomer-Donaguile",
+    "PD": 980.7
+  },
+  {
+    "Towns": "Tallow",
+    "PD": 1064
+  },
+  {
+    "Towns": "Ballymacarbry",
+    "PD": 748.5
+  },
+  {
+    "Towns": "Watergrasshill",
+    "PD": 1892
+  },
+  {
+    "Towns": "Lismore",
+    "PD": 1254
+  },
+  {
+    "Towns": "Tarbert",
+    "PD": 658
+  },
+  {
+    "Towns": "Adare",
+    "PD": 1292
+  },
+  {
+    "Towns": "Rural Areas",
+    "PD": 21.7
+  },
+  {
+    "Towns": "Hartlepool",
+    "PD": 973
+  },
+  {
+    "Towns": "Middlesbrough",
+    "PD": 2643
+  },
+  {
+    "Towns": "Redcar & Cleveland",
+    "PD": 561
+  },
+  {
+    "Towns": "Stockton-On-Tees",
+    "PD": 944
+  },
+  {
+    "Towns": "Darlington",
+    "PD": 511
+  },
+  {
+    "Towns": "Halton",
+    "PD": 1508
+  },
+  {
+    "Towns": "Warrington",
+    "PD": 1101
+  },
+  {
+    "Towns": "Blackburn With Darwen",
+    "PD": 1022
+  },
+  {
+    "Towns": "Blackpool",
+    "PD": 4009
+  },
+  {
+    "Towns": "Kingston Upon Hull",
+    "PD": 3694
+  },
+  {
+    "Towns": "East Riding Of Yorkshire",
+    "PD": 141
+  },
+  {
+    "Towns": "North East Lincolnshire",
+    "PD": 820
+  },
+  {
+    "Towns": "North Lincolnshire",
+    "PD": 191
+  },
+  {
+    "Towns": "York",
+    "PD": 744
+  },
+  {
+    "Towns": "Derby",
+    "PD": 3164
+  },
+  {
+    "Towns": "Leicester",
+    "PD": 4182
+  },
+  {
+    "Towns": "Rutland",
+    "PD": 101
+  },
+  {
+    "Towns": "Nottingham",
+    "PD": 4111
+  },
+  {
+    "Towns": "Herefordshire",
+    "PD": 82
+  },
+  {
+    "Towns": "Telford And Wrekin",
+    "PD": 560
+  },
+  {
+    "Towns": "Stoke-On-Trent",
+    "PD": 2569
+  },
+  {
+    "Towns": "Bath & North East Somerset",
+    "PD": 520
+  },
+  {
+    "Towns": "Bristol",
+    "PD": 4026
+  },
+  {
+    "Towns": "North Somerset",
+    "PD": 568
+  },
+  {
+    "Towns": "South Gloucestershire",
+    "PD": 533
+  },
+  {
+    "Towns": "Plymouth",
+    "PD": 3243
+  },
+  {
+    "Towns": "Torbay",
+    "PD": 2135
+  },
+  {
+    "Towns": "Bournemouth",
+    "PD": 3641
+  },
+  {
+    "Towns": "Poole",
+    "PD": 2195
+  },
+  {
+    "Towns": "Swindon",
+    "PD": 877
+  },
+  {
+    "Towns": "Peterborough",
+    "PD": 505
+  },
+  {
+    "Towns": "Luton",
+    "PD": 4585
+  },
+  {
+    "Towns": "Southend",
+    "PD": 3959
+  },
+  {
+    "Towns": "Thurrock",
+    "PD": 977
+  },
+  {
+    "Towns": "Medway",
+    "PD": 1337
+  },
+  {
+    "Towns": "Bracknell Forest",
+    "PD": 1065
+  },
+  {
+    "Towns": "West Berkshire",
+    "PD": 219
+  },
+  {
+    "Towns": "Reading",
+    "PD": 3818
+  },
+  {
+    "Towns": "Slough",
+    "PD": 4029
+  },
+  {
+    "Towns": "Windsor And Maidenhead",
+    "PD": 744
+  },
+  {
+    "Towns": "Wokingham",
+    "PD": 912
+  },
+  {
+    "Towns": "Milton Keynes",
+    "PD": 782
+  },
+  {
+    "Towns": "Brighton And Hove",
+    "PD": 3130
+  },
+  {
+    "Towns": "Portsmouth",
+    "PD": 5146
+  },
+  {
+    "Towns": "Southampton",
+    "PD": 4810
+  },
+  {
+    "Towns": "Isle Of Wight",
+    "PD": 370
+  },
+  {
+    "Towns": "Isle Of Anglesey",
+    "PD": 96
+  },
+  {
+    "Towns": "Gwynedd",
+    "PD": 47
+  },
+  {
+    "Towns": "Conwy",
+    "PD": 98
+  },
+  {
+    "Towns": "Denbighshire",
+    "PD": 116
+  },
+  {
+    "Towns": "Flintshire",
+    "PD": 342
+  },
+  {
+    "Towns": "Wrexham",
+    "PD": 265
+  },
+  {
+    "Towns": "Powys",
+    "PD": 25
+  },
+  {
+    "Towns": "Ceredigion",
+    "PD": 43
+  },
+  {
+    "Towns": "Pembrokeshire",
+    "PD": 72
+  },
+  {
+    "Towns": "Carmarthenshire",
+    "PD": 76
+  },
+  {
+    "Towns": "Swansea",
+    "PD": 615
+  },
+  {
+    "Towns": "Neath Port Talbot",
+    "PD": 311
+  },
+  {
+    "Towns": "Bridgend",
+    "PD": 537
+  },
+  {
+    "Towns": "The Vale Of Glamorgan",
+    "PD": 378
+  },
+  {
+    "Towns": "Cardiff",
+    "PD": 2436
+  },
+  {
+    "Towns": "Cynon",
+    "PD": 552
+  },
+  {
+    "Towns": "Taff",
+    "PD": 552
+  },
+  {
+    "Towns": "Rhondda",
+    "PD": 552
+  },
+  {
+    "Towns": "Merthyr Tydfil",
+    "PD": 503
+  },
+  {
+    "Towns": "Caerphilly",
+    "PD": 625
+  },
+  {
+    "Towns": "Blaenau Gwent",
+    "PD": 629
+  },
+  {
+    "Towns": "Torfaen",
+    "PD": 721
+  },
+  {
+    "Towns": "Monmouthshire",
+    "PD": 104
+  },
+  {
+    "Towns": "Newport",
+    "PD": 742
+  },
+  {
+    "Towns": "City Of London",
+    "PD": 4029
+  },
+  {
+    "Towns": "Barking & Dagenham",
+    "PD": 4980
+  },
+  {
+    "Towns": "Barnet",
+    "PD": 4014
+  },
+  {
+    "Towns": "Bexley",
+    "PD": 3764
+  },
+  {
+    "Towns": "Brent",
+    "PD": 5934
+  },
+  {
+    "Towns": "Bromley",
+    "PD": 2080
+  },
+  {
+    "Towns": "Camden",
+    "PD": 10798
+  },
+  {
+    "Towns": "Croydon",
+    "PD": 3994
+  },
+  {
+    "Towns": "Ealing",
+    "PD": 5736
+  },
+  {
+    "Towns": "Enfield",
+    "PD": 3648
+  },
+  {
+    "Towns": "Greenwich",
+    "PD": 4826
+  },
+  {
+    "Towns": "Hackney",
+    "PD": 11499
+  },
+  {
+    "Towns": "Hammersmith & Fulham",
+    "PD": 10345
+  },
+  {
+    "Towns": "Haringey",
+    "PD": 7605
+  },
+  {
+    "Towns": "Harrow",
+    "PD": 4558
+  },
+  {
+    "Towns": "Havering",
+    "PD": 2103
+  },
+  {
+    "Towns": "Hillingdon",
+    "PD": 2300
+  },
+  {
+    "Towns": "Hounslow",
+    "PD": 4229
+  },
+  {
+    "Towns": "Islington",
+    "PD": 13061
+  },
+  {
+    "Towns": "Kensington & Chelsea",
+    "PD": 13973
+  },
+  {
+    "Towns": "Kingston Upon Thames",
+    "PD": 4536
+  },
+  {
+    "Towns": "Lambeth",
+    "PD": 10606
+  },
+  {
+    "Towns": "Lewisham",
+    "PD": 7580
+  },
+  {
+    "Towns": "Merton",
+    "PD": 5552
+  },
+  {
+    "Towns": "Newham",
+    "PD": 6629
+  },
+  {
+    "Towns": "Redbridge",
+    "PD": 4795
+  },
+  {
+    "Towns": "Richmond Upon Thames",
+    "PD": 3325
+  },
+  {
+    "Towns": "Southwark",
+    "PD": 9948
+  },
+  {
+    "Towns": "Sutton",
+    "PD": 4429
+  },
+  {
+    "Towns": "Tower Hamlets",
+    "PD": 12034
+  },
+  {
+    "Towns": "Waltham Forest",
+    "PD": 5852
+  },
+  {
+    "Towns": "Wandsworth",
+    "PD": 8451
+  },
+  {
+    "Towns": "Westminster",
+    "PD": 11784
+  },
+  {
+    "Towns": "Bolton",
+    "PD": 1906
+  },
+  {
+    "Towns": "Bury",
+    "PD": 1847
+  },
+  {
+    "Towns": "Manchester",
+    "PD": 4313
+  },
+  {
+    "Towns": "Oldham",
+    "PD": 1544
+  },
+  {
+    "Towns": "Rochdale",
+    "PD": 1298
+  },
+  {
+    "Towns": "Salford",
+    "PD": 2356
+  },
+  {
+    "Towns": "Stockport",
+    "PD": 2258
+  },
+  {
+    "Towns": "Tameside",
+    "PD": 2102
+  },
+  {
+    "Towns": "Trafford",
+    "PD": 2049
+  },
+  {
+    "Towns": "Wigan",
+    "PD": 1634
+  },
+  {
+    "Towns": "Knowsley",
+    "PD": 1724
+  },
+  {
+    "Towns": "Liverpool",
+    "PD": 3981
+  },
+  {
+    "Towns": "St Helens",
+    "PD": 1300
+  },
+  {
+    "Towns": "Sefton",
+    "PD": 1782
+  },
+  {
+    "Towns": "Wirral",
+    "PD": 1966
+  },
+  {
+    "Towns": "Barnsley",
+    "PD": 692
+  },
+  {
+    "Towns": "Doncaster",
+    "PD": 512
+  },
+  {
+    "Towns": "Rotherham",
+    "PD": 889
+  },
+  {
+    "Towns": "Sheffield",
+    "PD": 1510
+  },
+  {
+    "Towns": "Gateshead",
+    "PD": 1347
+  },
+  {
+    "Towns": "Newcastle Upon Tyne",
+    "PD": 2576
+  },
+  {
+    "Towns": "North Tyneside",
+    "PD": 2409
+  },
+  {
+    "Towns": "South Tyneside",
+    "PD": 2386
+  },
+  {
+    "Towns": "Sunderland",
+    "PD": 2063
+  },
+  {
+    "Towns": "Birmingham",
+    "PD": 3872
+  },
+  {
+    "Towns": "Coventry",
+    "PD": 3201
+  },
+  {
+    "Towns": "Dudley",
+    "PD": 3138
+  },
+  {
+    "Towns": "Sandwell",
+    "PD": 3421
+  },
+  {
+    "Towns": "Solihull",
+    "PD": 1156
+  },
+  {
+    "Towns": "Walsall",
+    "PD": 2471
+  },
+  {
+    "Towns": "Wolverhampton",
+    "PD": 3447
+  },
+  {
+    "Towns": "Bradford",
+    "PD": 1399
+  },
+  {
+    "Towns": "Calderdale",
+    "PD": 557
+  },
+  {
+    "Towns": "Kirklees",
+    "PD": 1003
+  },
+  {
+    "Towns": "Leeds",
+    "PD": 1448
+  },
+  {
+    "Towns": "Wakefield",
+    "PD": 961
+  },
+  {
+    "Towns": "Mid Bedfordshire",
+    "PD": 271
+  },
+  {
+    "Towns": "Bedford",
+    "PD": 338
+  },
+  {
+    "Towns": "South Bedfordshire",
+    "PD": 558
+  },
+  {
+    "Towns": "Aylesbury Vale",
+    "PD": 193
+  },
+  {
+    "Towns": "Chiltern",
+    "PD": 465
+  },
+  {
+    "Towns": "South Bucks",
+    "PD": 478
+  },
+  {
+    "Towns": "Wycombe",
+    "PD": 508
+  },
+  {
+    "Towns": "Cambridge",
+    "PD": 3089
+  },
+  {
+    "Towns": "East Cambridgeshire",
+    "PD": 130
+  },
+  {
+    "Towns": "Fenland",
+    "PD": 168
+  },
+  {
+    "Towns": "Huntingdonshire",
+    "PD": 185
+  },
+  {
+    "Towns": "South Cambridgeshire",
+    "PD": 162
+  },
+  {
+    "Towns": "Chester",
+    "PD": 266
+  },
+  {
+    "Towns": "Congleton",
+    "PD": 436
+  },
+  {
+    "Towns": "Crewe & Nantwich",
+    "PD": 277
+  },
+  {
+    "Towns": "Ellesmere Port & Neston",
+    "PD": 912
+  },
+  {
+    "Towns": "Macclesfield",
+    "PD": 291
+  },
+  {
+    "Towns": "Vale Royal",
+    "PD": 335
+  },
+  {
+    "Towns": "Caradon",
+    "PD": 127
+  },
+  {
+    "Towns": "Carrick",
+    "PD": 204
+  },
+  {
+    "Towns": "Kerrier",
+    "PD": 214
+  },
+  {
+    "Towns": "North Cornwall",
+    "PD": 73
+  },
+  {
+    "Towns": "Penwith",
+    "PD": 212
+  },
+  {
+    "Towns": "Restormel",
+    "PD": 231
+  },
+  {
+    "Towns": "Isles Of Scilly",
+    "PD": 129
+  },
+  {
+    "Towns": "Allerdale",
+    "PD": 76
+  },
+  {
+    "Towns": "Barrow-In-Furness",
+    "PD": 906
+  },
+  {
+    "Towns": "Carlisle",
+    "PD": 101
+  },
+  {
+    "Towns": "Copeland",
+    "PD": 95
+  },
+  {
+    "Towns": "Eden",
+    "PD": 24
+  },
+  {
+    "Towns": "South Lakeland",
+    "PD": 68
+  },
+  {
+    "Towns": "Amber Valley",
+    "PD": 458
+  },
+  {
+    "Towns": "Bolsover",
+    "PD": 465
+  },
+  {
+    "Towns": "Chesterfield",
+    "PD": 1530
+  },
+  {
+    "Towns": "Derbyshire Dales",
+    "PD": 89
+  },
+  {
+    "Towns": "Erewash",
+    "PD": 1015
+  },
+  {
+    "Towns": "High Peak",
+    "PD": 172
+  },
+  {
+    "Towns": "North East Derbyshire",
+    "PD": 357
+  },
+  {
+    "Towns": "South Derbyshire",
+    "PD": 278
+  },
+  {
+    "Towns": "East Devon",
+    "PD": 163
+  },
+  {
+    "Towns": "Exeter",
+    "PD": 2544
+  },
+  {
+    "Towns": "Mid Devon",
+    "PD": 83
+  },
+  {
+    "Towns": "North Devon",
+    "PD": 84
+  },
+  {
+    "Towns": "South Hams",
+    "PD": 94
+  },
+  {
+    "Towns": "Teignbridge",
+    "PD": 189
+  },
+  {
+    "Towns": "Torridge",
+    "PD": 67
+  },
+  {
+    "Towns": "West Devon",
+    "PD": 46
+  },
+  {
+    "Towns": "Christchurch",
+    "PD": 939
+  },
+  {
+    "Towns": "East Dorset",
+    "PD": 248
+  },
+  {
+    "Towns": "North Dorset",
+    "PD": 105
+  },
+  {
+    "Towns": "Purbeck",
+    "PD": 112
+  },
+  {
+    "Towns": "West Dorset",
+    "PD": 89
+  },
+  {
+    "Towns": "Weymouth & Portland",
+    "PD": 1522
+  },
+  {
+    "Towns": "Chester-Le-Street",
+    "PD": 787
+  },
+  {
+    "Towns": "Derwentside",
+    "PD": 329
+  },
+  {
+    "Towns": "Durham",
+    "PD": 525
+  },
+  {
+    "Towns": "Easington",
+    "PD": 662
+  },
+  {
+    "Towns": "Sedgefield",
+    "PD": 399
+  },
+  {
+    "Towns": "Teesdale",
+    "PD": 29
+  },
+  {
+    "Towns": "Wear Valley",
+    "PD": 126
+  },
+  {
+    "Towns": "Eastbourne",
+    "PD": 2196
+  },
+  {
+    "Towns": "Hastings",
+    "PD": 2933
+  },
+  {
+    "Towns": "Lewes",
+    "PD": 334
+  },
+  {
+    "Towns": "Rother",
+    "PD": 176
+  },
+  {
+    "Towns": "Wealden",
+    "PD": 173
+  },
+  {
+    "Towns": "Basildon",
+    "PD": 1592
+  },
+  {
+    "Towns": "Braintree",
+    "PD": 235
+  },
+  {
+    "Towns": "Brentwood",
+    "PD": 488
+  },
+  {
+    "Towns": "Castle Point",
+    "PD": 1984
+  },
+  {
+    "Towns": "Chelmsford",
+    "PD": 500
+  },
+  {
+    "Towns": "Colchester",
+    "PD": 550
+  },
+  {
+    "Towns": "Epping Forest",
+    "PD": 368
+  },
+  {
+    "Towns": "Harlow",
+    "PD": 2674
+  },
+  {
+    "Towns": "Maldon",
+    "PD": 176
+  },
+  {
+    "Towns": "Rochford",
+    "PD": 492
+  },
+  {
+    "Towns": "Tendring",
+    "PD": 440
+  },
+  {
+    "Towns": "Uttlesford",
+    "PD": 121
+  },
+  {
+    "Towns": "Cheltenham",
+    "PD": 2472
+  },
+  {
+    "Towns": "Cotswold",
+    "PD": 72
+  },
+  {
+    "Towns": "Forest Of Dean",
+    "PD": 157
+  },
+  {
+    "Towns": "Gloucester",
+    "PD": 2922
+  },
+  {
+    "Towns": "Stroud",
+    "PD": 243
+  },
+  {
+    "Towns": "Tewkesbury",
+    "PD": 197
+  },
+  {
+    "Towns": "Basingstoke & Deane",
+    "PD": 261
+  },
+  {
+    "Towns": "East Hampshire",
+    "PD": 219
+  },
+  {
+    "Towns": "Eastleigh",
+    "PD": 1534
+  },
+  {
+    "Towns": "Fareham",
+    "PD": 1510
+  },
+  {
+    "Towns": "Gosport",
+    "PD": 3159
+  },
+  {
+    "Towns": "Hart",
+    "PD": 424
+  },
+  {
+    "Towns": "Havant",
+    "PD": 2110
+  },
+  {
+    "Towns": "New Forest",
+    "PD": 235
+  },
+  {
+    "Towns": "Rushmoor",
+    "PD": 2356
+  },
+  {
+    "Towns": "Test Valley",
+    "PD": 181
+  },
+  {
+    "Towns": "Winchester",
+    "PD": 173
+  },
+  {
+    "Towns": "Broxbourne",
+    "PD": 1762
+  },
+  {
+    "Towns": "Dacorum",
+    "PD": 672
+  },
+  {
+    "Towns": "East Hertfordshire",
+    "PD": 291
+  },
+  {
+    "Towns": "Hertsmere",
+    "PD": 988
+  },
+  {
+    "Towns": "North Hertfordshire",
+    "PD": 335
+  },
+  {
+    "Towns": "St Albans",
+    "PD": 861
+  },
+  {
+    "Towns": "Stevenage",
+    "PD": 3149
+  },
+  {
+    "Towns": "Three Rivers",
+    "PD": 1001
+  },
+  {
+    "Towns": "Watford",
+    "PD": 4014
+  },
+  {
+    "Towns": "Welwyn Hatfield",
+    "PD": 883
+  },
+  {
+    "Towns": "Ashford",
+    "PD": 199
+  },
+  {
+    "Towns": "Canterbury",
+    "PD": 496
+  },
+  {
+    "Towns": "Dartford",
+    "PD": 1299
+  },
+  {
+    "Towns": "Dover",
+    "PD": 340
+  },
+  {
+    "Towns": "Gravesham",
+    "PD": 1005
+  },
+  {
+    "Towns": "Maidstone",
+    "PD": 381
+  },
+  {
+    "Towns": "Sevenoaks",
+    "PD": 309
+  },
+  {
+    "Towns": "Shepway",
+    "PD": 284
+  },
+  {
+    "Towns": "Swale",
+    "PD": 357
+  },
+  {
+    "Towns": "Thanet",
+    "PD": 1279
+  },
+  {
+    "Towns": "Tonbridge & Malling",
+    "PD": 495
+  },
+  {
+    "Towns": "Tunbridge Wells",
+    "PD": 326
+  },
+  {
+    "Towns": "Burnley",
+    "PD": 771
+  },
+  {
+    "Towns": "Chorley",
+    "PD": 520
+  },
+  {
+    "Towns": "Fylde",
+    "PD": 463
+  },
+  {
+    "Towns": "Hyndburn",
+    "PD": 1111
+  },
+  {
+    "Towns": "Lancaster",
+    "PD": 245
+  },
+  {
+    "Towns": "Pendle",
+    "PD": 527
+  },
+  {
+    "Towns": "Preston",
+    "PD": 949
+  },
+  {
+    "Towns": "Ribble Valley",
+    "PD": 99
+  },
+  {
+    "Towns": "Rossendale",
+    "PD": 488
+  },
+  {
+    "Towns": "South Ribble",
+    "PD": 959
+  },
+  {
+    "Towns": "West Lancashire",
+    "PD": 318
+  },
+  {
+    "Towns": "Wyre",
+    "PD": 394
+  },
+  {
+    "Towns": "Blaby",
+    "PD": 721
+  },
+  {
+    "Towns": "Charnwood",
+    "PD": 598
+  },
+  {
+    "Towns": "Harborough",
+    "PD": 142
+  },
+  {
+    "Towns": "Hinckley & Bosworth",
+    "PD": 353
+  },
+  {
+    "Towns": "Melton",
+    "PD": 103
+  },
+  {
+    "Towns": "North West Leicestershire",
+    "PD": 325
+  },
+  {
+    "Towns": "Oadby & Wigston",
+    "PD": 2489
+  },
+  {
+    "Towns": "Boston",
+    "PD": 163
+  },
+  {
+    "Towns": "East Lindsey",
+    "PD": 80
+  },
+  {
+    "Towns": "Lincoln",
+    "PD": 2513
+  },
+  {
+    "Towns": "North Kesteven",
+    "PD": 115
+  },
+  {
+    "Towns": "South Holland",
+    "PD": 114
+  },
+  {
+    "Towns": "South Kesteven",
+    "PD": 140
+  },
+  {
+    "Towns": "West Lindsey",
+    "PD": 77
+  },
+  {
+    "Towns": "Breckland",
+    "PD": 100
+  },
+  {
+    "Towns": "Broadland",
+    "PD": 224
+  },
+  {
+    "Towns": "Great Yarmouth",
+    "PD": 559
+  },
+  {
+    "Towns": "Kings Lynn & West Norfolk",
+    "PD": 101
+  },
+  {
+    "Towns": "North Norfolk",
+    "PD": 105
+  },
+  {
+    "Towns": "Norwich",
+    "PD": 3677
+  },
+  {
+    "Towns": "South Norfolk",
+    "PD": 134
+  },
+  {
+    "Towns": "Corby",
+    "PD": 695
+  },
+  {
+    "Towns": "Daventry",
+    "PD": 119
+  },
+  {
+    "Towns": "East Northamptonshire",
+    "PD": 167
+  },
+  {
+    "Towns": "Kettering",
+    "PD": 388
+  },
+  {
+    "Towns": "Northampton",
+    "PD": 2627
+  },
+  {
+    "Towns": "South Northamptonshire",
+    "PD": 140
+  },
+  {
+    "Towns": "Wellingborough",
+    "PD": 465
+  },
+  {
+    "Towns": "Alnwick",
+    "PD": 30
+  },
+  {
+    "Towns": "Berwick-Upon-Tweed",
+    "PD": 27
+  },
+  {
+    "Towns": "Blyth Valley",
+    "PD": 1152
+  },
+  {
+    "Towns": "Castle Morpeth",
+    "PD": 82
+  },
+  {
+    "Towns": "Tynedale",
+    "PD": 27
+  },
+  {
+    "Towns": "Wansbeck",
+    "PD": 931
+  },
+  {
+    "Towns": "Craven",
+    "PD": 47
+  },
+  {
+    "Towns": "Hambleton",
+    "PD": 67
+  },
+  {
+    "Towns": "Harrogate",
+    "PD": 121
+  },
+  {
+    "Towns": "Richmondshire",
+    "PD": 40
+  },
+  {
+    "Towns": "Ryedale",
+    "PD": 36
+  },
+  {
+    "Towns": "Scarborough",
+    "PD": 133
+  },
+  {
+    "Towns": "Selby",
+    "PD": 138
+  },
+  {
+    "Towns": "Ashfield",
+    "PD": 1068
+  },
+  {
+    "Towns": "Bassetlaw",
+    "PD": 175
+  },
+  {
+    "Towns": "Broxtowe",
+    "PD": 1396
+  },
+  {
+    "Towns": "Gedling",
+    "PD": 943
+  },
+  {
+    "Towns": "Mansfield",
+    "PD": 1299
+  },
+  {
+    "Towns": "Newark & Sherwood",
+    "PD": 174
+  },
+  {
+    "Towns": "Rushcliffe",
+    "PD": 276
+  },
+  {
+    "Towns": "Cherwell",
+    "PD": 239
+  },
+  {
+    "Towns": "Oxford",
+    "PD": 3370
+  },
+  {
+    "Towns": "South Oxfordshire",
+    "PD": 193
+  },
+  {
+    "Towns": "Vale Of White Horse",
+    "PD": 207
+  },
+  {
+    "Towns": "West Oxfordshire",
+    "PD": 145
+  },
+  {
+    "Towns": "Bridgnorth",
+    "PD": 83
+  },
+  {
+    "Towns": "North Shropshire",
+    "PD": 90
+  },
+  {
+    "Towns": "Oswestry",
+    "PD": 158
+  },
+  {
+    "Towns": "Shrewsbury & Atcham",
+    "PD": 160
+  },
+  {
+    "Towns": "South Shropshire",
+    "PD": 42
+  },
+  {
+    "Towns": "Mendip",
+    "PD": 147
+  },
+  {
+    "Towns": "Sedgemoor",
+    "PD": 200
+  },
+  {
+    "Towns": "South Somerset",
+    "PD": 165
+  },
+  {
+    "Towns": "Taunton Deane",
+    "PD": 237
+  },
+  {
+    "Towns": "West Somerset",
+    "PD": 49
+  },
+  {
+    "Towns": "Cannock Chase",
+    "PD": 1200
+  },
+  {
+    "Towns": "East Staffordshire",
+    "PD": 283
+  },
+  {
+    "Towns": "Lichfield",
+    "PD": 298
+  },
+  {
+    "Towns": "Newcastle-Under-Lyme",
+    "PD": 590
+  },
+  {
+    "Towns": "South Staffordshire",
+    "PD": 262
+  },
+  {
+    "Towns": "Stafford",
+    "PD": 211
+  },
+  {
+    "Towns": "Staffordshire Moorlands",
+    "PD": 166
+  },
+  {
+    "Towns": "Tamworth",
+    "PD": 2464
+  },
+  {
+    "Towns": "Babergh",
+    "PD": 144
+  },
+  {
+    "Towns": "Forest Heath",
+    "PD": 170
+  },
+  {
+    "Towns": "Ipswich",
+    "PD": 3254
+  },
+  {
+    "Towns": "Mid Suffolk",
+    "PD": 109
+  },
+  {
+    "Towns": "St Edmundsbury",
+    "PD": 159
+  },
+  {
+    "Towns": "Suffolk Coastal",
+    "PD": 139
+  },
+  {
+    "Towns": "Waveney",
+    "PD": 317
+  },
+  {
+    "Towns": "Elmbridge",
+    "PD": 1388
+  },
+  {
+    "Towns": "Epsom & Ewell",
+    "PD": 2180
+  },
+  {
+    "Towns": "Guildford",
+    "PD": 506
+  },
+  {
+    "Towns": "Mole Valley",
+    "PD": 328
+  },
+  {
+    "Towns": "Reigate & Banstead",
+    "PD": 1074
+  },
+  {
+    "Towns": "Runnymede",
+    "PD": 1101
+  },
+  {
+    "Towns": "Spelthorne",
+    "PD": 2081
+  },
+  {
+    "Towns": "Surrey Heath",
+    "PD": 889
+  },
+  {
+    "Towns": "Tandridge",
+    "PD": 335
+  },
+  {
+    "Towns": "Waverley",
+    "PD": 348
+  },
+  {
+    "Towns": "Woking",
+    "PD": 1470
+  },
+  {
+    "Towns": "North Warwickshire",
+    "PD": 218
+  },
+  {
+    "Towns": "Nuneaton & Bedworth",
+    "PD": 1547
+  },
+  {
+    "Towns": "Rugby",
+    "PD": 268
+  },
+  {
+    "Towns": "Stratford-On-Avon",
+    "PD": 122
+  },
+  {
+    "Towns": "Warwick",
+    "PD": 491
+  },
+  {
+    "Towns": "Adur",
+    "PD": 1474
+  },
+  {
+    "Towns": "Arun",
+    "PD": 682
+  },
+  {
+    "Towns": "Chichester",
+    "PD": 144
+  },
+  {
+    "Towns": "Crawley",
+    "PD": 2392
+  },
+  {
+    "Towns": "Horsham",
+    "PD": 247
+  },
+  {
+    "Towns": "Mid Sussex",
+    "PD": 397
+  },
+  {
+    "Towns": "Worthing",
+    "PD": 3176
+  },
+  {
+    "Towns": "Kennet",
+    "PD": 83
+  },
+  {
+    "Towns": "North Wiltshire",
+    "PD": 175
+  },
+  {
+    "Towns": "Salisbury",
+    "PD": 117
+  },
+  {
+    "Towns": "West Wiltshire",
+    "PD": 247
+  },
+  {
+    "Towns": "Bromsgrove",
+    "PD": 431
+  },
+  {
+    "Towns": "Malvern Hills",
+    "PD": 131
+  },
+  {
+    "Towns": "Redditch",
+    "PD": 1450
+  },
+  {
+    "Towns": "Worcester",
+    "PD": 2848
+  },
+  {
+    "Towns": "Wychavon",
+    "PD": 176
+  },
+  {
+    "Towns": "Wyre Forest",
+    "PD": 502
+  },
+  {
+    "Towns": "Aberdeen City",
+    "PD": 1108.47
+  },
+  {
+    "Towns": "Aberdeenshire",
+    "PD": 36.98
+  },
+  {
+    "Towns": "Angus",
+    "PD": 49.86
+  },
+  {
+    "Towns": "Argyll & Bute",
+    "PD": 13.15
+  },
+  {
+    "Towns": "Clackmannanshire",
+    "PD": 306.54
+  },
+  {
+    "Towns": "Dumfries & Galloway",
+    "PD": 23.08
+  },
+  {
+    "Towns": "Dundee City",
+    "PD": 2379.41
+  },
+  {
+    "Towns": "East Ayrshire",
+    "PD": 94.6
+  },
+  {
+    "Towns": "East Dunbartonshire",
+    "PD": 606.84
+  },
+  {
+    "Towns": "East Lothian",
+    "PD": 135.16
+  },
+  {
+    "Towns": "East Renfrewshire",
+    "PD": 515.56
+  },
+  {
+    "Towns": "Edinburgh, City of",
+    "PD": 1735.98
+  },
+  {
+    "Towns": "Eilean Siar",
+    "PD": 8.59
+  },
+  {
+    "Towns": "Falkirk",
+    "PD": 501.56
+  },
+  {
+    "Towns": "Fife",
+    "PD": 269.27
+  },
+  {
+    "Towns": "Glasgow City",
+    "PD": 3298.14
+  },
+  {
+    "Towns": "Highland",
+    "PD": 8.32
+  },
+  {
+    "Towns": "Inverclyde",
+    "PD": 511.84
+  },
+  {
+    "Towns": "Midlothian",
+    "PD": 223.9
+  },
+  {
+    "Towns": "Moray",
+    "PD": 38.7
+  },
+  {
+    "Towns": "North Ayrshire",
+    "PD": 153.41
+  },
+  {
+    "Towns": "North Lanarkshire",
+    "PD": 688.41
+  },
+  {
+    "Towns": "Orkney Islands",
+    "PD": 19.79
+  },
+  {
+    "Towns": "Perth & Kinross",
+    "PD": 26.22
+  },
+  {
+    "Towns": "Renfrewshire",
+    "PD": 651.12
+  },
+  {
+    "Towns": "Scottish Borders",
+    "PD": 23.19
+  },
+  {
+    "Towns": "Shetland Islands",
+    "PD": 15
+  },
+  {
+    "Towns": "South Ayrshire",
+    "PD": 91.47
+  },
+  {
+    "Towns": "South Lanarkshire",
+    "PD": 172.85
+  },
+  {
+    "Towns": "Stirling",
+    "PD": 39.74
+  },
+  {
+    "Towns": "West Dunbartonshire",
+    "PD": 575.2
+  },
+  {
+    "Towns": "West Lothian",
+    "PD": 383.26
+  },
+  {
+    "Towns": "Aghagallon",
+    "PD": 2940
+  },
+  {
+    "Towns": "Aghalee",
+    "PD": 2656
+  },
+  {
+    "Towns": "Ahoghill",
+    "PD": 3639
+  },
+  {
+    "Towns": "Annaghmore",
+    "PD": 1901
+  },
+  {
+    "Towns": "Annahilt",
+    "PD": 2595
+  },
+  {
+    "Towns": "Annalong",
+    "PD": 2197
+  },
+  {
+    "Towns": "Annsborough",
+    "PD": 1860
+  },
+  {
+    "Towns": "Antrim",
+    "PD": 1792
+  },
+  {
+    "Towns": "Ardboe",
+    "PD": 750
+  },
+  {
+    "Towns": "Ardglass",
+    "PD": 2096
+  },
+  {
+    "Towns": "Armagh",
+    "PD": 1436
+  },
+  {
+    "Towns": "Articlave",
+    "PD": 3367
+  },
+  {
+    "Towns": "Artigarvan",
+    "PD": 1282
+  },
+  {
+    "Towns": "Aughnacloy",
+    "PD": 1141
+  },
+  {
+    "Towns": "Ballinamallard",
+    "PD": 1114
+  },
+  {
+    "Towns": "Ballybogy",
+    "PD": 3896
+  },
+  {
+    "Towns": "Ballycarry",
+    "PD": 2008
+  },
+  {
+    "Towns": "Ballycastle",
+    "PD": 2201
+  },
+  {
+    "Towns": "Ballyclare",
+    "PD": 2009
+  },
+  {
+    "Towns": "Ballygalley",
+    "PD": 2173
+  },
+  {
+    "Towns": "Ballygawley",
+    "PD": 859
+  },
+  {
+    "Towns": "Ballygowan",
+    "PD": 3660
+  },
+  {
+    "Towns": "Ballyhalbert",
+    "PD": 2444
+  },
+  {
+    "Towns": "Ballyholland",
+    "PD": 3837
+  },
+  {
+    "Towns": "Ballykelly",
+    "PD": 2543
+  },
+  {
+    "Towns": "Ballymagorry",
+    "PD": 1345
+  },
+  {
+    "Towns": "Ballymartin",
+    "PD": 3063
+  },
+  {
+    "Towns": "Ballymena",
+    "PD": 1783
+  },
+  {
+    "Towns": "Ballymoney",
+    "PD": 2073
+  },
+  {
+    "Towns": "Ballynahinch",
+    "PD": 1552
+  },
+  {
+    "Towns": "Ballynure",
+    "PD": 3334
+  },
+  {
+    "Towns": "Ballyrobert",
+    "PD": 2715
+  },
+  {
+    "Towns": "Ballyronan",
+    "PD": 1637
+  },
+  {
+    "Towns": "Ballystrudder",
+    "PD": 3458
+  },
+  {
+    "Towns": "Ballywalter",
+    "PD": 3786
+  },
+  {
+    "Towns": "Balnamore",
+    "PD": 2709
+  },
+  {
+    "Towns": "Banbridge",
+    "PD": 2392
+  },
+  {
+    "Towns": "Bangor",
+    "PD": 3119
+  },
+  {
+    "Towns": "Holywell",
+    "PD": 758
+  },
+  {
+    "Towns": "Belfast City",
+    "PD": 3565
+  },
+  {
+    "Towns": "Bellaghy",
+    "PD": 2628
+  },
+  {
+    "Towns": "Bellanaleck",
+    "PD": 1120
+  },
+  {
+    "Towns": "Belleek",
+    "PD": 708
+  },
+  {
+    "Towns": "Bendooragh",
+    "PD": 3652
+  },
+  {
+    "Towns": "Beragh",
+    "PD": 919
+  },
+  {
+    "Towns": "Bessbrook",
+    "PD": 2544
+  },
+  {
+    "Towns": "Bleary",
+    "PD": 2017
+  },
+  {
+    "Towns": "Broughshane",
+    "PD": 2508
+  },
+  {
+    "Towns": "Bushmills",
+    "PD": 1401
+  },
+  {
+    "Towns": "Camlough",
+    "PD": 2200
+  },
+  {
+    "Towns": "Cargan",
+    "PD": 2514
+  },
+  {
+    "Towns": "Carnlough",
+    "PD": 2145
+  },
+  {
+    "Towns": "Carrickfergus",
+    "PD": 2287
+  },
+  {
+    "Towns": "Carrowdore",
+    "PD": 2339
+  },
+  {
+    "Towns": "Carryduff",
+    "PD": 2473
+  },
+  {
+    "Towns": "Castlecaulfield",
+    "PD": 933
+  },
+  {
+    "Towns": "Castledawson",
+    "PD": 2622
+  },
+  {
+    "Towns": "Castlederg",
+    "PD": 1623
+  },
+  {
+    "Towns": "Castlerock",
+    "PD": 2136
+  },
+  {
+    "Towns": "Castlewellan",
+    "PD": 3056
+  },
+  {
+    "Towns": "Clady",
+    "PD": 2601
+  },
+  {
+    "Towns": "Claudy",
+    "PD": 2170
+  },
+  {
+    "Towns": "Clogh Mills",
+    "PD": 3216
+  },
+  {
+    "Towns": "Clogher",
+    "PD": 962
+  },
+  {
+    "Towns": "Cloughey",
+    "PD": 2041
+  },
+  {
+    "Towns": "Coagh",
+    "PD": 1306
+  },
+  {
+    "Towns": "Coalisland",
+    "PD": 1421
+  },
+  {
+    "Towns": "Cogry / Kilbride",
+    "PD": 3731
+  },
+  {
+    "Towns": "Coleraine",
+    "PD": 1983
+  },
+  {
+    "Towns": "Comber",
+    "PD": 2592
+  },
+  {
+    "Towns": "Cookstown",
+    "PD": 1639
+  },
+  {
+    "Towns": "Craigavon",
+    "PD": 1705
+  },
+  {
+    "Towns": "Crawfordsburn",
+    "PD": 1522
+  },
+  {
+    "Towns": "Crossgar",
+    "PD": 2746
+  },
+  {
+    "Towns": "Crossmaglen",
+    "PD": 1906
+  },
+  {
+    "Towns": "Crumlin",
+    "PD": 4016
+  },
+  {
+    "Towns": "Cullybackey",
+    "PD": 2174
+  },
+  {
+    "Towns": "Culmore",
+    "PD": 2158
+  },
+  {
+    "Towns": "Cushendall",
+    "PD": 2316
+  },
+  {
+    "Towns": "Derry City",
+    "PD": 2450
+  },
+  {
+    "Towns": "Derrygonnelly",
+    "PD": 760
+  },
+  {
+    "Towns": "Derrylin",
+    "PD": 732
+  },
+  {
+    "Towns": "Derrymacash",
+    "PD": 2967
+  },
+  {
+    "Towns": "Dervock",
+    "PD": 2202
+  },
+  {
+    "Towns": "Doagh",
+    "PD": 2343
+  },
+  {
+    "Towns": "Dollingstown",
+    "PD": 2766
+  },
+  {
+    "Towns": "Donaghadee",
+    "PD": 2337
+  },
+  {
+    "Towns": "Donaghcloney",
+    "PD": 2517
+  },
+  {
+    "Towns": "Donaghmore",
+    "PD": 1256
+  },
+  {
+    "Towns": "Donemana",
+    "PD": 1008
+  },
+  {
+    "Towns": "Downpatrick",
+    "PD": 1625
+  },
+  {
+    "Towns": "Draperstown",
+    "PD": 1876
+  },
+  {
+    "Towns": "Dromara",
+    "PD": 2608
+  },
+  {
+    "Towns": "Dromore",
+    "PD": 2419
+  },
+  {
+    "Towns": "Drumaness",
+    "PD": 3180
+  },
+  {
+    "Towns": "Drumbeg",
+    "PD": 2354
+  },
+  {
+    "Towns": "Drumnacanvy",
+    "PD": 2002
+  },
+  {
+    "Towns": "Drumquin",
+    "PD": 1045
+  },
+  {
+    "Towns": "Dundrum",
+    "PD": 3327
+  },
+  {
+    "Towns": "Dungannon",
+    "PD": 1489
+  },
+  {
+    "Towns": "Dungiven",
+    "PD": 2400
+  },
+  {
+    "Towns": "Dunloy",
+    "PD": 2454
+  },
+  {
+    "Towns": "Ederney",
+    "PD": 789
+  },
+  {
+    "Towns": "Eglinton",
+    "PD": 3034
+  },
+  {
+    "Towns": "Enniskillen",
+    "PD": 1072
+  },
+  {
+    "Towns": "Feeny",
+    "PD": 2492
+  },
+  {
+    "Towns": "Fintona",
+    "PD": 708
+  },
+  {
+    "Towns": "Fivemiletown",
+    "PD": 924
+  },
+  {
+    "Towns": "Garvagh",
+    "PD": 1629
+  },
+  {
+    "Towns": "Gilford",
+    "PD": 1986
+  },
+  {
+    "Towns": "Glebe",
+    "PD": 2680
+  },
+  {
+    "Towns": "Glenarm",
+    "PD": 1060
+  },
+  {
+    "Towns": "Glenavy",
+    "PD": 2731
+  },
+  {
+    "Towns": "Glynn",
+    "PD": 1846
+  },
+  {
+    "Towns": "Greenisland",
+    "PD": 2734
+  },
+  {
+    "Towns": "Greyabbey",
+    "PD": 2990
+  },
+  {
+    "Towns": "Greysteel",
+    "PD": 2691
+  },
+  {
+    "Towns": "Groomsport",
+    "PD": 3015
+  },
+  {
+    "Towns": "Gulladuff",
+    "PD": 1900
+  },
+  {
+    "Towns": "Hamiltonsbawn",
+    "PD": 3829
+  },
+  {
+    "Towns": "Helen'S Bay",
+    "PD": 1857
+  },
+  {
+    "Towns": "Hillsborough And Culcavy",
+    "PD": 1848
+  },
+  {
+    "Towns": "Hilltown",
+    "PD": 2856
+  },
+  {
+    "Towns": "Holywood",
+    "PD": 1784
+  },
+  {
+    "Towns": "Irvinestown",
+    "PD": 1170
+  },
+  {
+    "Towns": "Keady",
+    "PD": 1560
+  },
+  {
+    "Towns": "Kells",
+    "PD": 3528
+  },
+  {
+    "Towns": "Kesh",
+    "PD": 1032
+  },
+  {
+    "Towns": "Kilkeel",
+    "PD": 2107
+  },
+  {
+    "Towns": "Killinchy",
+    "PD": 2365
+  },
+  {
+    "Towns": "Killough",
+    "PD": 2394
+  },
+  {
+    "Towns": "Killyleagh",
+    "PD": 3161
+  },
+  {
+    "Towns": "Killyman",
+    "PD": 1577
+  },
+  {
+    "Towns": "Kilrea",
+    "PD": 2054
+  },
+  {
+    "Towns": "Kinallen",
+    "PD": 2787
+  },
+  {
+    "Towns": "Kircubbin",
+    "PD": 3070
+  },
+  {
+    "Towns": "Larne",
+    "PD": 2035
+  },
+  {
+    "Towns": "Laurelvale",
+    "PD": 2148
+  },
+  {
+    "Towns": "Lawrencetown",
+    "PD": 2559
+  },
+  {
+    "Towns": "Lettershendoney",
+    "PD": 4215
+  },
+  {
+    "Towns": "Limavady",
+    "PD": 2641
+  },
+  {
+    "Towns": "Lisbellaw",
+    "PD": 1079
+  },
+  {
+    "Towns": "Lisburn City",
+    "PD": 2324
+  },
+  {
+    "Towns": "Lisnaskea",
+    "PD": 1050
+  },
+  {
+    "Towns": "Loughbrickland",
+    "PD": 1996
+  },
+  {
+    "Towns": "Lower Ballinderry",
+    "PD": 3896
+  },
+  {
+    "Towns": "Macosquin",
+    "PD": 2685
+  },
+  {
+    "Towns": "Maghaberry",
+    "PD": 3850
+  },
+  {
+    "Towns": "Maghera",
+    "PD": 2071
+  },
+  {
+    "Towns": "Magherafelt",
+    "PD": 1854
+  },
+  {
+    "Towns": "Magheralin",
+    "PD": 2085
+  },
+  {
+    "Towns": "Maguiresbridge",
+    "PD": 1521
+  },
+  {
+    "Towns": "Markethill",
+    "PD": 1866
+  },
+  {
+    "Towns": "Maydown",
+    "PD": 4549
+  },
+  {
+    "Towns": "Mayobridge",
+    "PD": 3004
+  },
+  {
+    "Towns": "Meigh",
+    "PD": 2949
+  },
+  {
+    "Towns": "Castlereagh",
+    "PD": 3117
+  },
+  {
+    "Towns": "Lisburn",
+    "PD": 3462
+  },
+  {
+    "Towns": "Newtownabbey",
+    "PD": 2326
+  },
+  {
+    "Towns": "Milford",
+    "PD": 3300
+  },
+  {
+    "Towns": "Millisle",
+    "PD": 3279
+  },
+  {
+    "Towns": "Milltown",
+    "PD": 4099
+  },
+  {
+    "Towns": "Moira",
+    "PD": 2691
+  },
+  {
+    "Towns": "Moneymore",
+    "PD": 1760
+  },
+  {
+    "Towns": "Moneyreagh",
+    "PD": 3730
+  },
+  {
+    "Towns": "Moortown",
+    "PD": 1106
+  },
+  {
+    "Towns": "Moy",
+    "PD": 1673
+  },
+  {
+    "Towns": "Mullaghbane",
+    "PD": 2404
+  },
+  {
+    "Towns": "Newbuildings",
+    "PD": 2526
+  },
+  {
+    "Towns": "Newcastle",
+    "PD": 2290
+  },
+  {
+    "Towns": "Newmills",
+    "PD": 1099
+  },
+  {
+    "Towns": "Newry",
+    "PD": 1917
+  },
+  {
+    "Towns": "Newtownards",
+    "PD": 2474
+  },
+  {
+    "Towns": "Newtownbutler",
+    "PD": 1030
+  },
+  {
+    "Towns": "Newtownhamilton",
+    "PD": 1644
+  },
+  {
+    "Towns": "Newtownstewart",
+    "PD": 1497
+  },
+  {
+    "Towns": "Omagh",
+    "PD": 1199
+  },
+  {
+    "Towns": "Park",
+    "PD": 2550
+  },
+  {
+    "Towns": "Parkgate",
+    "PD": 2976
+  },
+  {
+    "Towns": "Pomeroy",
+    "PD": 1100
+  },
+  {
+    "Towns": "Portaferry",
+    "PD": 2694
+  },
+  {
+    "Towns": "Portavogie",
+    "PD": 2316
+  },
+  {
+    "Towns": "Portballintrae",
+    "PD": 1406
+  },
+  {
+    "Towns": "Portglenone",
+    "PD": 1894
+  },
+  {
+    "Towns": "Portrush",
+    "PD": 2511
+  },
+  {
+    "Towns": "Portstewart",
+    "PD": 2574
+  },
+  {
+    "Towns": "Poyntzpass",
+    "PD": 1581
+  },
+  {
+    "Towns": "Randalstown",
+    "PD": 2714
+  },
+  {
+    "Towns": "Rasharkin",
+    "PD": 2807
+  },
+  {
+    "Towns": "Rathfriland",
+    "PD": 2968
+  },
+  {
+    "Towns": "Ravernet",
+    "PD": 3303
+  },
+  {
+    "Towns": "Richhill",
+    "PD": 2737
+  },
+  {
+    "Towns": "Rosslea",
+    "PD": 677
+  },
+  {
+    "Towns": "Rostrevor",
+    "PD": 2606
+  },
+  {
+    "Towns": "Saintfield",
+    "PD": 2385
+  },
+  {
+    "Towns": "Scotch Street",
+    "PD": 2025
+  },
+  {
+    "Towns": "Seahill",
+    "PD": 1785
+  },
+  {
+    "Towns": "Sion Mills",
+    "PD": 1946
+  },
+  {
+    "Towns": "Stewartstown",
+    "PD": 1603
+  },
+  {
+    "Towns": "Stoneyford",
+    "PD": 3468
+  },
+  {
+    "Towns": "Strabane",
+    "PD": 2242
+  },
+  {
+    "Towns": "Strathfoyle",
+    "PD": 4069
+  },
+  {
+    "Towns": "Tandragee",
+    "PD": 2345
+  },
+  {
+    "Towns": "Templepatrick",
+    "PD": 2106
+  },
+  {
+    "Towns": "The Spa",
+    "PD": 1546
+  },
+  {
+    "Towns": "Tobermore",
+    "PD": 1410
+  },
+  {
+    "Towns": "Toome",
+    "PD": 1336
+  },
+  {
+    "Towns": "Upperlands",
+    "PD": 2159
+  },
+  {
+    "Towns": "Waringstown",
+    "PD": 2812
+  },
+  {
+    "Towns": "Burren",
+    "PD": 2446
+  },
+  {
+    "Towns": "Waterfoot",
+    "PD": 3415
+  },
+  {
+    "Towns": "Whitehead",
+    "PD": 3176
+  }
+]

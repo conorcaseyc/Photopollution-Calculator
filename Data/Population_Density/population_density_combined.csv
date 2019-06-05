@@ -1,0 +1,831 @@
+Towns,PD
+,
+Dublin City,3677.5
+Galway City,1475.2
+Cork City,3300
+Limerick City,1591.2
+Waterford City,1107.5
+Drogheda,2776.6
+Swords,3791.7
+Dundalk,1651
+Bray,4035.7
+Navan,2332.8
+Kilkenny,2115.9
+Ennis,1286.6
+Carlow,2063.4
+Tralee,1260.6
+Droichead Nua,2578.2
+Portlaoise,1829.3
+Balbriggan,4514.1
+Naas,2567.7
+Athlone,1338.8
+Mullingar,1575
+Celbridge,3463.5
+Wexford,998
+Letterkenny,1240
+Sligo,1858.5
+Greystones,2036.6
+Clonmel,1636.4
+Malahide,2850.3
+Carrigaline,3430.1
+Leixlip,3138.9
+Tullamore,1101.5
+Maynooth,2818.8
+Killarney,1796.3
+Arklow,2492.5
+Cobh,2521.9
+Ashbourne,3847.6
+Midleton,1611.6
+Mallow,1517.9
+Castlebar,1534.8
+Laytown-Bettystown-Mornington,2062.5
+Enniscorthy,1977.2
+Cavan,1337.3
+Wicklow,2015.2
+Tramore,1799.5
+Ballina,1508.9
+Skerries,3101.4
+Longford,1387.3
+Rush,1699.5
+Gorey,1856
+Shannon,1387.5
+Athy,1557.5
+Ratoath,3254.8
+Portmarnock,2587.3
+Dungarvan,2050.7
+Trim,1652.3
+Nenagh,1453.3
+Tuam,1354.4
+Kildare,2781.4
+Portarlington,1980.4
+New Ross,1311.6
+Youghal,1562.7
+Thurles,1151.3
+Lusk,4052
+Monaghan,1146.1
+Donabate,3858.3
+Edenderry,1724.6
+Clane,2483.7
+Dunboyne,3563.8
+Bandon,1694.3
+Buncrana,821.9
+Ballinasloe,773.8
+Kinsealy-Drinan,5830.3
+Newcastle West,1423.6
+Fermoy,1428.1
+Westport,798.1
+Kells,2197.7
+Kilcock,3406.3
+Roscommon,644.8
+Sallins,3883.5
+Passage West,1053.6
+Carrick-on-Suir,1779.9
+Loughrea,1344
+Blessington,3139.7
+Roscrea,895.7
+Kinsale,1229.3
+Carrigtwohill,3303.9
+Carrickmacross,1362.2
+Oranmore,2016.3
+Tipperary,1205.4
+Ardee,1921.5
+Ballybofey-Stranorlar,932.1
+Listowel,889.8
+Mountmellick,1569.7
+Tullow,1057.3
+Clonakilty,1337.8
+Athenry,1623.6
+Cashel,1665.6
+Birr,1329.5
+Rathcoole,3120.7
+Monasterevin,1235.2
+Kilcoole,2438.2
+Duleek,2329.5
+Carrick-on-Shannon,999.9
+Dunshaughlin,2251.1
+Rathluirc,1266.9
+Macroom,1230.3
+Mitchelstown,1323.5
+Kilcullen,1964.8
+Claremorris,1111.3
+Castleblayney,1348.6
+Cahir,1351.3
+Courtown Harbour,1091
+Tower,1740.3
+Rathnew,2896.5
+Stamullen,3627.6
+Kill,2995.1
+Clara,859.6
+Enfield,2506.3
+Saggart,3274.4
+Newcastle,1451.6
+Gort,871.3
+Annacotty,1851.7
+Muinebeag,862.9
+Newtownmountkennedy,1539.3
+Ballinrobe,1087.7
+Skibbereen,892.2
+Moate,1422.7
+Kinnegad,2739.9
+Bantry,1179
+Kilrush,821.6
+Bailieborough,649.6
+Ballyjamesduff,1574.4
+Virginia,1328.8
+Ballina (North Tipperary),1170
+Sixmilebridge,2114.2
+Donegal,891.4
+Rathangan,1007.7
+Crosshaven,1273.6
+Boyle,679.8
+Blarney,1370.8
+Kingscourt,1495.7
+Castleisland,731.9
+Callan,1188.9
+Carndonagh,505.8
+Thomastown,739.2
+Athboy,1798
+Kenmare,768.5
+Ballyhaunis,969.1
+Kanturk,753.2
+Prosperous,1707.8
+Ballyshannon,790.4
+Killorglin,923.9
+Clogherhead,1473.9
+Baltinglass,800.4
+Castleconnell,1296.6
+Edgeworthstown,1514.1
+Dingle,620.4
+Abbeyfeale,1069.2
+Balrothery,3786.7
+Bearna,1057.6
+Newport Ireland,1345.4
+Castlerea,868.9
+Tubbercurry,877.6
+Bunclody-Carrickduff,1096.4
+Bundoran,586.6
+Templemore,875.9
+Enniskerry,1013.2
+Ballymahon,1140.9
+Cootehill,1002.4
+Castlebridge,919.1
+Dunleer,1168.2
+Ballivor,1855.3
+Ballaghaderreen,852.1
+Dunmore East,912
+Cloyne,1909.7
+Newmarket-on-Fergus,1122.8
+Mountrath,1024.7
+Abbeyleix,548.6
+Rathcormac,2069.4
+Banagher,961.1
+Strandhill,1517.4
+Portlaw,1757.8
+Moycullen,1243.5
+Clones,878.5
+Kilmallock,827.2
+Rathdrum,1364.1
+Dunmanway,910.9
+Lifford,1347
+Rosslare,663.4
+Collooney,1325.3
+Derrinturn,1062.3
+Castlemartyr,2115.4
+Clifden,674.1
+Longwood,2509
+Termonfeckin,1357.7
+Millstreet,762.5
+Ballymote,969.6
+Tullyallen,1770.3
+Fethard,1016.5
+Convoy,1030.6
+Castlecomer-Donaguile,980.7
+Tallow,1064
+Ballymacarbry,748.5
+Watergrasshill,1892
+Lismore,1254
+Tarbert,658
+Adare,1292
+Rural Areas,21.7
+Hartlepool,973
+Middlesbrough,2643
+Redcar & Cleveland,561
+Stockton-On-Tees,944
+Darlington,511
+Halton,1508
+Warrington,1101
+Blackburn With Darwen,1022
+Blackpool,4009
+Kingston Upon Hull,3694
+East Riding Of Yorkshire,141
+North East Lincolnshire,820
+North Lincolnshire,191
+York,744
+Derby,3164
+Leicester,4182
+Rutland,101
+Nottingham,4111
+Herefordshire,82
+Telford And Wrekin,560
+Stoke-On-Trent,2569
+Bath & North East Somerset,520
+Bristol,4026
+North Somerset,568
+South Gloucestershire,533
+Plymouth,3243
+Torbay,2135
+Bournemouth,3641
+Poole,2195
+Swindon,877
+Peterborough,505
+Luton,4585
+Southend,3959
+Thurrock,977
+Medway,1337
+Bracknell Forest,1065
+West Berkshire,219
+Reading,3818
+Slough,4029
+Windsor And Maidenhead,744
+Wokingham,912
+Milton Keynes,782
+Brighton And Hove,3130
+Portsmouth,5146
+Southampton,4810
+Isle Of Wight,370
+Isle Of Anglesey,96
+Gwynedd,47
+Conwy,98
+Denbighshire,116
+Flintshire,342
+Wrexham,265
+Powys,25
+Ceredigion,43
+Pembrokeshire,72
+Carmarthenshire,76
+Swansea,615
+Neath Port Talbot,311
+Bridgend,537
+The Vale Of Glamorgan,378
+Cardiff,2436
+Cynon,552
+Taff,552
+Rhondda,552
+Merthyr Tydfil,503
+Caerphilly,625
+Blaenau Gwent,629
+Torfaen,721
+Monmouthshire,104
+Newport,742
+City Of London,4029
+Barking & Dagenham,4980
+Barnet,4014
+Bexley,3764
+Brent,5934
+Bromley,2080
+Camden,10798
+Croydon,3994
+Ealing,5736
+Enfield,3648
+Greenwich,4826
+Hackney,11499
+Hammersmith & Fulham,10345
+Haringey,7605
+Harrow,4558
+Havering,2103
+Hillingdon,2300
+Hounslow,4229
+Islington,13061
+Kensington & Chelsea,13973
+Kingston Upon Thames,4536
+Lambeth,10606
+Lewisham,7580
+Merton,5552
+Newham,6629
+Redbridge,4795
+Richmond Upon Thames,3325
+Southwark,9948
+Sutton,4429
+Tower Hamlets,12034
+Waltham Forest,5852
+Wandsworth,8451
+Westminster,11784
+Bolton,1906
+Bury,1847
+Manchester,4313
+Oldham,1544
+Rochdale,1298
+Salford,2356
+Stockport,2258
+Tameside,2102
+Trafford,2049
+Wigan,1634
+Knowsley,1724
+Liverpool,3981
+St Helens,1300
+Sefton,1782
+Wirral,1966
+Barnsley,692
+Doncaster,512
+Rotherham,889
+Sheffield,1510
+Gateshead,1347
+Newcastle Upon Tyne,2576
+North Tyneside,2409
+South Tyneside,2386
+Sunderland,2063
+Birmingham,3872
+Coventry,3201
+Dudley,3138
+Sandwell,3421
+Solihull,1156
+Walsall,2471
+Wolverhampton,3447
+Bradford,1399
+Calderdale,557
+Kirklees,1003
+Leeds,1448
+Wakefield,961
+Mid Bedfordshire,271
+Bedford,338
+South Bedfordshire,558
+Aylesbury Vale,193
+Chiltern,465
+South Bucks,478
+Wycombe,508
+Cambridge,3089
+East Cambridgeshire,130
+Fenland,168
+Huntingdonshire,185
+South Cambridgeshire,162
+Chester,266
+Congleton,436
+Crewe & Nantwich,277
+Ellesmere Port & Neston,912
+Macclesfield,291
+Vale Royal,335
+Caradon,127
+Carrick,204
+Kerrier,214
+North Cornwall,73
+Penwith,212
+Restormel,231
+Isles Of Scilly,129
+Allerdale,76
+Barrow-In-Furness,906
+Carlisle,101
+Copeland,95
+Eden,24
+South Lakeland,68
+Amber Valley,458
+Bolsover,465
+Chesterfield,1530
+Derbyshire Dales,89
+Erewash,1015
+High Peak,172
+North East Derbyshire,357
+South Derbyshire,278
+East Devon,163
+Exeter,2544
+Mid Devon,83
+North Devon,84
+South Hams,94
+Teignbridge,189
+Torridge,67
+West Devon,46
+Christchurch,939
+East Dorset,248
+North Dorset,105
+Purbeck,112
+West Dorset,89
+Weymouth & Portland,1522
+Chester-Le-Street,787
+Derwentside,329
+Durham,525
+Easington,662
+Sedgefield,399
+Teesdale,29
+Wear Valley,126
+Eastbourne,2196
+Hastings,2933
+Lewes,334
+Rother,176
+Wealden,173
+Basildon,1592
+Braintree,235
+Brentwood,488
+Castle Point,1984
+Chelmsford,500
+Colchester,550
+Epping Forest,368
+Harlow,2674
+Maldon,176
+Rochford,492
+Tendring,440
+Uttlesford,121
+Cheltenham,2472
+Cotswold,72
+Forest Of Dean,157
+Gloucester,2922
+Stroud,243
+Tewkesbury,197
+Basingstoke & Deane,261
+East Hampshire,219
+Eastleigh,1534
+Fareham,1510
+Gosport,3159
+Hart,424
+Havant,2110
+New Forest,235
+Rushmoor,2356
+Test Valley,181
+Winchester,173
+Broxbourne,1762
+Dacorum,672
+East Hertfordshire,291
+Hertsmere,988
+North Hertfordshire,335
+St Albans,861
+Stevenage,3149
+Three Rivers,1001
+Watford,4014
+Welwyn Hatfield,883
+Ashford,199
+Canterbury,496
+Dartford,1299
+Dover,340
+Gravesham,1005
+Maidstone,381
+Sevenoaks,309
+Shepway,284
+Swale,357
+Thanet,1279
+Tonbridge & Malling,495
+Tunbridge Wells,326
+Burnley,771
+Chorley,520
+Fylde,463
+Hyndburn,1111
+Lancaster,245
+Pendle,527
+Preston,949
+Ribble Valley,99
+Rossendale,488
+South Ribble,959
+West Lancashire,318
+Wyre,394
+Blaby,721
+Charnwood,598
+Harborough,142
+Hinckley & Bosworth,353
+Melton,103
+North West Leicestershire,325
+Oadby & Wigston,2489
+Boston,163
+East Lindsey,80
+Lincoln,2513
+North Kesteven,115
+South Holland,114
+South Kesteven,140
+West Lindsey,77
+Breckland,100
+Broadland,224
+Great Yarmouth,559
+Kings Lynn & West Norfolk,101
+North Norfolk,105
+Norwich,3677
+South Norfolk,134
+Corby,695
+Daventry,119
+East Northamptonshire,167
+Kettering,388
+Northampton,2627
+South Northamptonshire,140
+Wellingborough,465
+Alnwick,30
+Berwick-Upon-Tweed,27
+Blyth Valley,1152
+Castle Morpeth,82
+Tynedale,27
+Wansbeck,931
+Craven,47
+Hambleton,67
+Harrogate,121
+Richmondshire,40
+Ryedale,36
+Scarborough,133
+Selby,138
+Ashfield,1068
+Bassetlaw,175
+Broxtowe,1396
+Gedling,943
+Mansfield,1299
+Newark & Sherwood,174
+Rushcliffe,276
+Cherwell,239
+Oxford,3370
+South Oxfordshire,193
+Vale Of White Horse,207
+West Oxfordshire,145
+Bridgnorth,83
+North Shropshire,90
+Oswestry,158
+Shrewsbury & Atcham,160
+South Shropshire,42
+Mendip,147
+Sedgemoor,200
+South Somerset,165
+Taunton Deane,237
+West Somerset,49
+Cannock Chase,1200
+East Staffordshire,283
+Lichfield,298
+Newcastle-Under-Lyme,590
+South Staffordshire,262
+Stafford,211
+Staffordshire Moorlands,166
+Tamworth,2464
+Babergh,144
+Forest Heath,170
+Ipswich,3254
+Mid Suffolk,109
+St Edmundsbury,159
+Suffolk Coastal,139
+Waveney,317
+Elmbridge,1388
+Epsom & Ewell,2180
+Guildford,506
+Mole Valley,328
+Reigate & Banstead,1074
+Runnymede,1101
+Spelthorne,2081
+Surrey Heath,889
+Tandridge,335
+Waverley,348
+Woking,1470
+North Warwickshire,218
+Nuneaton & Bedworth,1547
+Rugby,268
+Stratford-On-Avon,122
+Warwick,491
+Adur,1474
+Arun,682
+Chichester,144
+Crawley,2392
+Horsham,247
+Mid Sussex,397
+Worthing,3176
+Kennet,83
+North Wiltshire,175
+Salisbury,117
+West Wiltshire,247
+Bromsgrove,431
+Malvern Hills,131
+Redditch,1450
+Worcester,2848
+Wychavon,176
+Wyre Forest,502
+Aberdeen City,1108.47
+Aberdeenshire,36.98
+Angus,49.86
+Argyll & Bute,13.15
+Clackmannanshire,306.54
+Dumfries & Galloway,23.08
+Dundee City,2379.41
+East Ayrshire,94.6
+East Dunbartonshire,606.84
+East Lothian,135.16
+East Renfrewshire,515.56
+"Edinburgh, City of",1735.98
+Eilean Siar,8.59
+Falkirk,501.56
+Fife,269.27
+Glasgow City,3298.14
+Highland,8.32
+Inverclyde,511.84
+Midlothian,223.9
+Moray,38.7
+North Ayrshire,153.41
+North Lanarkshire,688.41
+Orkney Islands,19.79
+Perth & Kinross,26.22
+Renfrewshire,651.12
+Scottish Borders,23.19
+Shetland Islands,15
+South Ayrshire,91.47
+South Lanarkshire,172.85
+Stirling,39.74
+West Dunbartonshire,575.2
+West Lothian,383.26
+Aghagallon,2940
+Aghalee,2656
+Ahoghill,3639
+Annaghmore,1901
+Annahilt,2595
+Annalong,2197
+Annsborough,1860
+Antrim,1792
+Ardboe,750
+Ardglass,2096
+Armagh,1436
+Articlave,3367
+Artigarvan,1282
+Aughnacloy,1141
+Ballinamallard,1114
+Ballybogy,3896
+Ballycarry,2008
+Ballycastle,2201
+Ballyclare,2009
+Ballygalley,2173
+Ballygawley,859
+Ballygowan,3660
+Ballyhalbert,2444
+Ballyholland,3837
+Ballykelly,2543
+Ballymagorry,1345
+Ballymartin,3063
+Ballymena,1783
+Ballymoney,2073
+Ballynahinch,1552
+Ballynure,3334
+Ballyrobert,2715
+Ballyronan,1637
+Ballystrudder,3458
+Ballywalter,3786
+Balnamore,2709
+Banbridge,2392
+Bangor,3119
+Holywell,758
+Belfast City,3565
+Bellaghy,2628
+Bellanaleck,1120
+Belleek,708
+Bendooragh,3652
+Beragh,919
+Bessbrook,2544
+Bleary,2017
+Broughshane,2508
+Bushmills,1401
+Camlough,2200
+Cargan,2514
+Carnlough,2145
+Carrickfergus,2287
+Carrowdore,2339
+Carryduff,2473
+Castlecaulfield,933
+Castledawson,2622
+Castlederg,1623
+Castlerock,2136
+Castlewellan,3056
+Clady,2601
+Claudy,2170
+Clogh Mills,3216
+Clogher,962
+Cloughey,2041
+Coagh,1306
+Coalisland,1421
+Cogry / Kilbride,3731
+Coleraine,1983
+Comber,2592
+Cookstown,1639
+Craigavon,1705
+Crawfordsburn,1522
+Crossgar,2746
+Crossmaglen,1906
+Crumlin,4016
+Cullybackey,2174
+Culmore,2158
+Cushendall,2316
+Derry City,2450
+Derrygonnelly,760
+Derrylin,732
+Derrymacash,2967
+Dervock,2202
+Doagh,2343
+Dollingstown,2766
+Donaghadee,2337
+Donaghcloney,2517
+Donaghmore,1256
+Donemana,1008
+Downpatrick,1625
+Draperstown,1876
+Dromara,2608
+Dromore,2419
+Drumaness,3180
+Drumbeg,2354
+Drumnacanvy,2002
+Drumquin,1045
+Dundrum,3327
+Dungannon,1489
+Dungiven,2400
+Dunloy,2454
+Ederney,789
+Eglinton,3034
+Enniskillen,1072
+Feeny,2492
+Fintona,708
+Fivemiletown,924
+Garvagh,1629
+Gilford,1986
+Glebe,2680
+Glenarm,1060
+Glenavy,2731
+Glynn,1846
+Greenisland,2734
+Greyabbey,2990
+Greysteel,2691
+Groomsport,3015
+Gulladuff,1900
+Hamiltonsbawn,3829
+Helen'S Bay,1857
+Hillsborough And Culcavy,1848
+Hilltown,2856
+Holywood,1784
+Irvinestown,1170
+Keady,1560
+Kells,3528
+Kesh,1032
+Kilkeel,2107
+Killinchy,2365
+Killough,2394
+Killyleagh,3161
+Killyman,1577
+Kilrea,2054
+Kinallen,2787
+Kircubbin,3070
+Larne,2035
+Laurelvale,2148
+Lawrencetown,2559
+Lettershendoney,4215
+Limavady,2641
+Lisbellaw,1079
+Lisburn City,2324
+Lisnaskea,1050
+Loughbrickland,1996
+Lower Ballinderry,3896
+Macosquin,2685
+Maghaberry,3850
+Maghera ,2071
+Magherafelt,1854
+Magheralin,2085
+Maguiresbridge,1521
+Markethill,1866
+Maydown,4549
+Mayobridge,3004
+Meigh,2949
+Castlereagh,3117
+Lisburn,3462
+Newtownabbey,2326
+Milford,3300
+Millisle,3279
+Milltown,4099
+Moira,2691
+Moneymore,1760
+Moneyreagh,3730
+Moortown,1106
+Moy,1673
+Mullaghbane,2404
+Newbuildings,2526
+Newcastle,2290
+Newmills,1099
+Newry,1917
+Newtownards,2474
+Newtownbutler,1030
+Newtownhamilton,1644
+Newtownstewart,1497
+Omagh,1199
+Park,2550
+Parkgate,2976
+Pomeroy,1100
+Portaferry,2694
+Portavogie,2316
+Portballintrae,1406
+Portglenone,1894
+Portrush,2511
+Portstewart,2574
+Poyntzpass,1581
+Randalstown,2714
+Rasharkin,2807
+Rathfriland,2968
+Ravernet,3303
+Richhill,2737
+Rosslea,677
+Rostrevor,2606
+Saintfield,2385
+Scotch Street,2025
+Seahill,1785
+Sion Mills,1946
+Stewartstown,1603
+Stoneyford,3468
+Strabane,2242
+Strathfoyle,4069
+Tandragee,2345
+Templepatrick,2106
+The Spa,1546
+Tobermore,1410
+Toome,1336
+Upperlands,2159
+Waringstown,2812
+Burren,2446
+Waterfoot,3415
+Whitehead,3176
