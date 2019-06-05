@@ -29,11 +29,11 @@ If you have any problems, please [email me.](mailto:16ccasey@student.kenmarecs.c
 
 > Where did the population density for the towns come from?
 
-They came from the Irish 2016 Census, and as a result are provided by the Central Statistics Office.
+All of the population density figures were provided by the Central Statistics Office, the Northern Ireland Statistics and Research Agency, the Office for National Statistics, and the National Records for Scotland.
 
 > Why does the program crash when I enter a town name into the program?
 
-This is most likely due to the fact that you entered a town that is not included in the Central Statistics Office database for population density. There is also a probability you typed "license", "quit", or "help" into the section where you are asked to input a town name. These options can only be accessed when you are prompted "Is the name of the town being entered:".
+This is most likely due to the fact that you entered a town that is not included in the population density database, which is a combination of files from the Central Statistics Office, the Northern Ireland Statistics and Research Agency, the Office for National Statistics, and the National Records for Scotland. There is also a probability you typed "license", "quit", or "help" into the section where you are asked to input a town name. These options can only be accessed when you are prompted "Is the name of the town being entered:".
   
 > How do I open the files in the Map Data folder
 

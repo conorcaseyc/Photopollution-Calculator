@@ -7,14 +7,11 @@ Don't know how to use the program? Type "help" for support.
 To get a history of the updates released for this program, type "updates"
 To exit the program, type 'quit'.
 
-Current Edition: v3.0.0""")
+Current Edition: v4.0.0""")
 
 def main():
-	#Imports Population Density Data from the Central Statistics Office
 	import pandas as pd
 	import math
-	pd_filename = 'Data/Population_Density/populationdensitycensustowns.csv'
-	pd_data = pd.read_csv(pd_filename)
 
 	place_town = input("""
 Is the name of the town being entered: """).lower()
@@ -57,6 +54,8 @@ Enter the Population Density: """)
 			
 	#If A Town Is Entered
 	elif place_town == "yes":	
+		pd_filename = 'Data/Population_Density/population_density_combined.csv'
+		pd_data = pd.read_csv(pd_filename)
 		towns = input("""
 Please input the name of the town: """).title()
 		town = pd_data[pd_data.Towns.isin([towns])]
@@ -91,8 +90,8 @@ Please input the name of the town: """).title()
 
 	#Result/Output
 	print("""
-Photopollution in this location is approximately """ + str(round(sqm, 2)) + " mags / arcsec^2, this should" + """
-correlate to""" + conditions())
+Photopollution in this location is approximately """ + str(round(sqm, 2)) + " mags / arcsec^2, this" + """
+should correlate to""" + conditions())
 
 	#Restarts Program
 	restart = input("""
